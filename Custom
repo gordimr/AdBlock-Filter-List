@@ -1,9 +1,10 @@
 [Adblock Plus 2.0]
-! Version: 02.02.2021
+! Version: 03.02.2021
 ! Title: Custom AdBlock Filter
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+myanimelist.net##DIV[class="banner-header-anime-straming"]
 4pda.ru##DIV[class="activeusers"]
 4pda.ru##DIV[class="copyright"]
 4pda.ru##DIV[id="go_1"]
