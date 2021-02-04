@@ -4,6 +4,26 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+www.soulreaperzone.com##.td-container-wrap.td-sub-footer-container
+www.soulreaperzone.com##div.col-xs-12:nth-of-type(6)
+linkdrop.net##.text-left
+linkdrop.net###cookie-pop
+linkdrop.net##.copyright-container
+sznlink.xyz##.footer-sml-layout-2.ast-small-footer
+aii.sh##.text-left
+aii.sh##.copyright-container
+linkdrop.net##.short-link
+bitfly.io##.text-left
+bitfly.io###cookie-pop
+bitfly.io##.copyright-container
+genpassword.top##.text-left
+genpassword.top##div > div > input
+genpassword.top##.copyright-container
+www.mirrored.to##footer
+shurt.pw##.text-left
+shurt.pw##footer
+deportealdia.live##.row > .container > .row > .col-md-offset-1.col-md-10
+deportealdia.live##div.container:nth-of-type(2)
 www.aliexpress.com##DIV[class="hot-words"]
 myanimelist.net##A[href="https://sc.myanimelist.net?utm_source=myanimelist&utm_medium=banner&utm_content=topminibanner2"]
 myanimelist.net##DIV[class="banner-header-anime-straming"]
