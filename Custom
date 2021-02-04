@@ -4,6 +4,7 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+www.aliexpress.com##DIV[class="hot-words"]
 myanimelist.net##A[href="https://sc.myanimelist.net?utm_source=myanimelist&utm_medium=banner&utm_content=topminibanner2"]
 myanimelist.net##DIV[class="banner-header-anime-straming"]
 4pda.ru##DIV[class="activeusers"]
