@@ -4,3 +4,27 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-02-05 https://www.tvtime.com
+www.tvtime.com###get-the-app
+www.tvtime.com##.social
+
+! 2021-02-05 https://www.amazon.com
+www.amazon.com##.a-padding-base.a-box-inner
+www.amazon.com##.navFooterDescLine.navFooterLinkLine.navFooterLine
+www.amazon.com###rhf-shoveler
+www.amazon.com###rhf-container
+www.amazon.com##.navFooterCopyright.navFooterPadItemLine.navFooterLinkLine.navFooterLine
+www.amazon.com##div.navFooterPadItemLine.navFooterLinkLine.navFooterLine:nth-of-type(3)
+www.amazon.com##.nav-sprite-v1.navLeftFooter
+www.amazon.com###recsWidget > .a-spacing-large.a-section
+www.amazon.com##.a-padding-base.a-section
+www.amazon.com##.a-spacing-large.a-section
+www.amazon.com###bottom
+www.amazon.com###valuePick_feature_div
+www.amazon.com###certifiedRefurbishedVersion_feature_div
+www.amazon.com##div.celwidget:nth-of-type(45)
+www.amazon.com###moreBuyingChoices_feature_div
+www.amazon.com##.amazonlive-widget-padding
+
+! 2021-02-05 https://www.tvtime.com
+www.tvtime.com##.credits > p
