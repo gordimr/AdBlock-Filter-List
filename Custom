@@ -4,6 +4,17 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-02-05 https://github.com
+github.com##.p-responsive.width-full.container-xl.footer
+
+! 2021-02-05 https://rarbgto.org
+rarbgto.org##div:nth-of-type(4)
+rarbgto.org##div:nth-of-type(3)
+rarbgto.org##div:nth-of-type(2)
+rarbgto.org##tr:nth-of-type(19)
+rarbgto.org##tr:nth-of-type(8)
+rarbgto.org##tr:nth-of-type(20)
+
 ! 2021-02-05 https://www.tvtime.com
 www.tvtime.com###get-the-app
 www.tvtime.com##.social
