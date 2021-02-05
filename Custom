@@ -4,6 +4,35 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-02-04 https://www.tgspot.co.il
+www.tgspot.co.il##.mrf-homeAnchor.mrf-adDensityBodySentinel.mrf-sectionPart
+www.tgspot.co.il##.mrf-scrollViewContainer.mrf-item-related-links.mrf-sectionPreview
+www.tgspot.co.il##.td-post-source-tags
+www.tgspot.co.il##[href="https://t.me/tgspotcoil"]
+www.tgspot.co.il##.mrf-todayInHome
+
+! 2021-02-05 https://www.reviewgeek.com
+www.reviewgeek.com##.amp-wp-tax-tag
+www.reviewgeek.com##.logo
+www.reviewgeek.com##.container
+www.reviewgeek.com##.copyright
+www.reviewgeek.com##.site-footer
+
+! 2021-02-05 https://theverifier.co.il
+theverifier.co.il##.jeg_post_tags
+theverifier.co.il##.clearfix.jeg_footer_primary
+theverifier.co.il##.col-md-4.jeg_sticky_sidebar.jeg_sidebar
+
+! 2021-02-05 https://m.ynet.co.il
+m.ynet.co.il###share-icons-wrapper-android
+
+! 2021-02-05 https://newmedia.calcalist.co.il
+newmedia.calcalist.co.il##.hafnaya-sof
+newmedia.calcalist.co.il##.footer-symbol-2
+
+! 2021-02-05 https://m.ynet.co.il
+m.ynet.co.il##ul
+m.ynet.co.il##p:nth-of-type(2)
 ! 2021-02-05 https://github.com
 github.com##.p-responsive.width-full.container-xl.footer
 
