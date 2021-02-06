@@ -4,6 +4,7 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+www.ynet.co.il##div.rtl.text_editor_paragraph:nth-of-type(2)
 github.com##.p-responsive.width-full.container-xl.footer
 ksp.co.il###footersnifim
 ksp.co.il###fotAd
