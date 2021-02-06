@@ -4,6 +4,17 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-02-06 https://anidb.net
+anidb.net###layout-footer
+
+! 2021-02-06 https://www.gametracker.com
+www.gametracker.com##.page_content > .item_float_right > [href]
+www.gametracker.com##.sitefooter.blocknew980.blocknew
+www.gametracker.com##.blocknewnopad.blocknew162.blocknew
+www.gametracker.com##.blocknewnopad.blocknew666.blocknew
+www.gametracker.com##.blocknewnopad.blocknew302.blocknew
+
+
 ! 2021-02-06 https://www.bconnect.co.il
 www.bconnect.co.il##.footer-box
 
