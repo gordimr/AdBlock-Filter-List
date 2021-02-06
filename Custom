@@ -4,90 +4,11 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
-! 2021-02-06 https://il.shein.com
-il.shein.com##.j-footer.container-fluid.c-footer
-il.shein.com##.j-recommend-list
-
-! 2021-02-06 https://bmy.bezeq.co.il
+4pda.ru##.copyright
+bmy.bezeq.co.il###bezeq_search_social
+bmy.bezeq.co.il###bezeq_social_container
 bmy.bezeq.co.il##.bezeq_blue_footer_container
 bmy.bezeq.co.il##.bezeq_search_footer
-bmy.bezeq.co.il###bezeq_social_container
-bmy.bezeq.co.il###bezeq_search_social
-
-! 2021-02-06 https://www.bezeq.co.il
-www.bezeq.co.il##.bezeq_blue_footer_container
-www.bezeq.co.il###bezeq_search_social
-
-! 2021-02-06 https://hi10anime.com
-hi10anime.com##.widget_tag_cloud.widget
-hi10anime.com##div > [href="https://hi10anime.com/donate"]
-hi10anime.com##.post-navigation.navigation
-hi10anime.com##.site-footer
-
-! 2021-02-06 https://ouo.io
-ouo.io##.footer-copy
-ouo.io##.join-now
-ouo.io##.about
-
-! 2021-02-06 https://www.spaste.com
-www.spaste.com##.footer-below
-
-! 2021-02-06 https://hi10anime.com
-hi10anime.com##.ABD_display_adblock.ABD_display > strong
-hi10anime.com##.ABD_display_adblock.ABD_display > [href]
-hi10anime.com##.tag-links
-hi10anime.com##.donateImage
-hi10anime.com##.entry-content > .rw-no-labels.rw-left.rw-ltr.rw-rating-table > tbody > tr
-hi10anime.com##.rw-no-labels.rw-left.rw-ltr.rw-rating-table
-
-! 2021-02-06 https://www.erai-raws.info
-www.erai-raws.info##[href="/donate/"]
-www.erai-raws.info##.last.twelvecol
-
-! 2021-02-06 https://www2.kickassanime.rs
-www2.kickassanime.rs##.col-md-12
-www2.kickassanime.rs##.justify-content-end.d-flex.mb-0.list-inline
-www2.kickassanime.rs###adultVerify___BV_modal_outer_
-
-! 2021-02-06 https://www.animencodes.com
-www.animencodes.com##.footer-inner.region-inner
-www.animencodes.com##.footer-outer
-www.animencodes.com###HTML4
-
-
-! 2021-02-06 https://rarbgto.org
-rarbgto.org##tr:nth-of-type(26)
-rarbgto.org##tr:nth-of-type(27)
-
-! 2021-02-06 https://www.aliexpress.com
-www.aliexpress.com##.hot-words
-www.aliexpress.com##.footer-copywrite
-www.aliexpress.com##.site-footer
-www.aliexpress.com##.user-helper-footer
-www.aliexpress.com##.site-server-box
-www.aliexpress.com##.just-for-you-entrance.container
-
-! 2021-02-06 https://sale.aliexpress.com
-sale.aliexpress.com##.site-footer
-sale.aliexpress.com##.footer-copywrite
-
-! 2021-02-06 https://www.aliexpress.com
-www.aliexpress.com##div.may-like:nth-of-type(4)
-www.aliexpress.com##.bottom-recommendation
-
-! 2021-02-06 https://shoppingcart.aliexpress.com
-shoppingcart.aliexpress.com##.site-footer
-shoppingcart.aliexpress.com##.recommend-container.card-container
-shoppingcart.aliexpress.com##.footer-copywrite
-
-! 2021-02-06 https://trade.aliexpress.com
-trade.aliexpress.com##.mobile-app.me-ui-box
-trade.aliexpress.com##.site-footer
-trade.aliexpress.com###magnet-order-list
-trade.aliexpress.com##.footer-copywrite
-
-
-4pda.ru##.copyright
 diakov.net###dle-content > table > tbody > tr
 diakov.net##.buyAction
 diakov.net##.container.footer
@@ -96,6 +17,18 @@ diakov.net##.related
 diakov.net##.relatedrate
 diakov.net##td > .card-body
 github.com##.p-responsive.width-full.container-xl.footer
+hi10anime.com##.ABD_display_adblock.ABD_display > [href]
+hi10anime.com##.ABD_display_adblock.ABD_display > strong
+hi10anime.com##.donateImage
+hi10anime.com##.entry-content > .rw-no-labels.rw-left.rw-ltr.rw-rating-table > tbody > tr
+hi10anime.com##.post-navigation.navigation
+hi10anime.com##.rw-no-labels.rw-left.rw-ltr.rw-rating-table
+hi10anime.com##.site-footer
+hi10anime.com##.tag-links
+hi10anime.com##.widget_tag_cloud.widget
+hi10anime.com##div > [href="https://hi10anime.com/donate"]
+il.shein.com##.j-footer.container-fluid.c-footer
+il.shein.com##.j-recommend-list
 ksp.co.il###footersnifim
 ksp.co.il###fotAd
 ksp.co.il###wrapper_bottom > div > .MariNavPopular
@@ -123,6 +56,9 @@ myanimelist.net##.ranking-container
 myanimelist.net##div.footer-link-icon-block:nth-of-type(1)
 newmedia.calcalist.co.il##.footer-symbol-2
 newmedia.calcalist.co.il##.hafnaya-sof
+ouo.io##.about
+ouo.io##.footer-copy
+ouo.io##.join-now
 rarbgto.org###ratingstars
 rarbgto.org##.lista-rounded > tbody > tr:nth-of-type(4)
 rarbgto.org##div > .lista > tbody > tr:nth-of-type(9)
@@ -131,11 +67,22 @@ rarbgto.org##div:nth-of-type(3)
 rarbgto.org##div:nth-of-type(4)
 rarbgto.org##tr:nth-of-type(19)
 rarbgto.org##tr:nth-of-type(20)
+rarbgto.org##tr:nth-of-type(26)
+rarbgto.org##tr:nth-of-type(27)
 rarbgto.org##tr:nth-of-type(8)
+sale.aliexpress.com##.footer-copywrite
+sale.aliexpress.com##.site-footer
+shoppingcart.aliexpress.com##.footer-copywrite
+shoppingcart.aliexpress.com##.recommend-container.card-container
+shoppingcart.aliexpress.com##.site-footer
 theverifier.co.il##.clearfix.jeg_footer_primary
 theverifier.co.il##.col-md-4.jeg_sticky_sidebar.jeg_sidebar
 theverifier.co.il##.jeg_post_tags
 theverifier.co.il##.jnews_author_box_container
+trade.aliexpress.com###magnet-order-list
+trade.aliexpress.com##.footer-copywrite
+trade.aliexpress.com##.mobile-app.me-ui-box
+trade.aliexpress.com##.site-footer
 turbobit.net###copyright-block
 turbobit.net##.row.footer-links
 uploadrar.com###footer2
@@ -146,6 +93,14 @@ uploadrar.com##.copyrights
 uploadrar.com##.menufooter
 uploadrar.com##.socialmedia
 uploadrar.com##.txt
+www.aliexpress.com##.bottom-recommendation
+www.aliexpress.com##.footer-copywrite
+www.aliexpress.com##.hot-words
+www.aliexpress.com##.just-for-you-entrance.container
+www.aliexpress.com##.site-footer
+www.aliexpress.com##.site-server-box
+www.aliexpress.com##.user-helper-footer
+www.aliexpress.com##div.may-like:nth-of-type(4)
 www.amazon.com###bottom
 www.amazon.com###certifiedRefurbishedVersion_feature_div
 www.amazon.com###moreBuyingChoices_feature_div
@@ -162,6 +117,11 @@ www.amazon.com##.navFooterCopyright.navFooterPadItemLine.navFooterLinkLine.navFo
 www.amazon.com##.navFooterDescLine.navFooterLinkLine.navFooterLine
 www.amazon.com##div.celwidget:nth-of-type(45)
 www.amazon.com##div.navFooterPadItemLine.navFooterLinkLine.navFooterLine:nth-of-type(3)
+www.animencodes.com###HTML4
+www.animencodes.com##.footer-inner.region-inner
+www.animencodes.com##.footer-outer
+www.bezeq.co.il###bezeq_search_social
+www.bezeq.co.il##.bezeq_blue_footer_container
 www.calcalist.co.il###f_logo
 www.calcalist.co.il##.art-tags-wrp
 www.calcalist.co.il##.col-last-child.W4_wrp
@@ -174,6 +134,8 @@ www.calcalist.co.il##div.art-top-mrg.clearFix > .art-top-mrg.clearFix
 www.calcalist.co.il##div.art-top-mrg.clearFix:nth-of-type(3)
 www.calcalist.co.il##div.art-top-mrg.clearFix:nth-of-type(8)
 www.calcalist.co.il##div.art-top-mrg.clearFix:nth-of-type(9)
+www.erai-raws.info##.last.twelvecol
+www.erai-raws.info##[href="/donate/"]
 www.geektime.co.il##.all-rights-reserved
 www.geektime.co.il##.author
 www.geektime.co.il##.gtbc-comment-terms-text
@@ -198,6 +160,7 @@ www.reviewgeek.com##.container
 www.reviewgeek.com##.copyright
 www.reviewgeek.com##.logo
 www.reviewgeek.com##.site-footer
+www.spaste.com##.footer-below
 www.tgspot.co.il##.author-box-wrap
 www.tgspot.co.il##.mrf-homeAnchor.mrf-adDensityBodySentinel.mrf-sectionPart
 www.tgspot.co.il##.mrf-scrollViewContainer.mrf-item-related-links.mrf-sectionPreview
@@ -235,3 +198,6 @@ www.ynet.co.il##div.layoutContainer:nth-of-type(5)
 www.ynet.co.il##div.layoutContainer:nth-of-type(7)
 www.ynet.co.il##div.rtl.text_editor_paragraph:nth-of-type(2)
 www.ynet.co.il##div.rtl.text_editor_paragraph:nth-of-type(3)
+www2.kickassanime.rs###adultVerify___BV_modal_outer_
+www2.kickassanime.rs##.col-md-12
+www2.kickassanime.rs##.justify-content-end.d-flex.mb-0.list-inline
