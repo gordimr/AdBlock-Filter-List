@@ -4,6 +4,53 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-02-05 https://4pda.ru
+4pda.ru##.copyright
+
+! 2021-02-05 https://diakov.net
+diakov.net##.container.footer
+diakov.net##.related
+diakov.net##.relatedrate
+diakov.net###dle-content > table > tbody > tr
+
+! 2021-02-05 https://lrepacks.net
+lrepacks.net##.error-block
+lrepacks.net##.donat-cont
+lrepacks.net##.berrors.clr
+lrepacks.net##.cat-links
+lrepacks.net##.copyright
+lrepacks.net##.footer-bottom
+lrepacks.net##.footer-top
+lrepacks.net###content > .columns.large-4.medium-4
+lrepacks.net###navigation > .donate.large.button
+lrepacks.net##.account > .donate.large.button
+
+! 2021-02-05 https://uploadrar.com
+uploadrar.com###gdpr-cookie-notice
+uploadrar.com##.socialmedia
+uploadrar.com##.aboutus
+uploadrar.com##.copyrights
+uploadrar.com##.menufooter
+uploadrar.com###news_last
+uploadrar.com###footer2
+uploadrar.com##.txt
+
+! 2021-02-05 https://turbobit.net
+turbobit.net###copyright-block
+turbobit.net##.row.footer-links
+
+! 2021-02-05 https://myanimelist.net
+myanimelist.net###copyright
+myanimelist.net##.ac.footer-recommended
+myanimelist.net##.footer-link-block
+myanimelist.net##div.footer-link-icon-block:nth-of-type(1)
+myanimelist.net###footer-block
+myanimelist.net##.ranking-container
+myanimelist.net##.pt24.clearfix.mauto
+myanimelist.net##.footer-ranking
+myanimelist.net##.banner-header-anime-straming
+
+
 www.ynet.co.il##div.rtl.text_editor_paragraph:nth-of-type(2)
 github.com##.p-responsive.width-full.container-xl.footer
 ksp.co.il###footersnifim
