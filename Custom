@@ -4,63 +4,45 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
-! 2021-02-05 https://4pda.ru
 4pda.ru##.copyright
-
-! 2021-02-05 https://diakov.net
+diakov.net###dle-content > table > tbody > tr
+diakov.net##.buyAction
 diakov.net##.container.footer
+diakov.net##.rating
 diakov.net##.related
 diakov.net##.relatedrate
-diakov.net###dle-content > table > tbody > tr
-
-! 2021-02-05 https://lrepacks.net
-lrepacks.net##.error-block
-lrepacks.net##.donat-cont
-lrepacks.net##.berrors.clr
-lrepacks.net##.cat-links
-lrepacks.net##.copyright
-lrepacks.net##.footer-bottom
-lrepacks.net##.footer-top
-lrepacks.net###content > .columns.large-4.medium-4
-lrepacks.net###navigation > .donate.large.button
-lrepacks.net##.account > .donate.large.button
-
-! 2021-02-05 https://uploadrar.com
-uploadrar.com###gdpr-cookie-notice
-uploadrar.com##.socialmedia
-uploadrar.com##.aboutus
-uploadrar.com##.copyrights
-uploadrar.com##.menufooter
-uploadrar.com###news_last
-uploadrar.com###footer2
-uploadrar.com##.txt
-
-! 2021-02-05 https://turbobit.net
-turbobit.net###copyright-block
-turbobit.net##.row.footer-links
-
-! 2021-02-05 https://myanimelist.net
-myanimelist.net###copyright
-myanimelist.net##.ac.footer-recommended
-myanimelist.net##.footer-link-block
-myanimelist.net##div.footer-link-icon-block:nth-of-type(1)
-myanimelist.net###footer-block
-myanimelist.net##.ranking-container
-myanimelist.net##.pt24.clearfix.mauto
-myanimelist.net##.footer-ranking
-myanimelist.net##.banner-header-anime-straming
-
-
-www.ynet.co.il##div.rtl.text_editor_paragraph:nth-of-type(2)
+diakov.net##td > .card-body
 github.com##.p-responsive.width-full.container-xl.footer
 ksp.co.il###footersnifim
 ksp.co.il###fotAd
 ksp.co.il###wrapper_bottom > div > .MariNavPopular
+lrepacks.net###content > .columns.large-4.medium-4
+lrepacks.net###navigation > .donate.large.button
+lrepacks.net##.account > .donate.large.button
+lrepacks.net##.berrors.clr
+lrepacks.net##.cat-links
+lrepacks.net##.copyright
+lrepacks.net##.donat-cont
+lrepacks.net##.error-block
+lrepacks.net##.footer-bottom
+lrepacks.net##.footer-top
 m.ynet.co.il###share-icons-wrapper-android
 m.ynet.co.il##p:nth-of-type(2)
 m.ynet.co.il##ul
+myanimelist.net###copyright
+myanimelist.net###footer-block
+myanimelist.net##.ac.footer-recommended
+myanimelist.net##.banner-header-anime-straming
+myanimelist.net##.footer-link-block
+myanimelist.net##.footer-ranking
+myanimelist.net##.pt24.clearfix.mauto
+myanimelist.net##.ranking-container
+myanimelist.net##div.footer-link-icon-block:nth-of-type(1)
 newmedia.calcalist.co.il##.footer-symbol-2
 newmedia.calcalist.co.il##.hafnaya-sof
+rarbgto.org###ratingstars
+rarbgto.org##.lista-rounded > tbody > tr:nth-of-type(4)
+rarbgto.org##div > .lista > tbody > tr:nth-of-type(9)
 rarbgto.org##div:nth-of-type(2)
 rarbgto.org##div:nth-of-type(3)
 rarbgto.org##div:nth-of-type(4)
@@ -71,6 +53,16 @@ theverifier.co.il##.clearfix.jeg_footer_primary
 theverifier.co.il##.col-md-4.jeg_sticky_sidebar.jeg_sidebar
 theverifier.co.il##.jeg_post_tags
 theverifier.co.il##.jnews_author_box_container
+turbobit.net###copyright-block
+turbobit.net##.row.footer-links
+uploadrar.com###footer2
+uploadrar.com###gdpr-cookie-notice
+uploadrar.com###news_last
+uploadrar.com##.aboutus
+uploadrar.com##.copyrights
+uploadrar.com##.menufooter
+uploadrar.com##.socialmedia
+uploadrar.com##.txt
 www.amazon.com###bottom
 www.amazon.com###certifiedRefurbishedVersion_feature_div
 www.amazon.com###moreBuyingChoices_feature_div
@@ -158,4 +150,5 @@ www.ynet.co.il##.public-DraftStyleDefault-ul
 www.ynet.co.il##.ynet-footer.layoutItem
 www.ynet.co.il##div.layoutContainer:nth-of-type(5)
 www.ynet.co.il##div.layoutContainer:nth-of-type(7)
+www.ynet.co.il##div.rtl.text_editor_paragraph:nth-of-type(2)
 www.ynet.co.il##div.rtl.text_editor_paragraph:nth-of-type(3)
