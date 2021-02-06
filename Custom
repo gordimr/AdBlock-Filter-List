@@ -4,6 +4,38 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-02-06 https://rarbgto.org
+rarbgto.org##tr:nth-of-type(26)
+rarbgto.org##tr:nth-of-type(27)
+
+! 2021-02-06 https://www.aliexpress.com
+www.aliexpress.com##.hot-words
+www.aliexpress.com##.footer-copywrite
+www.aliexpress.com##.site-footer
+www.aliexpress.com##.user-helper-footer
+www.aliexpress.com##.site-server-box
+www.aliexpress.com##.just-for-you-entrance.container
+
+! 2021-02-06 https://sale.aliexpress.com
+sale.aliexpress.com##.site-footer
+sale.aliexpress.com##.footer-copywrite
+
+! 2021-02-06 https://www.aliexpress.com
+www.aliexpress.com##div.may-like:nth-of-type(4)
+www.aliexpress.com##.bottom-recommendation
+
+! 2021-02-06 https://shoppingcart.aliexpress.com
+shoppingcart.aliexpress.com##.site-footer
+shoppingcart.aliexpress.com##.recommend-container.card-container
+shoppingcart.aliexpress.com##.footer-copywrite
+
+! 2021-02-06 https://trade.aliexpress.com
+trade.aliexpress.com##.mobile-app.me-ui-box
+trade.aliexpress.com##.site-footer
+trade.aliexpress.com###magnet-order-list
+trade.aliexpress.com##.footer-copywrite
+
+
 4pda.ru##.copyright
 diakov.net###dle-content > table > tbody > tr
 diakov.net##.buyAction
