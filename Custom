@@ -4,6 +4,17 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-02-06 https://www.hot.net.il
+www.hot.net.il##.footerLogos_right
+www.hot.net.il##.footerLogos_left
+www.hot.net.il##.footerLogos
+www.hot.net.il##.ng-scope.footerSEO_links
+www.hot.net.il##.footerLinks
+www.hot.net.il##.footerContent
+www.hot.net.il##.helpfulLinks
+www.hot.net.il##.myHot_socialPanel
+
+
 ! 2021-02-06 https://www.unknowncheats.me
 www.unknowncheats.me###collapseobj_similarthreads
 www.unknowncheats.me##.smallfont.alt1
