@@ -4,6 +4,8 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+diakov.net##td > .card-body
+diakov.net###dle-content > table > tbody > tr
 ! 2021-02-06 https://www.hot.net.il
 www.hot.net.il##.footerLogos_right
 www.hot.net.il##.footerLogos_left
