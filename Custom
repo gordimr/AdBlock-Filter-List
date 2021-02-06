@@ -4,6 +4,57 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-02-06 https://il.shein.com
+il.shein.com##.j-footer.container-fluid.c-footer
+il.shein.com##.j-recommend-list
+
+! 2021-02-06 https://bmy.bezeq.co.il
+bmy.bezeq.co.il##.bezeq_blue_footer_container
+bmy.bezeq.co.il##.bezeq_search_footer
+bmy.bezeq.co.il###bezeq_social_container
+bmy.bezeq.co.il###bezeq_search_social
+
+! 2021-02-06 https://www.bezeq.co.il
+www.bezeq.co.il##.bezeq_blue_footer_container
+www.bezeq.co.il###bezeq_search_social
+
+! 2021-02-06 https://hi10anime.com
+hi10anime.com##.widget_tag_cloud.widget
+hi10anime.com##div > [href="https://hi10anime.com/donate"]
+hi10anime.com##.post-navigation.navigation
+hi10anime.com##.site-footer
+
+! 2021-02-06 https://ouo.io
+ouo.io##.footer-copy
+ouo.io##.join-now
+ouo.io##.about
+
+! 2021-02-06 https://www.spaste.com
+www.spaste.com##.footer-below
+
+! 2021-02-06 https://hi10anime.com
+hi10anime.com##.ABD_display_adblock.ABD_display > strong
+hi10anime.com##.ABD_display_adblock.ABD_display > [href]
+hi10anime.com##.tag-links
+hi10anime.com##.donateImage
+hi10anime.com##.entry-content > .rw-no-labels.rw-left.rw-ltr.rw-rating-table > tbody > tr
+hi10anime.com##.rw-no-labels.rw-left.rw-ltr.rw-rating-table
+
+! 2021-02-06 https://www.erai-raws.info
+www.erai-raws.info##[href="/donate/"]
+www.erai-raws.info##.last.twelvecol
+
+! 2021-02-06 https://www2.kickassanime.rs
+www2.kickassanime.rs##.col-md-12
+www2.kickassanime.rs##.justify-content-end.d-flex.mb-0.list-inline
+www2.kickassanime.rs###adultVerify___BV_modal_outer_
+
+! 2021-02-06 https://www.animencodes.com
+www.animencodes.com##.footer-inner.region-inner
+www.animencodes.com##.footer-outer
+www.animencodes.com###HTML4
+
+
 ! 2021-02-06 https://rarbgto.org
 rarbgto.org##tr:nth-of-type(26)
 rarbgto.org##tr:nth-of-type(27)
