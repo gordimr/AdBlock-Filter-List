@@ -4,70 +4,21 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
-diakov.net##td > .card-body
-diakov.net###dle-content > table > tbody > tr
-! 2021-02-06 https://www.hot.net.il
-www.hot.net.il##.footerLogos_right
-www.hot.net.il##.footerLogos_left
-www.hot.net.il##.footerLogos
-www.hot.net.il##.ng-scope.footerSEO_links
-www.hot.net.il##.footerLinks
-www.hot.net.il##.footerContent
-www.hot.net.il##.helpfulLinks
-www.hot.net.il##.myHot_socialPanel
-
-
-! 2021-02-06 https://www.unknowncheats.me
-www.unknowncheats.me###collapseobj_similarthreads
-www.unknowncheats.me##.smallfont.alt1
-
-! 2021-02-06 https://deliveries.orrs.de
-deliveries.orrs.de##.mdl-mega-footer--bottom-section
-deliveries.orrs.de##.mdl-mega-footer
-
-! 2021-02-06 https://maplestory.nexon.net
-maplestory.nexon.net##.row.footer-main
-maplestory.nexon.net##.global-footer
-
-! 2021-02-06 https://support-maplestory.nexon.net
-support-maplestory.nexon.net##.footer-inner
-support-maplestory.nexon.net##.footer-links
-support-maplestory.nexon.net##.footer
-
-
-! 2021-02-06 https://anidb.net
-anidb.net###layout-footer
-
-! 2021-02-06 https://www.gametracker.com
-www.gametracker.com##.page_content > .item_float_right > [href]
-www.gametracker.com##.sitefooter.blocknew980.blocknew
-www.gametracker.com##.blocknewnopad.blocknew162.blocknew
-www.gametracker.com##.blocknewnopad.blocknew666.blocknew
-www.gametracker.com##.blocknewnopad.blocknew302.blocknew
-
-
-! 2021-02-06 https://www.bconnect.co.il
-www.bconnect.co.il##.footer-box
-
-! 2021-02-06 https://www.fxp.co.il
-www.fxp.co.il##.footer_copyright.shade
-www.fxp.co.il##.divmainfav
-www.fxp.co.il##.additional-links
-www.fxp.co.il##.additional-links-bottom
-www.fxp.co.il##.navlinks
-www.fxp.co.il##div.gu.dargot
-
-
 4pda.ru##.copyright
+anidb.net###layout-footer
 bmy.bezeq.co.il###bezeq_search_social
 bmy.bezeq.co.il###bezeq_social_container
 bmy.bezeq.co.il##.bezeq_blue_footer_container
 bmy.bezeq.co.il##.bezeq_search_footer
+deliveries.orrs.de##.mdl-mega-footer
+deliveries.orrs.de##.mdl-mega-footer--bottom-section
+diakov.net###dle-content > table > tbody > tr
 diakov.net##.buyAction
 diakov.net##.container.footer
 diakov.net##.rating
 diakov.net##.related
 diakov.net##.relatedrate
+diakov.net##td > .card-body
 github.com##.p-responsive.width-full.container-xl.footer
 hi10anime.com##.ABD_display_adblock.ABD_display > [href]
 hi10anime.com##.ABD_display_adblock.ABD_display > strong
@@ -97,6 +48,8 @@ lrepacks.net##.footer-top
 m.ynet.co.il###share-icons-wrapper-android
 m.ynet.co.il##p:nth-of-type(2)
 m.ynet.co.il##ul
+maplestory.nexon.net##.global-footer
+maplestory.nexon.net##.row.footer-main
 myanimelist.net###copyright
 myanimelist.net###footer-block
 myanimelist.net##.ac.footer-recommended
@@ -116,6 +69,9 @@ sale.aliexpress.com##.site-footer
 shoppingcart.aliexpress.com##.footer-copywrite
 shoppingcart.aliexpress.com##.recommend-container.card-container
 shoppingcart.aliexpress.com##.site-footer
+support-maplestory.nexon.net##.footer
+support-maplestory.nexon.net##.footer-inner
+support-maplestory.nexon.net##.footer-links
 theverifier.co.il##.clearfix.jeg_footer_primary
 theverifier.co.il##.col-md-4.jeg_sticky_sidebar.jeg_sidebar
 theverifier.co.il##.jeg_post_tags
@@ -161,6 +117,7 @@ www.amazon.com##div.navFooterPadItemLine.navFooterLinkLine.navFooterLine:nth-of-
 www.animencodes.com###HTML4
 www.animencodes.com##.footer-inner.region-inner
 www.animencodes.com##.footer-outer
+www.bconnect.co.il##.footer-box
 www.bezeq.co.il###bezeq_search_social
 www.bezeq.co.il##.bezeq_blue_footer_container
 www.calcalist.co.il###f_logo
@@ -177,6 +134,17 @@ www.calcalist.co.il##div.art-top-mrg.clearFix:nth-of-type(8)
 www.calcalist.co.il##div.art-top-mrg.clearFix:nth-of-type(9)
 www.erai-raws.info##.last.twelvecol
 www.erai-raws.info##[href="/donate/"]
+www.fxp.co.il##.additional-links
+www.fxp.co.il##.additional-links-bottom
+www.fxp.co.il##.divmainfav
+www.fxp.co.il##.footer_copyright.shade
+www.fxp.co.il##.navlinks
+www.fxp.co.il##div.gu.dargot
+www.gametracker.com##.blocknewnopad.blocknew162.blocknew
+www.gametracker.com##.blocknewnopad.blocknew302.blocknew
+www.gametracker.com##.blocknewnopad.blocknew666.blocknew
+www.gametracker.com##.page_content > .item_float_right > [href]
+www.gametracker.com##.sitefooter.blocknew980.blocknew
 www.geektime.co.il##.all-rights-reserved
 www.geektime.co.il##.author
 www.geektime.co.il##.gtbc-comment-terms-text
@@ -196,6 +164,14 @@ www.globes.co.il##.icons
 www.globes.co.il##.marketingContent
 www.globes.co.il##.readMoreTitle
 www.globes.co.il##.wr > section
+www.hot.net.il##.footerContent
+www.hot.net.il##.footerLinks
+www.hot.net.il##.footerLogos
+www.hot.net.il##.footerLogos_left
+www.hot.net.il##.footerLogos_right
+www.hot.net.il##.helpfulLinks
+www.hot.net.il##.myHot_socialPanel
+www.hot.net.il##.ng-scope.footerSEO_links
 www.reviewgeek.com##.amp-wp-tax-tag
 www.reviewgeek.com##.container
 www.reviewgeek.com##.copyright
@@ -217,6 +193,8 @@ www.themarker.com##div.h.g:nth-of-type(6)
 www.tvtime.com###get-the-app
 www.tvtime.com##.credits > p
 www.tvtime.com##.social
+www.unknowncheats.me###collapseobj_similarthreads
+www.unknowncheats.me##.smallfont.alt1
 www.xda-developers.com###about-author-wrapper
 www.xda-developers.com###footer
 www.xda-developers.com###footer-left
