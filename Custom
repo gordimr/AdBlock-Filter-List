@@ -4,6 +4,18 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-02-06 https://www.bconnect.co.il
+www.bconnect.co.il##.footer-box
+
+! 2021-02-06 https://www.fxp.co.il
+www.fxp.co.il##.footer_copyright.shade
+www.fxp.co.il##.divmainfav
+www.fxp.co.il##.additional-links
+www.fxp.co.il##.additional-links-bottom
+www.fxp.co.il##.navlinks
+www.fxp.co.il##div.gu.dargot
+
+
 4pda.ru##.copyright
 bmy.bezeq.co.il###bezeq_search_social
 bmy.bezeq.co.il###bezeq_social_container
