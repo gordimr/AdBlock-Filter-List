@@ -4,6 +4,12 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-02-07 https://www.geektime.co.il
+www.geektime.co.il##.hasut-logo
+
+! 2021-02-07 https://m.ynet.co.il
+m.ynet.co.il##p:nth-of-type(3)
+@@||www.ynet.co.il/Common/Api/Scripts/video/videojs.ima.js$script,domain=m.ynet.co.il
 4pda.ru##.copyright
 anidb.net###layout-footer
 bmy.bezeq.co.il###bezeq_search_social
