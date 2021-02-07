@@ -4,6 +4,14 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-02-07 https://m.calcalist.co.il
+m.calcalist.co.il##.poloriz-widget
+m.calcalist.co.il##.s-thirdparties-content
+! 2021-02-07 https://www.youtube.com
+www.youtube.com##.ytd-video-primary-info-renderer.style-scope.super-title
+
+! 2021-02-07 https://support.logi.com
+support.logi.com##.rights-reserve
 ! 2021-02-07 https://www.geektime.co.il
 www.geektime.co.il##.hasut-logo
 
