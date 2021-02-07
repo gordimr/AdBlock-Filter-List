@@ -4,6 +4,15 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-02-07 https://www.mirrored.to
+www.mirrored.to##.dl-width.foo-con
+www.mirrored.to##footer
+www.mirrored.to##.extra-top.bordered.col-sm
+
+! 2021-02-07 https://www87.zippyshare.com
+www87.zippyshare.com###bottom
+
+
 ! 2021-02-07 https://m.calcalist.co.il
 m.calcalist.co.il##.poloriz-widget
 m.calcalist.co.il##.s-thirdparties-content
