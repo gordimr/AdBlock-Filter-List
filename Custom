@@ -30,11 +30,6 @@ hi10anime.com##.site-footer
 hi10anime.com##.tag-links
 hi10anime.com##.widget_tag_cloud.widget
 hi10anime.com##div > [href="https://hi10anime.com/donate"]
-home.walla.co.il###main-footer
-home.walla.co.il##.no-mobile-app.tags-list.css-1234ruv
-home.walla.co.il##.noprint.css-bsazcg
-home.walla.co.il##.undefined.section-links.css-114l8a5
-home.walla.co.il##aside
 il.shein.com##.j-footer.container-fluid.c-footer
 il.shein.com##.j-recommend-list
 ksp.co.il###footersnifim
@@ -110,6 +105,15 @@ uploadrar.com##.copyrights
 uploadrar.com##.menufooter
 uploadrar.com##.socialmedia
 uploadrar.com##.txt
+walla.*###main-footer
+walla.*##.no-mobile-app.tags-list.css-1234ruv
+walla.*##.noprint.css-bsazcg
+walla.*##.undefined.section-links.css-114l8a5
+walla.*##aside
+walla.*##.css-12flape > aside
+walla.*##.noprint.no-mobile-app.css-1ra4wk
+walla.*##.noprint.no-mobile-app.css-1ra4wkk
+walla.*##.walla-icon-printer.no-mobile.noprint.css-b3wih4
 www.aliexpress.com##.bottom-recommendation
 www.aliexpress.com##.footer-copywrite
 www.aliexpress.com##.hot-words
