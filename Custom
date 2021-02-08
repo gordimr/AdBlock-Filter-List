@@ -4,6 +4,23 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-02-08 https://www.metropark.co.il
+www.metropark.co.il##.footer-rights
+www.metropark.co.il##.footer-content.table
+www.metropark.co.il###footer
+
+! 2021-02-08 https://www.gadgety.co.il
+www.gadgety.co.il##.category-holder
+www.gadgety.co.il##.area
+www.gadgety.co.il##.messenger.post-bottom > div
+www.gadgety.co.il##.cLeft.cell
+www.gadgety.co.il###bottomLine
+www.gadgety.co.il###footer
+www.gadgety.co.il##body > div:nth-of-type(2)
+www.gadgety.co.il##.resizableText > span
+www.gadgety.co.il##article.entry
+www.gadgety.co.il###mobile-header-gallery > .color6.heroGallery
+www.gadgety.co.il##.line-tags
 ! 2021-02-07 https://www.mirrored.to
 www.mirrored.to##.dl-width.foo-con
 www.mirrored.to##footer
