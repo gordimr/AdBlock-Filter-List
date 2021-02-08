@@ -1,58 +1,9 @@
-[Adblock Plus 2.0]
-! Version: 1
 ! Title: Custom AdBlock Filter
-! Expires: 1 days
+! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
-! 2021-02-08 https://home.walla.co.il
-home.walla.co.il##aside
-home.walla.co.il###main-footer
-home.walla.co.il##.no-mobile-app.tags-list.css-1234ruv
-home.walla.co.il##.noprint.css-bsazcg
-home.walla.co.il##.undefined.section-links.css-114l8a5
-
-
-! 2021-02-08 https://www.metropark.co.il
-www.metropark.co.il##.footer-rights
-www.metropark.co.il##.footer-content.table
-www.metropark.co.il###footer
-
-! 2021-02-08 https://www.gadgety.co.il
-www.gadgety.co.il##.category-holder
-www.gadgety.co.il##.area
-www.gadgety.co.il##.messenger.post-bottom > div
-www.gadgety.co.il##.cLeft.cell
-www.gadgety.co.il###bottomLine
-www.gadgety.co.il###footer
-www.gadgety.co.il##body > div:nth-of-type(2)
-www.gadgety.co.il##.resizableText > span
-www.gadgety.co.il##article.entry
-www.gadgety.co.il###mobile-header-gallery > .color6.heroGallery
-www.gadgety.co.il##.line-tags
-! 2021-02-07 https://www.mirrored.to
-www.mirrored.to##.dl-width.foo-con
-www.mirrored.to##footer
-www.mirrored.to##.extra-top.bordered.col-sm
-
-! 2021-02-07 https://www87.zippyshare.com
-www87.zippyshare.com###bottom
-
-
-! 2021-02-07 https://m.calcalist.co.il
-m.calcalist.co.il##.poloriz-widget
-m.calcalist.co.il##.s-thirdparties-content
-! 2021-02-07 https://www.youtube.com
-www.youtube.com##.ytd-video-primary-info-renderer.style-scope.super-title
-
-! 2021-02-07 https://support.logi.com
-support.logi.com##.rights-reserve
-! 2021-02-07 https://www.geektime.co.il
-www.geektime.co.il##.hasut-logo
-
-! 2021-02-07 https://m.ynet.co.il
-m.ynet.co.il##p:nth-of-type(3)
-@@||www.ynet.co.il/Common/Api/Scripts/video/videojs.ima.js$script,domain=m.ynet.co.il
 4pda.ru##.copyright
+@@||www.ynet.co.il/Common/Api/Scripts/video/videojs.ima.js$script,domain=m.ynet.co.il
 anidb.net###layout-footer
 bmy.bezeq.co.il###bezeq_search_social
 bmy.bezeq.co.il###bezeq_social_container
@@ -80,6 +31,11 @@ hi10anime.com##.site-footer
 hi10anime.com##.tag-links
 hi10anime.com##.widget_tag_cloud.widget
 hi10anime.com##div > [href="https://hi10anime.com/donate"]
+home.walla.co.il###main-footer
+home.walla.co.il##.no-mobile-app.tags-list.css-1234ruv
+home.walla.co.il##.noprint.css-bsazcg
+home.walla.co.il##.undefined.section-links.css-114l8a5
+home.walla.co.il##aside
 il.shein.com##.j-footer.container-fluid.c-footer
 il.shein.com##.j-recommend-list
 ksp.co.il###footersnifim
@@ -101,6 +57,8 @@ m.calcalist.co.il##.c-article-device__share
 m.calcalist.co.il##.c-article-device__tags
 m.calcalist.co.il##.c-footer__links
 m.calcalist.co.il##.c-terms__info
+m.calcalist.co.il##.poloriz-widget
+m.calcalist.co.il##.s-thirdparties-content
 m.calcalist.co.il##.t-terms__gdprx.c-terms__gdpr
 m.calcalist.co.il##.t-terms__gdprx.c-terms__gdpr > div
 m.ynet.co.il###share-icons-wrapper-android
@@ -108,6 +66,7 @@ m.ynet.co.il##.article-header-menu
 m.ynet.co.il##.dont-miss-notify
 m.ynet.co.il##.explore-more-wrapper
 m.ynet.co.il##p:nth-of-type(2)
+m.ynet.co.il##p:nth-of-type(3)
 m.ynet.co.il##ul
 maplestory.nexon.net##.global-footer
 maplestory.nexon.net##.row.footer-main
@@ -133,6 +92,7 @@ shoppingcart.aliexpress.com##.site-footer
 support-maplestory.nexon.net##.footer
 support-maplestory.nexon.net##.footer-inner
 support-maplestory.nexon.net##.footer-links
+support.logi.com##.rights-reserve
 theverifier.co.il##.clearfix.jeg_footer_primary
 theverifier.co.il##.col-md-4.jeg_sticky_sidebar.jeg_sidebar
 theverifier.co.il##.jeg_post_tags
@@ -201,6 +161,17 @@ www.fxp.co.il##.divmainfav
 www.fxp.co.il##.footer_copyright.shade
 www.fxp.co.il##.navlinks
 www.fxp.co.il##div.gu.dargot
+www.gadgety.co.il###bottomLine
+www.gadgety.co.il###footer
+www.gadgety.co.il###mobile-header-gallery > .color6.heroGallery
+www.gadgety.co.il##.area
+www.gadgety.co.il##.cLeft.cell
+www.gadgety.co.il##.category-holder
+www.gadgety.co.il##.line-tags
+www.gadgety.co.il##.messenger.post-bottom > div
+www.gadgety.co.il##.resizableText > span
+www.gadgety.co.il##article.entry
+www.gadgety.co.il##body > div:nth-of-type(2)
 www.gametracker.com##.blocknewnopad.blocknew162.blocknew
 www.gametracker.com##.blocknewnopad.blocknew302.blocknew
 www.gametracker.com##.blocknewnopad.blocknew666.blocknew
@@ -212,6 +183,7 @@ www.geektime.co.il##.clearfix.suggestions
 www.geektime.co.il##.gtbc-comment-terms-text
 www.geektime.co.il##.gtf-break-text-lines.gtf-margin-right.gtf-widget
 www.geektime.co.il##.gtf-subtitle-margin-right.gtf-widget
+www.geektime.co.il##.hasut-logo
 www.geektime.co.il##.left.sidebar
 www.geektime.co.il##.post-content > .gt-mobile-item.content-banner.banner
 www.geektime.co.il##.post-specs > h4
@@ -241,6 +213,12 @@ www.hot.net.il##.footerLogos_right
 www.hot.net.il##.helpfulLinks
 www.hot.net.il##.myHot_socialPanel
 www.hot.net.il##.ng-scope.footerSEO_links
+www.metropark.co.il###footer
+www.metropark.co.il##.footer-content.table
+www.metropark.co.il##.footer-rights
+www.mirrored.to##.dl-width.foo-con
+www.mirrored.to##.extra-top.bordered.col-sm
+www.mirrored.to##footer
 www.reviewgeek.com##.amp-wp-tax-tag
 www.reviewgeek.com##.container
 www.reviewgeek.com##.copyright
@@ -291,6 +269,8 @@ www.ynet.co.il##div.layoutContainer:nth-of-type(5)
 www.ynet.co.il##div.layoutContainer:nth-of-type(7)
 www.ynet.co.il##div.rtl.text_editor_paragraph:nth-of-type(2)
 www.ynet.co.il##div.rtl.text_editor_paragraph:nth-of-type(3)
+www.youtube.com##.ytd-video-primary-info-renderer.style-scope.super-title
 www2.kickassanime.rs###adultVerify___BV_modal_outer_
 www2.kickassanime.rs##.col-md-12
 www2.kickassanime.rs##.justify-content-end.d-flex.mb-0.list-inline
+www87.zippyshare.com###bottom
