@@ -1,6 +1,18 @@
 ! Title: Custom AdBlock Filter
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
+!
+! 2021-02-08 https://rarbgto.org
+rarbgto.org##body > div:nth-of-type(2)
+rarbgto.org##body > div:nth-of-type(4)
+rarbgto.org##body > div:nth-of-type(3)
+rarbgto.org##.lista-rounded > tbody > tr:nth-of-type(4)
+rarbgto.org##tr:nth-of-type(6) > .block
+
+! 2021-02-08 http://www.tukero.org
+www.tukero.org###footer
+www.tukero.org##.post-text input
+www.tukero.org##.post-text > div > form
 4pda.ru##.copyright
 @@||www.ynet.co.il/Common/Api/Scripts/video/videojs.ima.js$script,domain=m.ynet.co.il
 aliexpress.*###magnet-order-list
