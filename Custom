@@ -4,6 +4,14 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-02-08 https://home.walla.co.il
+home.walla.co.il##aside
+home.walla.co.il###main-footer
+home.walla.co.il##.no-mobile-app.tags-list.css-1234ruv
+home.walla.co.il##.noprint.css-bsazcg
+home.walla.co.il##.undefined.section-links.css-114l8a5
+
+
 ! 2021-02-08 https://www.metropark.co.il
 www.metropark.co.il##.footer-rights
 www.metropark.co.il##.footer-content.table
