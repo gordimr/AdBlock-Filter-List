@@ -3,6 +3,17 @@
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 4pda.ru##.copyright
 @@||www.ynet.co.il/Common/Api/Scripts/video/videojs.ima.js$script,domain=m.ynet.co.il
+aliexpress.*###magnet-order-list
+aliexpress.*##.bottom-recommendation
+aliexpress.*##.footer-copywrite
+aliexpress.*##.hot-words
+aliexpress.*##.just-for-you-entrance.container
+aliexpress.*##.mobile-app.me-ui-box
+aliexpress.*##.recommend-container.card-container
+aliexpress.*##.site-footer
+aliexpress.*##.site-server-box
+aliexpress.*##.user-helper-footer
+aliexpress.*##div.may-like:nth-of-type(4)
 anidb.net###layout-footer
 bmy.bezeq.co.il###bezeq_search_social
 bmy.bezeq.co.il###bezeq_social_container
@@ -78,11 +89,6 @@ newmedia.calcalist.co.il##.hafnaya-sof
 ouo.io##.about
 ouo.io##.footer-copy
 ouo.io##.join-now
-sale.aliexpress.com##.footer-copywrite
-sale.aliexpress.com##.site-footer
-shoppingcart.aliexpress.com##.footer-copywrite
-shoppingcart.aliexpress.com##.recommend-container.card-container
-shoppingcart.aliexpress.com##.site-footer
 support-maplestory.nexon.net##.footer
 support-maplestory.nexon.net##.footer-inner
 support-maplestory.nexon.net##.footer-links
@@ -91,10 +97,6 @@ theverifier.co.il##.clearfix.jeg_footer_primary
 theverifier.co.il##.col-md-4.jeg_sticky_sidebar.jeg_sidebar
 theverifier.co.il##.jeg_post_tags
 theverifier.co.il##.jnews_author_box_container
-trade.aliexpress.com###magnet-order-list
-trade.aliexpress.com##.footer-copywrite
-trade.aliexpress.com##.mobile-app.me-ui-box
-trade.aliexpress.com##.site-footer
 turbobit.net###copyright-block
 turbobit.net##.row.footer-links
 uploadrar.com###footer2
@@ -106,21 +108,13 @@ uploadrar.com##.menufooter
 uploadrar.com##.socialmedia
 uploadrar.com##.txt
 walla.*###main-footer
+walla.*##.css-12flape > aside
 walla.*##.no-mobile-app.tags-list.css-1234ruv
 walla.*##.noprint.css-bsazcg
-walla.*##.undefined.section-links.css-114l8a5
-walla.*##.css-12flape > aside
 walla.*##.noprint.no-mobile-app.css-1ra4wk
 walla.*##.noprint.no-mobile-app.css-1ra4wkk
+walla.*##.undefined.section-links.css-114l8a5
 walla.*##.walla-icon-printer.no-mobile.noprint.css-b3wih4
-www.aliexpress.com##.bottom-recommendation
-www.aliexpress.com##.footer-copywrite
-www.aliexpress.com##.hot-words
-www.aliexpress.com##.just-for-you-entrance.container
-www.aliexpress.com##.site-footer
-www.aliexpress.com##.site-server-box
-www.aliexpress.com##.user-helper-footer
-www.aliexpress.com##div.may-like:nth-of-type(4)
 www.amazon.com###bottom
 www.amazon.com###certifiedRefurbishedVersion_feature_div
 www.amazon.com###moreBuyingChoices_feature_div
