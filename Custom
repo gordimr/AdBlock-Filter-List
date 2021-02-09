@@ -2,17 +2,6 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
-! 2021-02-08 https://rarbgto.org
-rarbgto.org##body > div:nth-of-type(2)
-rarbgto.org##body > div:nth-of-type(4)
-rarbgto.org##body > div:nth-of-type(3)
-rarbgto.org##.lista-rounded > tbody > tr:nth-of-type(4)
-rarbgto.org##tr:nth-of-type(6) > .block
-
-! 2021-02-08 http://www.tukero.org
-www.tukero.org###footer
-www.tukero.org##.post-text input
-www.tukero.org##.post-text > div > form
 4pda.ru##.copyright
 @@||www.ynet.co.il/Common/Api/Scripts/video/videojs.ima.js$script,domain=m.ynet.co.il
 aliexpress.*###magnet-order-list
@@ -40,6 +29,7 @@ diakov.net##.rating
 diakov.net##.related
 diakov.net##.relatedrate
 diakov.net##td > .card-body
+github.com##.d-block.border-gray-light.border.rounded-1.text-center.p-4.content
 github.com##.mt-3.mb-2.mt-md-2.mx-md-2.text-gray.text-small
 github.com##.p-responsive.width-full.container-xl.footer
 github.com##.protip
@@ -101,6 +91,12 @@ newmedia.calcalist.co.il##.hafnaya-sof
 ouo.io##.about
 ouo.io##.footer-copy
 ouo.io##.join-now
+rarbgto.org##.lista-rounded > tbody > tr:nth-of-type(4)
+rarbgto.org##.lista-rounded > tbody > tr:nth-of-type(4) > td
+rarbgto.org##body > div:nth-of-type(2)
+rarbgto.org##body > div:nth-of-type(3)
+rarbgto.org##body > div:nth-of-type(4)
+rarbgto.org##tr:nth-of-type(6) > .block
 support-maplestory.nexon.net##.footer
 support-maplestory.nexon.net##.footer-inner
 support-maplestory.nexon.net##.footer-links
@@ -137,6 +133,7 @@ www.amazon.com###valuePick_feature_div
 www.amazon.com##.a-padding-base.a-box-inner
 www.amazon.com##.a-padding-base.a-section
 www.amazon.com##.a-spacing-large.a-section
+www.amazon.com##.ac-for-text
 www.amazon.com##.amazonlive-widget-padding
 www.amazon.com##.nav-sprite-v1.navLeftFooter
 www.amazon.com##.navFooterCopyright.navFooterPadItemLine.navFooterLinkLine.navFooterLine
@@ -149,6 +146,10 @@ www.animencodes.com##.footer-outer
 www.bconnect.co.il##.footer-box
 www.bezeq.co.il###bezeq_search_social
 www.bezeq.co.il##.bezeq_blue_footer_container
+www.booknet.co.il###footer
+www.booknet.co.il###footer > .container
+www.booknet.co.il##.footer-contacts
+www.booknet.co.il##body > div
 www.calcalist.co.il###f_logo
 www.calcalist.co.il##.art-tags-wrp
 www.calcalist.co.il##.col-last-child.W4_wrp
@@ -227,6 +228,17 @@ www.metropark.co.il##.footer-rights
 www.mirrored.to##.dl-width.foo-con
 www.mirrored.to##.extra-top.bordered.col-sm
 www.mirrored.to##footer
+www.newpangourmet.co.il##.footer-lower
+www.newpangourmet.co.il##.footer-lower-center
+www.newpangourmet.co.il##.footer-middle
+www.newpangourmet.co.il##.nivo-main-image
+www.pornhubpremium.com###footer
+www.pornhubpremium.com###js-trialExpireReminder
+www.pornhubpremium.com##.emailVerHomepageContainer > p
+www.pornhubpremium.com##.footerContent
+www.pornhubpremium.com##.js_dropdownBound.languageWrapper
+www.pornhubpremium.com##.logoFooterWrapper
+www.pornhubpremium.com##.membershipCo
 www.reviewgeek.com##.amp-wp-tax-tag
 www.reviewgeek.com##.container
 www.reviewgeek.com##.copyright
@@ -250,6 +262,9 @@ www.themarker.com##div.h.g:nth-of-type(6)
 www.theverge.com##.c-related-list
 www.theverge.com##.connatix-container
 www.theverge.com##footer
+www.tukero.org###footer
+www.tukero.org##.post-text > div > form
+www.tukero.org##.post-text input
 www.tvtime.com###get-the-app
 www.tvtime.com##.credits > p
 www.tvtime.com##.social
