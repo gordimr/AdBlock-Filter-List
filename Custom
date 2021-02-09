@@ -2,6 +2,37 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-02-09 https://www.how2shout.com
+www.how2shout.com##.related-posts
+www.how2shout.com##.copyrights
+www.how2shout.com##.widgets-num-4.first-footer-widgets.footer-widgets
+www.how2shout.com##.horizontal-small.widget_mts_recent_posts_widget.widget
+www.how2shout.com##.horizontal-small.widget_mts_popular_posts_widget.widget
+
+! 2021-02-09 https://www.techradar.com
+www.techradar.com###affiliateDisclaimer
+www.techradar.com##.full.container.trending-bar
+www.techradar.com###popularcontent
+www.techradar.com##.read-more-container
+www.techradar.com###expanding-articles
+www.techradar.com##.related-articles-block
+www.techradar.com###document-footer-content
+www.techradar.com##.full.block-link
+
+! 2021-02-09 https://www.pcgamer.com
+www.pcgamer.com###affiliateDisclaimer
+www.pcgamer.com##.full.container.trending-bar
+www.pcgamer.com##.recommendation-container
+www.pcgamer.com###popularcontent
+www.pcgamer.com###document-footer-content
+www.pcgamer.com##.related-articles-block
+www.pcgamer.com##.read-more-container
+www.pcgamer.com##.fancy-box
+
+! 2021-02-09 https://www.razer.com
+www.razer.com##.footer-container.container
+
+
 ! 2021-02-08 https://diakov.net
 diakov.net##.stags
 diakov.net##.fa-slack.fa
