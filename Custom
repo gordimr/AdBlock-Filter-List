@@ -2,6 +2,11 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-02-08 https://diakov.net
+diakov.net##.stags
+diakov.net##.fa-slack.fa
+
+
 4pda.ru##.copyright
 @@||www.ynet.co.il/Common/Api/Scripts/video/videojs.ima.js$script,domain=m.ynet.co.il
 aliexpress.*###magnet-order-list
