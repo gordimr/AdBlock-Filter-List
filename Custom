@@ -2,46 +2,6 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
-! 2021-02-09 https://www.spaste.com
-www.spaste.com##.btn-small.btn-danger.btn
-
-
-! 2021-02-09 https://www.how2shout.com
-www.how2shout.com##.related-posts
-www.how2shout.com##.copyrights
-www.how2shout.com##.widgets-num-4.first-footer-widgets.footer-widgets
-www.how2shout.com##.horizontal-small.widget_mts_recent_posts_widget.widget
-www.how2shout.com##.horizontal-small.widget_mts_popular_posts_widget.widget
-
-! 2021-02-09 https://www.techradar.com
-www.techradar.com###affiliateDisclaimer
-www.techradar.com##.full.container.trending-bar
-www.techradar.com###popularcontent
-www.techradar.com##.read-more-container
-www.techradar.com###expanding-articles
-www.techradar.com##.related-articles-block
-www.techradar.com###document-footer-content
-www.techradar.com##.full.block-link
-
-! 2021-02-09 https://www.pcgamer.com
-www.pcgamer.com###affiliateDisclaimer
-www.pcgamer.com##.full.container.trending-bar
-www.pcgamer.com##.recommendation-container
-www.pcgamer.com###popularcontent
-www.pcgamer.com###document-footer-content
-www.pcgamer.com##.related-articles-block
-www.pcgamer.com##.read-more-container
-www.pcgamer.com##.fancy-box
-
-! 2021-02-09 https://www.razer.com
-www.razer.com##.footer-container.container
-
-
-! 2021-02-08 https://diakov.net
-diakov.net##.stags
-diakov.net##.fa-slack.fa
-
-
 4pda.ru##.copyright
 @@||www.ynet.co.il/Common/Api/Scripts/video/videojs.ima.js$script,domain=m.ynet.co.il
 aliexpress.*###magnet-order-list
@@ -65,9 +25,11 @@ deliveries.orrs.de##.mdl-mega-footer--bottom-section
 diakov.net###dle-content > table > tbody > tr
 diakov.net##.buyAction
 diakov.net##.container.footer
+diakov.net##.fa-slack.fa
 diakov.net##.rating
 diakov.net##.related
 diakov.net##.relatedrate
+diakov.net##.stags
 diakov.net##td > .card-body
 github.com##.d-block.border-gray-light.border.rounded-1.text-center.p-4.content
 github.com##.mt-3.mb-2.mt-md-2.mx-md-2.text-gray.text-small
@@ -131,6 +93,9 @@ newmedia.calcalist.co.il##.hafnaya-sof
 ouo.io##.about
 ouo.io##.footer-copy
 ouo.io##.join-now
+pcpartpicker.com###disclosure
+pcpartpicker.com##.footer__copyright
+pcpartpicker.com##body > .clearfix
 rarbgto.org##.lista-rounded > tbody > tr:nth-of-type(4)
 rarbgto.org##.lista-rounded > tbody > tr:nth-of-type(4) > td
 rarbgto.org##body > div:nth-of-type(2)
@@ -147,10 +112,19 @@ theverifier.co.il##.jeg_post_tags
 theverifier.co.il##.jnews_author_box_container
 turbobit.net###copyright-block
 turbobit.net##.row.footer-links
+up-load.io##.buyPremium.alert-success.alert
+up-load.io##.col-md-8 > li
+up-load.io##.footer-sub
+up-load.io##.footer-sub > .container
+up-load.io##.text-center.col-md-8
+up-load.io##center > li
+up-load.io##footer
+up-load.io##footer > .container
 uploadrar.com###footer2
 uploadrar.com###gdpr-cookie-notice
 uploadrar.com###news_last
 uploadrar.com##.aboutus
+uploadrar.com##.col-md-offset-2.col-lg-4.col-md-4.col-sm-12.col-xs-12
 uploadrar.com##.copyrights
 uploadrar.com##.menufooter
 uploadrar.com##.socialmedia
@@ -262,6 +236,16 @@ www.hot.net.il##.footerLogos_right
 www.hot.net.il##.helpfulLinks
 www.hot.net.il##.myHot_socialPanel
 www.hot.net.il##.ng-scope.footerSEO_links
+www.how2shout.com##.copyrights
+www.how2shout.com##.horizontal-small.widget_mts_popular_posts_widget.widget
+www.how2shout.com##.horizontal-small.widget_mts_recent_posts_widget.widget
+www.how2shout.com##.related-posts
+www.how2shout.com##.widgets-num-4.first-footer-widgets.footer-widgets
+www.israelhayom.co.il###mini-panel-footer > .panel-col.panel-panel
+www.israelhayom.co.il##.clear-block.panel-onecol-row-stack.panel-display
+www.israelhayom.co.il##.even.field-item > div:nth-of-type(5) > div:nth-of-type(1) > div > div
+www.israelhayom.co.il##.sticky-header
+www.israelhayom.co.il##.tags-list
 www.metropark.co.il###footer
 www.metropark.co.il##.footer-content.table
 www.metropark.co.il##.footer-rights
@@ -272,6 +256,14 @@ www.newpangourmet.co.il##.footer-lower
 www.newpangourmet.co.il##.footer-lower-center
 www.newpangourmet.co.il##.footer-middle
 www.newpangourmet.co.il##.nivo-main-image
+www.pcgamer.com###affiliateDisclaimer
+www.pcgamer.com###document-footer-content
+www.pcgamer.com###popularcontent
+www.pcgamer.com##.fancy-box
+www.pcgamer.com##.full.container.trending-bar
+www.pcgamer.com##.read-more-container
+www.pcgamer.com##.recommendation-container
+www.pcgamer.com##.related-articles-block
 www.pornhubpremium.com###footer
 www.pornhubpremium.com###js-trialExpireReminder
 www.pornhubpremium.com##.emailVerHomepageContainer > p
@@ -279,12 +271,23 @@ www.pornhubpremium.com##.footerContent
 www.pornhubpremium.com##.js_dropdownBound.languageWrapper
 www.pornhubpremium.com##.logoFooterWrapper
 www.pornhubpremium.com##.membershipCo
+www.razer.com##.footer-container.container
 www.reviewgeek.com##.amp-wp-tax-tag
 www.reviewgeek.com##.container
 www.reviewgeek.com##.copyright
 www.reviewgeek.com##.logo
 www.reviewgeek.com##.site-footer
+www.solidfiles.com##.premium-promo.box
+www.spaste.com##.btn-small.btn-danger.btn
 www.spaste.com##.footer-below
+www.techradar.com###affiliateDisclaimer
+www.techradar.com###document-footer-content
+www.techradar.com###expanding-articles
+www.techradar.com###popularcontent
+www.techradar.com##.full.block-link
+www.techradar.com##.full.container.trending-bar
+www.techradar.com##.read-more-container
+www.techradar.com##.related-articles-block
 www.tgspot.co.il##.author-box-wrap
 www.tgspot.co.il##.mrf-homeAnchor.mrf-adDensityBodySentinel.mrf-sectionPart
 www.tgspot.co.il##.mrf-scrollViewContainer.mrf-item-related-links.mrf-sectionPreview
