@@ -4,12 +4,17 @@
 !
 4pda.ru##.copyright
 @@||www.ynet.co.il/Common/Api/Scripts/video/videojs.ima.js$script,domain=m.ynet.co.il
+acrobat.adobe.com###gnav_711 > .feds-navList
+acrobat.adobe.com##.gnavFooter > .feds-navBar-wrapper
 aliexpress.*###magnet-order-list
+aliexpress.*##.banner-container
 aliexpress.*##.bottom-recommendation
+aliexpress.*##.container.Pd-zt
 aliexpress.*##.footer-copywrite
 aliexpress.*##.hot-words
 aliexpress.*##.just-for-you-entrance.container
 aliexpress.*##.mobile-app.me-ui-box
+aliexpress.*##.product-recomment
 aliexpress.*##.recommend-container.card-container
 aliexpress.*##.site-footer
 aliexpress.*##.site-server-box
@@ -105,6 +110,8 @@ rarbgto.org##tr:nth-of-type(6) > .block
 support-maplestory.nexon.net##.footer
 support-maplestory.nexon.net##.footer-inner
 support-maplestory.nexon.net##.footer-links
+support.logi.com##.footer-inner
+support.logi.com##.footer-link-container
 support.logi.com##.rights-reserve
 theverifier.co.il##.clearfix.jeg_footer_primary
 theverifier.co.il##.col-md-4.jeg_sticky_sidebar.jeg_sidebar
@@ -214,6 +221,7 @@ www.geektime.co.il##.tags.categories
 www.geektime.co.il##div.clearfix.shell:nth-of-type(1)
 www.geektime.co.il##section.gt-mobile-item.top-banner.banner
 www.geektime.co.il##section.gt-mobile-item.top-banner.banner > .poloriz-widget
+www.getpcsofts.net###footer > .container
 www.globes.co.il###F_Content > .tags
 www.globes.co.il###passMadadim
 www.globes.co.il###readMoreList
@@ -321,6 +329,7 @@ www.xda-developers.com###post-tags-wrapper
 www.xda-developers.com##.entry_tags
 www.xda-developers.com##.tagbar
 www.xda-developers.com##.xda_suggested_apps.widget
+www.xvideos.red##footer
 www.ynet.co.il##.ArticleTagsComponent
 www.ynet.co.il##.CreditLogos
 www.ynet.co.il##.FooterLogos
