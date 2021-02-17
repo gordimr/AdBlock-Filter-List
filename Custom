@@ -2,6 +2,15 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-02-16 https://www.semicom.co.il
+www.semicom.co.il##.footer_copyright
+www.semicom.co.il###page_content > .cms_content_area
+www.semicom.co.il##.home_footer_text
+www.semicom.co.il##.shipping-info
+
+
+! 2021-02-16 https://m.ynet.co.il
+m.ynet.co.il##.sticky-adunit._adunit_
 4pda.ru##.copyright
 @@||www.ynet.co.il/Common/Api/Scripts/video/videojs.ima.js$script,domain=m.ynet.co.il
 acrobat.adobe.com###gnav_711 > .feds-navList
