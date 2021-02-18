@@ -2,28 +2,6 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
-! 2021-02-18 https://www.aliexpress.com
-www.aliexpress.com##.main-content.page-content.seo-page-content
-www.aliexpress.com##.search-feedback-wrap
-www.aliexpress.com##.gps-recommend-wrap.next-slick-hoz.next-slick-outer.next-slick
-www.aliexpress.com##.gps-recommend-dialog-title
-
-! 2021-02-18 https://www.epicgames.com
-www.epicgames.com##.copyright.row
-www.epicgames.com##.footer-legal.row
-www.epicgames.com##.footer-links-container.row
-www.epicgames.com##.epic_games.mobile-border-color.bg-color.container-fluid.egf
-
-
-! 2021-02-16 https://www.semicom.co.il
-www.semicom.co.il##.footer_copyright
-www.semicom.co.il###page_content > .cms_content_area
-www.semicom.co.il##.home_footer_text
-www.semicom.co.il##.shipping-info
-
-
-! 2021-02-16 https://m.ynet.co.il
-m.ynet.co.il##.sticky-adunit._adunit_
 4pda.ru##.copyright
 @@||www.ynet.co.il/Common/Api/Scripts/video/videojs.ima.js$script,domain=m.ynet.co.il
 acrobat.adobe.com###gnav_711 > .feds-navList
@@ -33,11 +11,15 @@ aliexpress.*##.banner-container
 aliexpress.*##.bottom-recommendation
 aliexpress.*##.container.Pd-zt
 aliexpress.*##.footer-copywrite
+aliexpress.*##.gps-recommend-dialog-title
+aliexpress.*##.gps-recommend-wrap.next-slick-hoz.next-slick-outer.next-slick
 aliexpress.*##.hot-words
 aliexpress.*##.just-for-you-entrance.container
+aliexpress.*##.main-content.page-content.seo-page-content
 aliexpress.*##.mobile-app.me-ui-box
 aliexpress.*##.product-recomment
 aliexpress.*##.recommend-container.card-container
+aliexpress.*##.search-feedback-wrap
 aliexpress.*##.site-footer
 aliexpress.*##.site-server-box
 aliexpress.*##.user-helper-footer
@@ -101,6 +83,7 @@ m.ynet.co.il###share-icons-wrapper-android
 m.ynet.co.il##.article-header-menu
 m.ynet.co.il##.dont-miss-notify
 m.ynet.co.il##.explore-more-wrapper
+m.ynet.co.il##.sticky-adunit._adunit_
 m.ynet.co.il##p:nth-of-type(2)
 m.ynet.co.il##p:nth-of-type(3)
 m.ynet.co.il##ul
@@ -205,6 +188,10 @@ www.calcalist.co.il##div.art-top-mrg.clearFix > .art-top-mrg.clearFix
 www.calcalist.co.il##div.art-top-mrg.clearFix:nth-of-type(3)
 www.calcalist.co.il##div.art-top-mrg.clearFix:nth-of-type(8)
 www.calcalist.co.il##div.art-top-mrg.clearFix:nth-of-type(9)
+www.epicgames.com##.copyright.row
+www.epicgames.com##.epic_games.mobile-border-color.bg-color.container-fluid.egf
+www.epicgames.com##.footer-legal.row
+www.epicgames.com##.footer-links-container.row
 www.erai-raws.info##.last.twelvecol
 www.erai-raws.info##[href="/donate/"]
 www.fxp.co.il##.additional-links
@@ -307,6 +294,10 @@ www.reviewgeek.com##.container
 www.reviewgeek.com##.copyright
 www.reviewgeek.com##.logo
 www.reviewgeek.com##.site-footer
+www.semicom.co.il###page_content > .cms_content_area
+www.semicom.co.il##.footer_copyright
+www.semicom.co.il##.home_footer_text
+www.semicom.co.il##.shipping-info
 www.solidfiles.com##.premium-promo.box
 www.spaste.com##.btn-small.btn-danger.btn
 www.spaste.com##.footer-below
