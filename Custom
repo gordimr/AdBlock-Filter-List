@@ -2,6 +2,19 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-02-18 https://www.aliexpress.com
+www.aliexpress.com##.main-content.page-content.seo-page-content
+www.aliexpress.com##.search-feedback-wrap
+www.aliexpress.com##.gps-recommend-wrap.next-slick-hoz.next-slick-outer.next-slick
+www.aliexpress.com##.gps-recommend-dialog-title
+
+! 2021-02-18 https://www.epicgames.com
+www.epicgames.com##.copyright.row
+www.epicgames.com##.footer-legal.row
+www.epicgames.com##.footer-links-container.row
+www.epicgames.com##.epic_games.mobile-border-color.bg-color.container-fluid.egf
+
+
 ! 2021-02-16 https://www.semicom.co.il
 www.semicom.co.il##.footer_copyright
 www.semicom.co.il###page_content > .cms_content_area
