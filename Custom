@@ -2,6 +2,30 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-02-20 https://www.aliexpress.com
+www.aliexpress.com###related-searches
+www.aliexpress.com##.container.you-may-also-like
+www.aliexpress.com##.related-products
+
+! 2021-02-20 https://www.youtube.com
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+www.youtube.com###copyright
+
+! 2021-02-20 https://ouo.press
+ouo.press##.footer-copy > .container
+ouo.press##.about
+ouo.press##.join-now
+
+! 2021-02-20 http://forum.oszone.net
+forum.oszone.net###footer_c
+
+! 2021-02-21 https://www.pornhubpremium.com
+www.pornhubpremium.com##footer
+www.pornhubpremium.com##.upsellWrapper
+www.pornhubpremium.com##.footerContentWrapper
+
+
 4pda.ru##.copyright
 @@||www.ynet.co.il/Common/Api/Scripts/video/videojs.ima.js$script,domain=m.ynet.co.il
 acrobat.adobe.com###gnav_711 > .feds-navList
