@@ -2,85 +2,16 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
-! 2021-02-24 https://m.calcalist.co.il
-m.calcalist.co.il##.fc-consent-root
-
-! 2021-02-26 https://www.tomsguide.com
-www.tomsguide.com###quantcast
-
-! 2021-02-23 https://www.amazon.com
-www.amazon.com##.sims-lpo-section.similarities-widget.a-section
-www.amazon.com###dp-container > div.celwidget > .a-section
-www.amazon.com###sims-consolidated-4_feature_div
-www.amazon.com##.rhf-frame
-www.amazon.com##div.s-widget.s-flex-full-width.s-result-item.a-spacing-none.a-section
-
-! 2021-02-25 https://www.zap.co.il
-www.zap.co.il##.BottomComment
-www.zap.co.il##.ZapHomepageFooter
-www.zap.co.il##.mashlimim
-www.zap.co.il##.MashlimimCat
-www.zap.co.il##div.Archive > [href^="/modelsstore.aspx"]
-www.zap.co.il##.ph_Personalization
-www.zap.co.il##.SearchResultsMain > div.BannerBoxNew
-
-! 2021-02-25 https://tst-israel.co.il
-tst-israel.co.il##.w-copyright
-tst-israel.co.il##.at_bottom.l-subfooter
-tst-israel.co.il##.products.upsells.up-sells
-
-! 2021-02-25 https://www.teldor.com
-www.teldor.com##.active.cookies-agreements
-
-! 2021-02-25 https://www.daganm.co.il
-www.daganm.co.il##.height-matched.match-height.items-in-row-1.margin-top-sm.template-pages_rows.widget-index.widget
-www.daganm.co.il##.footer-bottom > .container
-
-! 2021-02-25 https://tst-israel.co.il
-tst-israel.co.il##section.height_medium.wpb_row.l-section:nth-of-type(2)
-
-! 2021-02-25 https://www.sendspace.com
-www.sendspace.com###signature
-www.sendspace.com###footer_menu
-www.sendspace.com##.tac.text
-
-! 2021-02-28 https://tst-israel.co.il
-tst-israel.co.il##.cross-sells
-tst-israel.co.il##.cart100.wpb_text_column
-
-
-! 2021-02-20 https://www.aliexpress.com
-www.aliexpress.com###related-searches
-www.aliexpress.com##.container.you-may-also-like
-www.aliexpress.com##.related-products
-
-! 2021-02-20 https://www.youtube.com
-www.youtube.com###guide-links-primary
-www.youtube.com###guide-links-secondary
-www.youtube.com###copyright
-
-! 2021-02-20 https://ouo.press
-ouo.press##.footer-copy > .container
-ouo.press##.about
-ouo.press##.join-now
-
-! 2021-02-20 http://forum.oszone.net
-forum.oszone.net###footer_c
-
-! 2021-02-21 https://www.pornhubpremium.com
-www.pornhubpremium.com##footer
-www.pornhubpremium.com##.upsellWrapper
-www.pornhubpremium.com##.footerContentWrapper
-
-
 4pda.ru##.copyright
 @@||www.ynet.co.il/Common/Api/Scripts/video/videojs.ima.js$script,domain=m.ynet.co.il
 acrobat.adobe.com###gnav_711 > .feds-navList
 acrobat.adobe.com##.gnavFooter > .feds-navBar-wrapper
 aliexpress.*###magnet-order-list
+aliexpress.*###related-searches
 aliexpress.*##.banner-container
 aliexpress.*##.bottom-recommendation
 aliexpress.*##.container.Pd-zt
+aliexpress.*##.container.you-may-also-like
 aliexpress.*##.footer-copywrite
 aliexpress.*##.gps-recommend-dialog-title
 aliexpress.*##.gps-recommend-wrap.next-slick-hoz.next-slick-outer.next-slick
@@ -90,6 +21,7 @@ aliexpress.*##.main-content.page-content.seo-page-content
 aliexpress.*##.mobile-app.me-ui-box
 aliexpress.*##.product-recomment
 aliexpress.*##.recommend-container.card-container
+aliexpress.*##.related-products
 aliexpress.*##.search-feedback-wrap
 aliexpress.*##.site-footer
 aliexpress.*##.site-server-box
@@ -111,6 +43,7 @@ diakov.net##.related
 diakov.net##.relatedrate
 diakov.net##.stags
 diakov.net##td > .card-body
+forum.oszone.net###footer_c
 github.com##.d-block.border-gray-light.border.rounded-1.text-center.p-4.content
 github.com##.mt-3.mb-2.mt-md-2.mx-md-2.text-gray.text-small
 github.com##.p-responsive.width-full.container-xl.footer
@@ -146,6 +79,7 @@ m.calcalist.co.il##.c-article-device__share
 m.calcalist.co.il##.c-article-device__tags
 m.calcalist.co.il##.c-footer__links
 m.calcalist.co.il##.c-terms__info
+m.calcalist.co.il##.fc-consent-root
 m.calcalist.co.il##.poloriz-widget
 m.calcalist.co.il##.s-thirdparties-content
 m.calcalist.co.il##.t-terms__gdprx.c-terms__gdpr
@@ -174,6 +108,9 @@ newmedia.calcalist.co.il##.hafnaya-sof
 ouo.io##.about
 ouo.io##.footer-copy
 ouo.io##.join-now
+ouo.press##.about
+ouo.press##.footer-copy > .container
+ouo.press##.join-now
 pcpartpicker.com###disclosure
 pcpartpicker.com##.footer__copyright
 pcpartpicker.com##body > .clearfix
@@ -193,6 +130,12 @@ theverifier.co.il##.clearfix.jeg_footer_primary
 theverifier.co.il##.col-md-4.jeg_sticky_sidebar.jeg_sidebar
 theverifier.co.il##.jeg_post_tags
 theverifier.co.il##.jnews_author_box_container
+tst-israel.co.il##.at_bottom.l-subfooter
+tst-israel.co.il##.cart100.wpb_text_column
+tst-israel.co.il##.cross-sells
+tst-israel.co.il##.products.upsells.up-sells
+tst-israel.co.il##.w-copyright
+tst-israel.co.il##section.height_medium.wpb_row.l-section:nth-of-type(2)
 turbobit.net###copyright-block
 turbobit.net##.row.footer-links
 up-load.io##.buyPremium.alert-success.alert
@@ -224,10 +167,12 @@ walla.*##.undefined.section-links.css-114l8a5
 walla.*##.walla-icon-printer.no-mobile.noprint.css-b3wih4
 www.amazon.com###bottom
 www.amazon.com###certifiedRefurbishedVersion_feature_div
+www.amazon.com###dp-container > div.celwidget > .a-section
 www.amazon.com###moreBuyingChoices_feature_div
 www.amazon.com###recsWidget > .a-spacing-large.a-section
 www.amazon.com###rhf-container
 www.amazon.com###rhf-shoveler
+www.amazon.com###sims-consolidated-4_feature_div
 www.amazon.com###valuePick_feature_div
 www.amazon.com##.a-padding-base.a-box-inner
 www.amazon.com##.a-padding-base.a-section
@@ -237,8 +182,11 @@ www.amazon.com##.amazonlive-widget-padding
 www.amazon.com##.nav-sprite-v1.navLeftFooter
 www.amazon.com##.navFooterCopyright.navFooterPadItemLine.navFooterLinkLine.navFooterLine
 www.amazon.com##.navFooterDescLine.navFooterLinkLine.navFooterLine
+www.amazon.com##.rhf-frame
+www.amazon.com##.sims-lpo-section.similarities-widget.a-section
 www.amazon.com##div.celwidget:nth-of-type(45)
 www.amazon.com##div.navFooterPadItemLine.navFooterLinkLine.navFooterLine:nth-of-type(3)
+www.amazon.com##div.s-widget.s-flex-full-width.s-result-item.a-spacing-none.a-section
 www.animencodes.com###HTML4
 www.animencodes.com##.footer-inner.region-inner
 www.animencodes.com##.footer-outer
@@ -261,6 +209,8 @@ www.calcalist.co.il##div.art-top-mrg.clearFix > .art-top-mrg.clearFix
 www.calcalist.co.il##div.art-top-mrg.clearFix:nth-of-type(3)
 www.calcalist.co.il##div.art-top-mrg.clearFix:nth-of-type(8)
 www.calcalist.co.il##div.art-top-mrg.clearFix:nth-of-type(9)
+www.daganm.co.il##.footer-bottom > .container
+www.daganm.co.il##.height-matched.match-height.items-in-row-1.margin-top-sm.template-pages_rows.widget-index.widget
 www.epicgames.com##.copyright.row
 www.epicgames.com##.epic_games.mobile-border-color.bg-color.container-fluid.egf
 www.epicgames.com##.footer-legal.row
@@ -363,9 +313,12 @@ www.pornhubpremium.com###footer
 www.pornhubpremium.com###js-trialExpireReminder
 www.pornhubpremium.com##.emailVerHomepageContainer > p
 www.pornhubpremium.com##.footerContent
+www.pornhubpremium.com##.footerContentWrapper
 www.pornhubpremium.com##.js_dropdownBound.languageWrapper
 www.pornhubpremium.com##.logoFooterWrapper
 www.pornhubpremium.com##.membershipCo
+www.pornhubpremium.com##.upsellWrapper
+www.pornhubpremium.com##footer
 www.razer.com##.footer-container.container
 www.reviewgeek.com##.amp-wp-tax-tag
 www.reviewgeek.com##.container
@@ -376,6 +329,9 @@ www.semicom.co.il###page_content > .cms_content_area
 www.semicom.co.il##.footer_copyright
 www.semicom.co.il##.home_footer_text
 www.semicom.co.il##.shipping-info
+www.sendspace.com###footer_menu
+www.sendspace.com###signature
+www.sendspace.com##.tac.text
 www.solidfiles.com##.premium-promo.box
 www.spaste.com##.btn-small.btn-danger.btn
 www.spaste.com##.footer-below
@@ -387,6 +343,7 @@ www.techradar.com##.full.block-link
 www.techradar.com##.full.container.trending-bar
 www.techradar.com##.read-more-container
 www.techradar.com##.related-articles-block
+www.teldor.com##.active.cookies-agreements
 www.tgspot.co.il##.author-box-wrap
 www.tgspot.co.il##.mrf-homeAnchor.mrf-adDensityBodySentinel.mrf-sectionPart
 www.tgspot.co.il##.mrf-scrollViewContainer.mrf-item-related-links.mrf-sectionPreview
@@ -404,6 +361,7 @@ www.themarker.com##div.h.g:nth-of-type(6)
 www.theverge.com##.c-related-list
 www.theverge.com##.connatix-container
 www.theverge.com##footer
+www.tomsguide.com###quantcast
 www.tukero.org###footer
 www.tukero.org##.post-text > div > form
 www.tukero.org##.post-text input
@@ -435,7 +393,17 @@ www.ynet.co.il##div.layoutContainer:nth-of-type(5)
 www.ynet.co.il##div.layoutContainer:nth-of-type(7)
 www.ynet.co.il##div.rtl.text_editor_paragraph:nth-of-type(2)
 www.ynet.co.il##div.rtl.text_editor_paragraph:nth-of-type(3)
+www.youtube.com###copyright
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
 www.youtube.com##.ytd-video-primary-info-renderer.style-scope.super-title
+www.zap.co.il##.BottomComment
+www.zap.co.il##.MashlimimCat
+www.zap.co.il##.SearchResultsMain > div.BannerBoxNew
+www.zap.co.il##.ZapHomepageFooter
+www.zap.co.il##.mashlimim
+www.zap.co.il##.ph_Personalization
+www.zap.co.il##div.Archive > [href^="/modelsstore.aspx"]
 www2.bittools.net###USSE > .container > .row
 www2.bittools.net###footer2
 www2.bittools.net###footer2 > .container
