@@ -2,6 +2,53 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-02-24 https://m.calcalist.co.il
+m.calcalist.co.il##.fc-consent-root
+
+! 2021-02-26 https://www.tomsguide.com
+www.tomsguide.com###quantcast
+
+! 2021-02-23 https://www.amazon.com
+www.amazon.com##.sims-lpo-section.similarities-widget.a-section
+www.amazon.com###dp-container > div.celwidget > .a-section
+www.amazon.com###sims-consolidated-4_feature_div
+www.amazon.com##.rhf-frame
+www.amazon.com##div.s-widget.s-flex-full-width.s-result-item.a-spacing-none.a-section
+
+! 2021-02-25 https://www.zap.co.il
+www.zap.co.il##.BottomComment
+www.zap.co.il##.ZapHomepageFooter
+www.zap.co.il##.mashlimim
+www.zap.co.il##.MashlimimCat
+www.zap.co.il##div.Archive > [href^="/modelsstore.aspx"]
+www.zap.co.il##.ph_Personalization
+www.zap.co.il##.SearchResultsMain > div.BannerBoxNew
+
+! 2021-02-25 https://tst-israel.co.il
+tst-israel.co.il##.w-copyright
+tst-israel.co.il##.at_bottom.l-subfooter
+tst-israel.co.il##.products.upsells.up-sells
+
+! 2021-02-25 https://www.teldor.com
+www.teldor.com##.active.cookies-agreements
+
+! 2021-02-25 https://www.daganm.co.il
+www.daganm.co.il##.height-matched.match-height.items-in-row-1.margin-top-sm.template-pages_rows.widget-index.widget
+www.daganm.co.il##.footer-bottom > .container
+
+! 2021-02-25 https://tst-israel.co.il
+tst-israel.co.il##section.height_medium.wpb_row.l-section:nth-of-type(2)
+
+! 2021-02-25 https://www.sendspace.com
+www.sendspace.com###signature
+www.sendspace.com###footer_menu
+www.sendspace.com##.tac.text
+
+! 2021-02-28 https://tst-israel.co.il
+tst-israel.co.il##.cross-sells
+tst-israel.co.il##.cart100.wpb_text_column
+
+
 ! 2021-02-20 https://www.aliexpress.com
 www.aliexpress.com###related-searches
 www.aliexpress.com##.container.you-may-also-like
