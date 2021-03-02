@@ -2,6 +2,12 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-03-01 https://www.gadgety.co.il
+www.gadgety.co.il##.float-social
+
+! 2021-03-02 https://mobile.mako.co.il
+@@||googleads.github.io/videojs-ima/dist/videojs.ima.js$script,domain=mobile.mako.co.il
+
 4pda.ru##.copyright
 @@||www.ynet.co.il/Common/Api/Scripts/video/videojs.ima.js$script,domain=m.ynet.co.il
 acrobat.adobe.com###gnav_711 > .feds-navList
