@@ -2,6 +2,15 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-03-02 https://diakov.net
+diakov.net###thx
+diakov.net##.reset.isicons
+diakov.net##div#dle-content > div.col-lg-12.my > div.card.mb15 > div.card-body.sh > div.zvcwers > span > div.quote
+diakov.net##.zvcwers > span > font:nth-of-type(1) > font:nth-of-type(1)
+diakov.net##.subscr-left
+diakov.net##.FiveStarsTd
+
+
 4pda.ru##.copyright
 @@||googleads.github.io/videojs-ima/dist/videojs.ima.js$script,domain=mobile.mako.co.il
 @@||www.ynet.co.il/Common/Api/Scripts/video/videojs.ima.js$script,domain=m.ynet.co.il
