@@ -2,19 +2,8 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
-diakov.net#@#.subscr-lazydev
-
-! 2021-03-02 https://www.hot.net.il
-www.hot.net.il###LeftColumn_ctrlText_3883_ControlTitle
-www.hot.net.il##.widgetHP
-
-! 2021-03-01 https://www.gadgety.co.il
-www.gadgety.co.il##.float-social
-
-! 2021-03-02 https://mobile.mako.co.il
-@@||googleads.github.io/videojs-ima/dist/videojs.ima.js$script,domain=mobile.mako.co.il
-
 4pda.ru##.copyright
+@@||googleads.github.io/videojs-ima/dist/videojs.ima.js$script,domain=mobile.mako.co.il
 @@||www.ynet.co.il/Common/Api/Scripts/video/videojs.ima.js$script,domain=m.ynet.co.il
 acrobat.adobe.com###gnav_711 > .feds-navList
 acrobat.adobe.com##.gnavFooter > .feds-navBar-wrapper
@@ -55,6 +44,7 @@ diakov.net##.related
 diakov.net##.relatedrate
 diakov.net##.stags
 diakov.net##td > .card-body
+diakov.net#@#.subscr-lazydev
 forum.oszone.net###footer_c
 github.com##.d-block.border-gray-light.border.rounded-1.text-center.p-4.content
 github.com##.mt-3.mb-2.mt-md-2.mx-md-2.text-gray.text-small
@@ -241,6 +231,7 @@ www.gadgety.co.il###mobile-header-gallery > .color6.heroGallery
 www.gadgety.co.il##.area
 www.gadgety.co.il##.cLeft.cell
 www.gadgety.co.il##.category-holder
+www.gadgety.co.il##.float-social
 www.gadgety.co.il##.line-tags
 www.gadgety.co.il##.messenger.post-bottom > div
 www.gadgety.co.il##.resizableText > span
@@ -285,6 +276,7 @@ www.globes.co.il##.social
 www.globes.co.il##.tagit
 www.globes.co.il##.wr > section
 www.globes.co.il##footer
+www.hot.net.il###LeftColumn_ctrlText_3883_ControlTitle
 www.hot.net.il##.footerContent
 www.hot.net.il##.footerLinks
 www.hot.net.il##.footerLogos
@@ -293,6 +285,7 @@ www.hot.net.il##.footerLogos_right
 www.hot.net.il##.helpfulLinks
 www.hot.net.il##.myHot_socialPanel
 www.hot.net.il##.ng-scope.footerSEO_links
+www.hot.net.il##.widgetHP
 www.how2shout.com##.copyrights
 www.how2shout.com##.horizontal-small.widget_mts_popular_posts_widget.widget
 www.how2shout.com##.horizontal-small.widget_mts_recent_posts_widget.widget
