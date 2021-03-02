@@ -2,6 +2,12 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+
+
+! 2021-03-02 https://www.hot.net.il
+www.hot.net.il###LeftColumn_ctrlText_3883_ControlTitle
+www.hot.net.il##.widgetHP
+
 ! 2021-03-01 https://www.gadgety.co.il
 www.gadgety.co.il##.float-social
 
