@@ -2,6 +2,21 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-03-03 https://uploadrar.com
+uploadrar.com##footer
+
+! 2021-03-03 https://www.hachvana.mod.gov.il
+www.hachvana.mod.gov.il##.footerEn
+www.hachvana.mod.gov.il##.footerHe
+www.hachvana.mod.gov.il##.hidden-xs.col-md-4.col-sm-6.footerIcons
+
+! 2021-03-03 https://www.hot.net.il
+www.hot.net.il##.myHot_hatava_helpfulLinks
+
+! 2021-03-04 https://www.erai-raws.info
+www.erai-raws.info###image_ads
+
+
 ! 2021-03-02 https://diakov.net
 diakov.net###thx
 diakov.net##.reset.isicons
