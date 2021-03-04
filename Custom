@@ -2,6 +2,14 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-03-04 https://www.howtogeek.com
+www.howtogeek.com##.amp-wp-tax-tag.amp-wp-meta
+www.howtogeek.com##.site-footer
+www.howtogeek.com##.amp-social-sharing
+www.howtogeek.com##.shortbioauthordiv
+
+! 2021-03-04 https://myanimelist.net
+myanimelist.net##.di-b.footer-container
 ! 2021-03-03 https://uploadrar.com
 uploadrar.com##footer
 
