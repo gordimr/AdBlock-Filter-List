@@ -2,6 +2,10 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-03-07 https://4pda.ru
+4pda.ru##noindex > .borderwrap
+
+
 ! 2021-03-05 https://softwarekeep.com
 softwarekeep.com##.banner-item
 
