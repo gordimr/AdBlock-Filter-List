@@ -2,6 +2,28 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-03-05 https://softwarekeep.com
+softwarekeep.com##.banner-item
+
+! 2021-03-06 https://www.tapatalk.com
+www.tapatalk.com##.dot-com-frame-ready
+
+! 2021-03-07 https://www.macrodroidforum.com
+www.macrodroidforum.com##.p-footer-copyright
+
+! 2021-03-07 https://www.tapatalk.com
+www.tapatalk.com##.no-padding.container
+www.tapatalk.com###recommend_topics
+www.tapatalk.com##.endoftopicbar-only-share.bg1.flex.share_icon_area
+www.tapatalk.com##.bar-bottom.action-bar > .dropdown-loaded.dropdown-container.sr-b.fl
+www.tapatalk.com##.bar-bottom.action-bar > .action-bar
+
+
+! 2021-03-05 https://www.theverge.com
+www.theverge.com###privacyConsent
+
+! 2021-03-07 https://www.spotify.com
+www.spotify.com#@#.grecaptcha-badge
 ! 2021-03-04 https://www.howtogeek.com
 www.howtogeek.com##.amp-wp-tax-tag.amp-wp-meta
 www.howtogeek.com##.site-footer
