@@ -2,6 +2,19 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-03-07 https://help.orrs.de
+help.orrs.de##.qa-footer
+help.orrs.de##.wet-asphalt.qa-sidebar
+
+! 2021-03-07 https://chaturbate.com
+chaturbate.com##.footer-holder
+
+! 2021-03-08 https://www.joinhoney.com
+www.joinhoney.com##.cookieConsentBannerContainer-0-2-304
+www.joinhoney.com##.body2.honeyName-0-2-175
+www.joinhoney.com##.links-0-2-173
+www.joinhoney.com##.mainPadding-0-2-167
+
 4pda.ru##.copyright
 4pda.ru##noindex > .borderwrap
 @@||googleads.github.io/videojs-ima/dist/videojs.ima.js$script,domain=mobile.mako.co.il
