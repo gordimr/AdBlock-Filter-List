@@ -2,6 +2,11 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+
+! 2021-03-08 https://ksp.co.il
+||ksp.co.il/m_action/api/promotion/*$1p,important
+||ksp.co.il/m_action/api/footer-items$1p,important
+
 ! 2021-03-07 https://help.orrs.de
 help.orrs.de##.qa-footer
 help.orrs.de##.wet-asphalt.qa-sidebar
