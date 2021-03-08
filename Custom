@@ -2,6 +2,9 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-03-08 https://www.amazon.com
+www.amazon.com##.a-carousel-initialized.p13n-sc-carousel.a-carousel-transition-swap.a-carousel-display-swap.a-carousel-container.a-begin
+
 
 ! 2021-03-08 https://ksp.co.il
 ||ksp.co.il/m_action/api/promotion/*$1p,important
