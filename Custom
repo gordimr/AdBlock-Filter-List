@@ -229,14 +229,12 @@ www.amazon.*###bottom
 www.amazon.*###certifiedRefurbishedVersion_feature_div
 www.amazon.*###dp-container > div.celwidget > .a-section
 www.amazon.*###moreBuyingChoices_feature_div
-www.amazon.*###recsWidget > .a-spacing-large.a-section
 www.amazon.*###rhf-container
 www.amazon.*###rhf-shoveler
 www.amazon.*###sims-consolidated-4_feature_div
 www.amazon.*###valuePick_feature_div
 www.amazon.*##.a-padding-base.a-box-inner
 www.amazon.*##.a-padding-base.a-section
-www.amazon.*##.a-spacing-large.a-section
 www.amazon.*##.ac-for-text
 www.amazon.*##.amazonlive-widget-padding
 www.amazon.*##.nav-sprite-v1.navLeftFooter
