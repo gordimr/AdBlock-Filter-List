@@ -2,65 +2,8 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
-! 2021-03-07 https://4pda.ru
-4pda.ru##noindex > .borderwrap
-
-
-! 2021-03-05 https://softwarekeep.com
-softwarekeep.com##.banner-item
-
-! 2021-03-06 https://www.tapatalk.com
-www.tapatalk.com##.dot-com-frame-ready
-
-! 2021-03-07 https://www.macrodroidforum.com
-www.macrodroidforum.com##.p-footer-copyright
-
-! 2021-03-07 https://www.tapatalk.com
-www.tapatalk.com##.no-padding.container
-www.tapatalk.com###recommend_topics
-www.tapatalk.com##.endoftopicbar-only-share.bg1.flex.share_icon_area
-www.tapatalk.com##.bar-bottom.action-bar > .dropdown-loaded.dropdown-container.sr-b.fl
-www.tapatalk.com##.bar-bottom.action-bar > .action-bar
-
-
-! 2021-03-05 https://www.theverge.com
-www.theverge.com###privacyConsent
-
-! 2021-03-07 https://www.spotify.com
-www.spotify.com#@#.grecaptcha-badge
-! 2021-03-04 https://www.howtogeek.com
-www.howtogeek.com##.amp-wp-tax-tag.amp-wp-meta
-www.howtogeek.com##.site-footer
-www.howtogeek.com##.amp-social-sharing
-www.howtogeek.com##.shortbioauthordiv
-
-! 2021-03-04 https://myanimelist.net
-myanimelist.net##.di-b.footer-container
-! 2021-03-03 https://uploadrar.com
-uploadrar.com##footer
-
-! 2021-03-03 https://www.hachvana.mod.gov.il
-www.hachvana.mod.gov.il##.footerEn
-www.hachvana.mod.gov.il##.footerHe
-www.hachvana.mod.gov.il##.hidden-xs.col-md-4.col-sm-6.footerIcons
-
-! 2021-03-03 https://www.hot.net.il
-www.hot.net.il##.myHot_hatava_helpfulLinks
-
-! 2021-03-04 https://www.erai-raws.info
-www.erai-raws.info###image_ads
-
-
-! 2021-03-02 https://diakov.net
-diakov.net###thx
-diakov.net##.reset.isicons
-diakov.net##div#dle-content > div.col-lg-12.my > div.card.mb15 > div.card-body.sh > div.zvcwers > span > div.quote
-diakov.net##.zvcwers > span > font:nth-of-type(1) > font:nth-of-type(1)
-diakov.net##.subscr-left
-diakov.net##.FiveStarsTd
-
-
 4pda.ru##.copyright
+4pda.ru##noindex > .borderwrap
 @@||googleads.github.io/videojs-ima/dist/videojs.ima.js$script,domain=mobile.mako.co.il
 @@||www.ynet.co.il/Common/Api/Scripts/video/videojs.ima.js$script,domain=m.ynet.co.il
 acrobat.adobe.com###gnav_711 > .feds-navList
@@ -94,13 +37,19 @@ bmy.bezeq.co.il##.bezeq_search_footer
 deliveries.orrs.de##.mdl-mega-footer
 deliveries.orrs.de##.mdl-mega-footer--bottom-section
 diakov.net###dle-content > table > tbody > tr
+diakov.net###thx
+diakov.net##.FiveStarsTd
 diakov.net##.buyAction
 diakov.net##.container.footer
 diakov.net##.fa-slack.fa
 diakov.net##.rating
 diakov.net##.related
 diakov.net##.relatedrate
+diakov.net##.reset.isicons
 diakov.net##.stags
+diakov.net##.subscr-left
+diakov.net##.zvcwers > span > font:nth-of-type(1) > font:nth-of-type(1)
+diakov.net##div#dle-content > div.col-lg-12.my > div.card.mb15 > div.card-body.sh > div.zvcwers > span > div.quote
 diakov.net##td > .card-body
 diakov.net#@#.subscr-lazydev
 forum.oszone.net###footer_c
@@ -158,6 +107,7 @@ myanimelist.net###copyright
 myanimelist.net###footer-block
 myanimelist.net##.ac.footer-recommended
 myanimelist.net##.banner-header-anime-straming
+myanimelist.net##.di-b.footer-container
 myanimelist.net##.footer-link-block
 myanimelist.net##.footer-ranking
 myanimelist.net##.pt24.clearfix.mauto
@@ -180,6 +130,7 @@ rarbgto.org##body > div:nth-of-type(2)
 rarbgto.org##body > div:nth-of-type(3)
 rarbgto.org##body > div:nth-of-type(4)
 rarbgto.org##tr:nth-of-type(6) > .block
+softwarekeep.com##.banner-item
 support-maplestory.nexon.net##.footer
 support-maplestory.nexon.net##.footer-inner
 support-maplestory.nexon.net##.footer-links
@@ -216,6 +167,7 @@ uploadrar.com##.copyrights
 uploadrar.com##.menufooter
 uploadrar.com##.socialmedia
 uploadrar.com##.txt
+uploadrar.com##footer
 usersdrive.com##.pro
 walla.*###main-footer
 walla.*##.css-12flape > aside
@@ -273,6 +225,7 @@ www.epicgames.com##.copyright.row
 www.epicgames.com##.epic_games.mobile-border-color.bg-color.container-fluid.egf
 www.epicgames.com##.footer-legal.row
 www.epicgames.com##.footer-links-container.row
+www.erai-raws.info###image_ads
 www.erai-raws.info##.last.twelvecol
 www.erai-raws.info##[href="/donate/"]
 www.fxp.co.il##.additional-links
@@ -332,6 +285,9 @@ www.globes.co.il##.social
 www.globes.co.il##.tagit
 www.globes.co.il##.wr > section
 www.globes.co.il##footer
+www.hachvana.mod.gov.il##.footerEn
+www.hachvana.mod.gov.il##.footerHe
+www.hachvana.mod.gov.il##.hidden-xs.col-md-4.col-sm-6.footerIcons
 www.hot.net.il###LeftColumn_ctrlText_3883_ControlTitle
 www.hot.net.il##.footerContent
 www.hot.net.il##.footerLinks
@@ -339,6 +295,7 @@ www.hot.net.il##.footerLogos
 www.hot.net.il##.footerLogos_left
 www.hot.net.il##.footerLogos_right
 www.hot.net.il##.helpfulLinks
+www.hot.net.il##.myHot_hatava_helpfulLinks
 www.hot.net.il##.myHot_socialPanel
 www.hot.net.il##.ng-scope.footerSEO_links
 www.hot.net.il##.widgetHP
@@ -347,11 +304,16 @@ www.how2shout.com##.horizontal-small.widget_mts_popular_posts_widget.widget
 www.how2shout.com##.horizontal-small.widget_mts_recent_posts_widget.widget
 www.how2shout.com##.related-posts
 www.how2shout.com##.widgets-num-4.first-footer-widgets.footer-widgets
+www.howtogeek.com##.amp-social-sharing
+www.howtogeek.com##.amp-wp-tax-tag.amp-wp-meta
+www.howtogeek.com##.shortbioauthordiv
+www.howtogeek.com##.site-footer
 www.israelhayom.co.il###mini-panel-footer > .panel-col.panel-panel
 www.israelhayom.co.il##.clear-block.panel-onecol-row-stack.panel-display
 www.israelhayom.co.il##.even.field-item > div:nth-of-type(5) > div:nth-of-type(1) > div > div
 www.israelhayom.co.il##.sticky-header
 www.israelhayom.co.il##.tags-list
+www.macrodroidforum.com##.p-footer-copyright
 www.metropark.co.il###footer
 www.metropark.co.il##.footer-content.table
 www.metropark.co.il##.footer-rights
@@ -396,6 +358,13 @@ www.sendspace.com##.tac.text
 www.solidfiles.com##.premium-promo.box
 www.spaste.com##.btn-small.btn-danger.btn
 www.spaste.com##.footer-below
+www.spotify.com#@#.grecaptcha-badge
+www.tapatalk.com###recommend_topics
+www.tapatalk.com##.bar-bottom.action-bar > .action-bar
+www.tapatalk.com##.bar-bottom.action-bar > .dropdown-loaded.dropdown-container.sr-b.fl
+www.tapatalk.com##.dot-com-frame-ready
+www.tapatalk.com##.endoftopicbar-only-share.bg1.flex.share_icon_area
+www.tapatalk.com##.no-padding.container
 www.techradar.com###affiliateDisclaimer
 www.techradar.com###document-footer-content
 www.techradar.com###expanding-articles
@@ -419,6 +388,7 @@ www.tgspot.co.il##.td-ss-main-sidebar
 www.tgspot.co.il##[href="https://t.me/tgspotcoil"]
 www.tgspot.co.il##div.mrf-heightLocked.mrf-adv__wrapper
 www.themarker.com##div.h.g:nth-of-type(6)
+www.theverge.com###privacyConsent
 www.theverge.com##.c-related-list
 www.theverge.com##.connatix-container
 www.theverge.com##footer
