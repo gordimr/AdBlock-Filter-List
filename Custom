@@ -2,6 +2,20 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+
+! 2021-03-09 https://www.tapatalk.com
+www.tapatalk.com###related-topic-list-expand
+www.tapatalk.com###relatedtopicbar
+www.tapatalk.com##.postprofile_Left.postprofile_container > .bar-bottom.action-bar
+
+! 2021-03-09 https://android.stackexchange.com
+android.stackexchange.com##.ai-center.site-footer--extra
+android.stackexchange.com##.site-footer--container
+android.stackexchange.com##.bottom-notice
+android.stackexchange.com##.privacy-policy-agreement
+
+
+
 ! 2021-03-08 https://www.amazon.com
 www.amazon.com##.a-carousel-initialized.p13n-sc-carousel.a-carousel-transition-swap.a-carousel-display-swap.a-carousel-container.a-begin
 
