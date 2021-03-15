@@ -3,6 +3,44 @@
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
 
+! 2021-03-09 https://lineageosroms.com
+lineageosroms.com##.chlebek
+
+! 2021-03-12 https://www.spotify.com
+www.spotify.com###mh-footer
+
+! 2021-03-13 https://www.amazon.com
+www.amazon.com###huc-rest-upsell-row-1
+www.amazon.com###huc-rest-upsell-row-3 > .huc-v2-upsell-row.a-row
+www.amazon.com###huc-rest-upsell-row-3 > .huc-v2-upsell-title.a-size-large.a-spacing-small.a-row
+www.amazon.com###huc-rest-upsell-row-2 > .huc-v2-upsell-row.a-row
+www.amazon.com###huc-rest-upsell-row-2 > .huc-v2-upsell-title.a-size-large.a-spacing-small.a-row
+www.amazon.com###huc-v2-bottom-order-row
+www.amazon.com###huc-v2-bottom-order-row-with-divider > .huc-lt-ie10-hide.a-divider-section.a-divider
+
+! 2021-03-13 https://www.fxp.co.il
+www.fxp.co.il##.footer__nav
+www.fxp.co.il##.footer__addr
+www.fxp.co.il##.footer
+
+! 2021-03-14 https://www.lnk.co.il
+www.lnk.co.il###copy_area > .content_wrapper
+www.lnk.co.il##.full_width.copy_area
+www.lnk.co.il##.post-box.author-box.related-box
+www.lnk.co.il##.meta-tags
+www.lnk.co.il##.featured_image_sidebar
+www.lnk.co.il##.left.sidebar
+
+! 2021-03-14 https://www.ynet.co.il
+||lps.ynet.co.il/yframe/newsletter_article/$subdocument
+
+! 2021-03-14 https://tech.walla.co.il
+tech.walla.co.il##.noprint.css-1vragmb
+
+www.spotify.com#@#div > div[aria-live="polite"]
+
+
+
 ! 2021-03-09 https://www.tapatalk.com
 www.tapatalk.com###related-topic-list-expand
 www.tapatalk.com###relatedtopicbar
