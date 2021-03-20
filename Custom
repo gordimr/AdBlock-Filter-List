@@ -2,79 +2,6 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
-
-! 2021-03-09 https://lineageosroms.com
-lineageosroms.com##.chlebek
-
-! 2021-03-12 https://www.spotify.com
-www.spotify.com###mh-footer
-
-! 2021-03-13 https://www.amazon.com
-www.amazon.com###huc-rest-upsell-row-1
-www.amazon.com###huc-rest-upsell-row-3 > .huc-v2-upsell-row.a-row
-www.amazon.com###huc-rest-upsell-row-3 > .huc-v2-upsell-title.a-size-large.a-spacing-small.a-row
-www.amazon.com###huc-rest-upsell-row-2 > .huc-v2-upsell-row.a-row
-www.amazon.com###huc-rest-upsell-row-2 > .huc-v2-upsell-title.a-size-large.a-spacing-small.a-row
-www.amazon.com###huc-v2-bottom-order-row
-www.amazon.com###huc-v2-bottom-order-row-with-divider > .huc-lt-ie10-hide.a-divider-section.a-divider
-
-! 2021-03-13 https://www.fxp.co.il
-www.fxp.co.il##.footer__nav
-www.fxp.co.il##.footer__addr
-www.fxp.co.il##.footer
-
-! 2021-03-14 https://www.lnk.co.il
-www.lnk.co.il###copy_area > .content_wrapper
-www.lnk.co.il##.full_width.copy_area
-www.lnk.co.il##.post-box.author-box.related-box
-www.lnk.co.il##.meta-tags
-www.lnk.co.il##.featured_image_sidebar
-www.lnk.co.il##.left.sidebar
-
-! 2021-03-14 https://www.ynet.co.il
-||lps.ynet.co.il/yframe/newsletter_article/$subdocument
-
-! 2021-03-14 https://tech.walla.co.il
-tech.walla.co.il##.noprint.css-1vragmb
-
-www.spotify.com#@#div > div[aria-live="polite"]
-
-
-
-! 2021-03-09 https://www.tapatalk.com
-www.tapatalk.com###related-topic-list-expand
-www.tapatalk.com###relatedtopicbar
-www.tapatalk.com##.postprofile_Left.postprofile_container > .bar-bottom.action-bar
-
-! 2021-03-09 https://android.stackexchange.com
-android.stackexchange.com##.ai-center.site-footer--extra
-android.stackexchange.com##.site-footer--container
-android.stackexchange.com##.bottom-notice
-android.stackexchange.com##.privacy-policy-agreement
-
-
-
-! 2021-03-08 https://www.amazon.com
-www.amazon.com##.a-carousel-initialized.p13n-sc-carousel.a-carousel-transition-swap.a-carousel-display-swap.a-carousel-container.a-begin
-
-
-! 2021-03-08 https://ksp.co.il
-||ksp.co.il/m_action/api/promotion/*$1p,important
-||ksp.co.il/m_action/api/footer-items$1p,important
-
-! 2021-03-07 https://help.orrs.de
-help.orrs.de##.qa-footer
-help.orrs.de##.wet-asphalt.qa-sidebar
-
-! 2021-03-07 https://chaturbate.com
-chaturbate.com##.footer-holder
-
-! 2021-03-08 https://www.joinhoney.com
-www.joinhoney.com##.cookieConsentBannerContainer-0-2-304
-www.joinhoney.com##.body2.honeyName-0-2-175
-www.joinhoney.com##.links-0-2-173
-www.joinhoney.com##.mainPadding-0-2-167
-
 4pda.ru##.copyright
 4pda.ru##noindex > .borderwrap
 @@||googleads.github.io/videojs-ima/dist/videojs.ima.js$script,domain=mobile.mako.co.il
@@ -102,11 +29,16 @@ aliexpress.*##.site-footer
 aliexpress.*##.site-server-box
 aliexpress.*##.user-helper-footer
 aliexpress.*##div.may-like:nth-of-type(4)
+android.stackexchange.com##.ai-center.site-footer--extra
+android.stackexchange.com##.bottom-notice
+android.stackexchange.com##.privacy-policy-agreement
+android.stackexchange.com##.site-footer--container
 anidb.net###layout-footer
 bmy.bezeq.co.il###bezeq_search_social
 bmy.bezeq.co.il###bezeq_social_container
 bmy.bezeq.co.il##.bezeq_blue_footer_container
 bmy.bezeq.co.il##.bezeq_search_footer
+chaturbate.com##.footer-holder
 deliveries.orrs.de##.mdl-mega-footer
 deliveries.orrs.de##.mdl-mega-footer--bottom-section
 diakov.net###dle-content > table > tbody > tr
@@ -127,9 +59,13 @@ diakov.net##td > .card-body
 diakov.net#@#.subscr-lazydev
 forum.oszone.net###footer_c
 github.com##.d-block.border-gray-light.border.rounded-1.text-center.p-4.content
+github.com##.mt-3.mb-2.mt-md-2.mx-md-2.color-text-secondary.text-small
 github.com##.mt-3.mb-2.mt-md-2.mx-md-2.text-gray.text-small
 github.com##.p-responsive.width-full.container-xl.footer
 github.com##.protip
+github.com##.px-3.width-full.container-xl.footer
+help.orrs.de##.qa-footer
+help.orrs.de##.wet-asphalt.qa-sidebar
 hi10anime.com##.ABD_display_adblock.ABD_display > [href]
 hi10anime.com##.ABD_display_adblock.ABD_display > strong
 hi10anime.com##.donateImage
@@ -145,6 +81,14 @@ il.shein.com##.j-recommend-list
 ksp.co.il###footersnifim
 ksp.co.il###fotAd
 ksp.co.il###wrapper_bottom > div > .MariNavPopular
+lineageosroms.com##.chlebek
+linustechtips.com###ipsLayout_footer
+linustechtips.com###sidebar-contrib
+linustechtips.com###sidebar-floatplane
+linustechtips.com##.ipsFaded_withHover.ipsBreadcrumb_bottom.ipsBreadcrumb
+linustechtips.com##.ipsList_noSpacing.ipsList_reset.ipsType_center.ipsList_inline
+linustechtips.com##.ipsSpacer_top.ipsPager
+linustechtips.com##.lmg-card.ipsPad.ipsWidget_inner
 lrepacks.net###content > .columns.large-4.medium-4
 lrepacks.net###navigation > .donate.large.button
 lrepacks.net##.account > .donate.large.button
@@ -210,6 +154,7 @@ support-maplestory.nexon.net##.footer-links
 support.logi.com##.footer-inner
 support.logi.com##.footer-link-container
 support.logi.com##.rights-reserve
+tech.walla.co.il##.noprint.css-1vragmb
 theverifier.co.il##.clearfix.jeg_footer_primary
 theverifier.co.il##.col-md-4.jeg_sticky_sidebar.jeg_sidebar
 theverifier.co.il##.jeg_post_tags
@@ -270,6 +215,14 @@ www.amazon.*##.sims-lpo-section.similarities-widget.a-section
 www.amazon.*##div.celwidget:nth-of-type(45)
 www.amazon.*##div.navFooterPadItemLine.navFooterLinkLine.navFooterLine:nth-of-type(3)
 www.amazon.*##div.s-widget.s-flex-full-width.s-result-item.a-spacing-none.a-section
+www.amazon.com###huc-rest-upsell-row-1
+www.amazon.com###huc-rest-upsell-row-2 > .huc-v2-upsell-row.a-row
+www.amazon.com###huc-rest-upsell-row-2 > .huc-v2-upsell-title.a-size-large.a-spacing-small.a-row
+www.amazon.com###huc-rest-upsell-row-3 > .huc-v2-upsell-row.a-row
+www.amazon.com###huc-rest-upsell-row-3 > .huc-v2-upsell-title.a-size-large.a-spacing-small.a-row
+www.amazon.com###huc-v2-bottom-order-row
+www.amazon.com###huc-v2-bottom-order-row-with-divider > .huc-lt-ie10-hide.a-divider-section.a-divider
+www.amazon.com##.a-carousel-initialized.p13n-sc-carousel.a-carousel-transition-swap.a-carousel-display-swap.a-carousel-container.a-begin
 www.animencodes.com###HTML4
 www.animencodes.com##.footer-inner.region-inner
 www.animencodes.com##.footer-outer
@@ -304,6 +257,9 @@ www.erai-raws.info##[href="/donate/"]
 www.fxp.co.il##.additional-links
 www.fxp.co.il##.additional-links-bottom
 www.fxp.co.il##.divmainfav
+www.fxp.co.il##.footer
+www.fxp.co.il##.footer__addr
+www.fxp.co.il##.footer__nav
 www.fxp.co.il##.footer_copyright.shade
 www.fxp.co.il##.navlinks
 www.fxp.co.il##div.gu.dargot
@@ -386,6 +342,16 @@ www.israelhayom.co.il##.clear-block.panel-onecol-row-stack.panel-display
 www.israelhayom.co.il##.even.field-item > div:nth-of-type(5) > div:nth-of-type(1) > div > div
 www.israelhayom.co.il##.sticky-header
 www.israelhayom.co.il##.tags-list
+www.joinhoney.com##.body2.honeyName-0-2-175
+www.joinhoney.com##.cookieConsentBannerContainer-0-2-304
+www.joinhoney.com##.links-0-2-173
+www.joinhoney.com##.mainPadding-0-2-167
+www.lnk.co.il###copy_area > .content_wrapper
+www.lnk.co.il##.featured_image_sidebar
+www.lnk.co.il##.full_width.copy_area
+www.lnk.co.il##.left.sidebar
+www.lnk.co.il##.meta-tags
+www.lnk.co.il##.post-box.author-box.related-box
 www.macrodroidforum.com##.p-footer-copyright
 www.metropark.co.il###footer
 www.metropark.co.il##.footer-content.table
@@ -431,13 +397,19 @@ www.sendspace.com##.tac.text
 www.solidfiles.com##.premium-promo.box
 www.spaste.com##.btn-small.btn-danger.btn
 www.spaste.com##.footer-below
+www.spotify.com###mh-footer
+www.spotify.com#@##fb-root:not(body):not(html)
 www.spotify.com#@#.grecaptcha-badge
+www.spotify.com#@#div > div[aria-live="polite"]
 www.tapatalk.com###recommend_topics
+www.tapatalk.com###related-topic-list-expand
+www.tapatalk.com###relatedtopicbar
 www.tapatalk.com##.bar-bottom.action-bar > .action-bar
 www.tapatalk.com##.bar-bottom.action-bar > .dropdown-loaded.dropdown-container.sr-b.fl
 www.tapatalk.com##.dot-com-frame-ready
 www.tapatalk.com##.endoftopicbar-only-share.bg1.flex.share_icon_area
 www.tapatalk.com##.no-padding.container
+www.tapatalk.com##.postprofile_Left.postprofile_container > .bar-bottom.action-bar
 www.techradar.com###affiliateDisclaimer
 www.techradar.com###document-footer-content
 www.techradar.com###expanding-articles
@@ -535,4 +507,7 @@ www87.zippyshare.com###bottom
 ||i0.wp.com/www.getpcsofts.net/wp-content/uploads/2018/10/download_green_secure_direct.png$image
 ||i1.wp.com/goo.gl/kud8Zc$image
 ||i1.wp.com/www.getpcsofts.net/wp-content/uploads/2020/01/download-button-white.png$image
+||ksp.co.il/m_action/api/footer-items$1p,important
+||ksp.co.il/m_action/api/promotion/*$1p,important
+||lps.ynet.co.il/yframe/newsletter_article/$subdocument
 ||www2.bittools.net/themes/pro/bittools/images/FTBG.png$image
