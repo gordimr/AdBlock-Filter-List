@@ -215,14 +215,14 @@ www.amazon.*##.sims-lpo-section.similarities-widget.a-section
 www.amazon.*##div.celwidget:nth-of-type(45)
 www.amazon.*##div.navFooterPadItemLine.navFooterLinkLine.navFooterLine:nth-of-type(3)
 www.amazon.*##div.s-widget.s-flex-full-width.s-result-item.a-spacing-none.a-section
-www.amazon.com###huc-rest-upsell-row-1
-www.amazon.com###huc-rest-upsell-row-2 > .huc-v2-upsell-row.a-row
-www.amazon.com###huc-rest-upsell-row-2 > .huc-v2-upsell-title.a-size-large.a-spacing-small.a-row
-www.amazon.com###huc-rest-upsell-row-3 > .huc-v2-upsell-row.a-row
-www.amazon.com###huc-rest-upsell-row-3 > .huc-v2-upsell-title.a-size-large.a-spacing-small.a-row
-www.amazon.com###huc-v2-bottom-order-row
-www.amazon.com###huc-v2-bottom-order-row-with-divider > .huc-lt-ie10-hide.a-divider-section.a-divider
-www.amazon.com##.a-carousel-initialized.p13n-sc-carousel.a-carousel-transition-swap.a-carousel-display-swap.a-carousel-container.a-begin
+www.amazon.*###huc-rest-upsell-row-1
+www.amazon.*###huc-rest-upsell-row-2 > .huc-v2-upsell-row.a-row
+www.amazon.*###huc-rest-upsell-row-2 > .huc-v2-upsell-title.a-size-large.a-spacing-small.a-row
+www.amazon.*###huc-rest-upsell-row-3 > .huc-v2-upsell-row.a-row
+www.amazon.*###huc-rest-upsell-row-3 > .huc-v2-upsell-title.a-size-large.a-spacing-small.a-row
+www.amazon.*###huc-v2-bottom-order-row
+www.amazon.*###huc-v2-bottom-order-row-with-divider > .huc-lt-ie10-hide.a-divider-section.a-divider
+www.amazon.*##.a-carousel-initialized.p13n-sc-carousel.a-carousel-transition-swap.a-carousel-display-swap.a-carousel-container.a-begin
 www.animencodes.com###HTML4
 www.animencodes.com##.footer-inner.region-inner
 www.animencodes.com##.footer-outer
