@@ -2,6 +2,39 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-03-20 https://www.amazon.co.uk
+www.amazon.*k###anonCarousel1 > .a-carousel
+
+! 2021-03-20 https://superuser.com
+superuser.com##.fs-fine.site-footer--copyright
+superuser.com##.site-footer--nav
+superuser.com##.site-footer--container
+superuser.com##.ps-relative.js-freemium-cta
+superuser.com##.fd-column.gsy.gs4.grid.post-taglist
+superuser.com##.bottom-notice
+superuser.com##.privacy-policy-agreement
+superuser.com##.tex2jax_ignore.module
+
+! 2021-03-20 https://www.dlink.ru
+www.dlink.ru##.copyright
+
+! 2021-03-20 https://ksp.co.il
+ksp.co.il##.jss84 > div > .MuiTypography-body1.MuiTypography-root
+ksp.co.il##.jss84
+ksp.co.il##.jss65.jss64 > div
+ksp.co.il##.jss73
+ksp.co.il##.jss65.jss64
+
+! 2021-03-20 https://ilfiber.co.il
+ilfiber.co.il##.elementor-location-footer.elementor-2000.elementor
+ilfiber.co.il##.elementor-section-height-default.elementor-section-boxed.elementor-section-content-middle.elementor-element-4a04af14.elementor-element.elementor-top-section.elementor-section
+ilfiber.co.il##.elementor-widget-testimonial.elementor-widget.elementor-element-74c510c.elementor-element
+ilfiber.co.il##.elementor-widget-testimonial.elementor-widget.elementor-element-e0be8c6.elementor-element
+ilfiber.co.il##.fb-comments.elementor-facebook-widget
+ilfiber.co.il##.elementor-widget-button.elementor-widget.elementor-align-center.elementor-element-7eef686e.elementor-element > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-sm.elementor-button.elementor-button-link
+ilfiber.co.il##.elementor-widget-spacer.elementor-widget.elementor-element-f7646fb.elementor-element > .elementor-widget-container > .elementor-spacer > .elementor-spacer-inner
+
+
 4pda.ru##.copyright
 4pda.ru##noindex > .borderwrap
 @@||googleads.github.io/videojs-ima/dist/videojs.ima.js$script,domain=mobile.mako.co.il
