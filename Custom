@@ -2,6 +2,45 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-03-23 https://www.upload-4ever.com
+www.upload-4ever.com##.text-center.py-3.footer-copyright
+www.upload-4ever.com##.pt-0.lighten-5.blue-grey.page-footer
+www.upload-4ever.com##.mb-5.text-center.content-section.col-sm-12
+www.upload-4ever.com##.text-center.col-12 > .my-5
+www.upload-4ever.com##span.waves-light.waves-effect.waves-input-wrapper:nth-of-type(1)
+
+! 2021-03-23 https://security.stackexchange.com
+security.stackexchange.com##.site-footer--container
+security.stackexchange.com##.privacy-policy-agreement
+security.stackexchange.com##.ps-relative.js-freemium-cta
+security.stackexchange.com##.fd-column.gsy.gs4.grid.post-taglist
+
+! 2021-03-28 https://il.shein.com
+il.shein.com##.c-recommend-goodsd
+
+! 2021-04-04 https://bstore.bezeq.co.il
+bstore.bezeq.co.il##.clearfix.bezeq_blue_footer
+
+! 2021-04-05 https://www.calcalist.co.il
+www.calcalist.co.il##.ct-bottomPart
+www.calcalist.co.il##.CdaCalcalistToday890
+www.calcalist.co.il##.CdaMostViews
+www.calcalist.co.il##.ToSiber
+www.calcalist.co.il##.CdaRecomendedMovies
+www.calcalist.co.il##.ms-mrg
+www.calcalist.co.il##.tv-seo-links
+www.calcalist.co.il##.tv-seo-links-title
+www.calcalist.co.il###more\.article
+
+! 2021-04-05 https://www.zap.co.il
+www.zap.co.il##.AdvertisementBlock
+www.zap.co.il###ModelsPage > .BannerBoxNew
+
+! 2021-04-05 https://www.mpgh.net
+www.mpgh.net##.footer_morecopyright.shade
+www.mpgh.net##.footer_copyright.shade
+
+
 ! 2021-03-20 https://www.amazon.co.uk
 www.amazon.*k###anonCarousel1 > .a-carousel
 
