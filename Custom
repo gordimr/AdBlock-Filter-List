@@ -253,7 +253,6 @@ www.amazon.*##.rhf-frame
 www.amazon.*##.sims-lpo-section.similarities-widget.a-section
 www.amazon.*##div.celwidget:nth-of-type(45)
 www.amazon.*##div.navFooterPadItemLine.navFooterLinkLine.navFooterLine:nth-of-type(3)
-www.amazon.*##div.s-widget.s-flex-full-width.s-result-item.a-spacing-none.a-section
 www.animencodes.com###HTML4
 www.animencodes.com##.footer-inner.region-inner
 www.animencodes.com##.footer-outer
