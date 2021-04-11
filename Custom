@@ -2,76 +2,11 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
-! 2021-03-23 https://www.upload-4ever.com
-www.upload-4ever.com##.text-center.py-3.footer-copyright
-www.upload-4ever.com##.pt-0.lighten-5.blue-grey.page-footer
-www.upload-4ever.com##.mb-5.text-center.content-section.col-sm-12
-www.upload-4ever.com##.text-center.col-12 > .my-5
-www.upload-4ever.com##span.waves-light.waves-effect.waves-input-wrapper:nth-of-type(1)
+! 2021-04-07 https://piitel.co.il
+piitel.co.il##.cross-sells
 
-! 2021-03-23 https://security.stackexchange.com
-security.stackexchange.com##.site-footer--container
-security.stackexchange.com##.privacy-policy-agreement
-security.stackexchange.com##.ps-relative.js-freemium-cta
-security.stackexchange.com##.fd-column.gsy.gs4.grid.post-taglist
-
-! 2021-03-28 https://il.shein.com
-il.shein.com##.c-recommend-goodsd
-
-! 2021-04-04 https://bstore.bezeq.co.il
-bstore.bezeq.co.il##.clearfix.bezeq_blue_footer
-
-! 2021-04-05 https://www.calcalist.co.il
-www.calcalist.co.il##.ct-bottomPart
-www.calcalist.co.il##.CdaCalcalistToday890
-www.calcalist.co.il##.CdaMostViews
-www.calcalist.co.il##.ToSiber
-www.calcalist.co.il##.CdaRecomendedMovies
-www.calcalist.co.il##.ms-mrg
-www.calcalist.co.il##.tv-seo-links
-www.calcalist.co.il##.tv-seo-links-title
-www.calcalist.co.il###more\.article
-
-! 2021-04-05 https://www.zap.co.il
-www.zap.co.il##.AdvertisementBlock
-www.zap.co.il###ModelsPage > .BannerBoxNew
-
-! 2021-04-05 https://www.mpgh.net
-www.mpgh.net##.footer_morecopyright.shade
-www.mpgh.net##.footer_copyright.shade
-
-
-! 2021-03-20 https://www.amazon.co.uk
-www.amazon.*k###anonCarousel1 > .a-carousel
-
-! 2021-03-20 https://superuser.com
-superuser.com##.fs-fine.site-footer--copyright
-superuser.com##.site-footer--nav
-superuser.com##.site-footer--container
-superuser.com##.ps-relative.js-freemium-cta
-superuser.com##.fd-column.gsy.gs4.grid.post-taglist
-superuser.com##.bottom-notice
-superuser.com##.privacy-policy-agreement
-superuser.com##.tex2jax_ignore.module
-
-! 2021-03-20 https://www.dlink.ru
-www.dlink.ru##.copyright
-
-! 2021-03-20 https://ksp.co.il
-ksp.co.il##.jss84 > div > .MuiTypography-body1.MuiTypography-root
-ksp.co.il##.jss84
-ksp.co.il##.jss65.jss64 > div
-ksp.co.il##.jss73
-ksp.co.il##.jss65.jss64
-
-! 2021-03-20 https://ilfiber.co.il
-ilfiber.co.il##.elementor-location-footer.elementor-2000.elementor
-ilfiber.co.il##.elementor-section-height-default.elementor-section-boxed.elementor-section-content-middle.elementor-element-4a04af14.elementor-element.elementor-top-section.elementor-section
-ilfiber.co.il##.elementor-widget-testimonial.elementor-widget.elementor-element-74c510c.elementor-element
-ilfiber.co.il##.elementor-widget-testimonial.elementor-widget.elementor-element-e0be8c6.elementor-element
-ilfiber.co.il##.fb-comments.elementor-facebook-widget
-ilfiber.co.il##.elementor-widget-button.elementor-widget.elementor-align-center.elementor-element-7eef686e.elementor-element > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-sm.elementor-button.elementor-button-link
-ilfiber.co.il##.elementor-widget-spacer.elementor-widget.elementor-element-f7646fb.elementor-element > .elementor-widget-container > .elementor-spacer > .elementor-spacer-inner
+! 2021-04-10 https://www.amazon.com
+www.amazon.com##.amzn-safe-frame-container
 
 
 4pda.ru##.copyright
@@ -110,6 +45,7 @@ bmy.bezeq.co.il###bezeq_search_social
 bmy.bezeq.co.il###bezeq_social_container
 bmy.bezeq.co.il##.bezeq_blue_footer_container
 bmy.bezeq.co.il##.bezeq_search_footer
+bstore.bezeq.co.il##.clearfix.bezeq_blue_footer
 chaturbate.com##.footer-holder
 deliveries.orrs.de##.mdl-mega-footer
 deliveries.orrs.de##.mdl-mega-footer--bottom-section
@@ -148,11 +84,24 @@ hi10anime.com##.site-footer
 hi10anime.com##.tag-links
 hi10anime.com##.widget_tag_cloud.widget
 hi10anime.com##div > [href="https://hi10anime.com/donate"]
+il.shein.com##.c-recommend-goodsd
 il.shein.com##.j-footer.container-fluid.c-footer
 il.shein.com##.j-recommend-list
+ilfiber.co.il##.elementor-location-footer.elementor-2000.elementor
+ilfiber.co.il##.elementor-section-height-default.elementor-section-boxed.elementor-section-content-middle.elementor-element-4a04af14.elementor-element.elementor-top-section.elementor-section
+ilfiber.co.il##.elementor-widget-button.elementor-widget.elementor-align-center.elementor-element-7eef686e.elementor-element > .elementor-widget-container > .elementor-button-wrapper > .elementor-size-sm.elementor-button.elementor-button-link
+ilfiber.co.il##.elementor-widget-spacer.elementor-widget.elementor-element-f7646fb.elementor-element > .elementor-widget-container > .elementor-spacer > .elementor-spacer-inner
+ilfiber.co.il##.elementor-widget-testimonial.elementor-widget.elementor-element-74c510c.elementor-element
+ilfiber.co.il##.elementor-widget-testimonial.elementor-widget.elementor-element-e0be8c6.elementor-element
+ilfiber.co.il##.fb-comments.elementor-facebook-widget
 ksp.co.il###footersnifim
 ksp.co.il###fotAd
 ksp.co.il###wrapper_bottom > div > .MariNavPopular
+ksp.co.il##.jss65.jss64
+ksp.co.il##.jss65.jss64 > div
+ksp.co.il##.jss73
+ksp.co.il##.jss84
+ksp.co.il##.jss84 > div > .MuiTypography-body1.MuiTypography-root
 lineageosroms.com##.chlebek
 linustechtips.com###ipsLayout_footer
 linustechtips.com###sidebar-contrib
@@ -219,7 +168,19 @@ rarbgto.org##body > div:nth-of-type(2)
 rarbgto.org##body > div:nth-of-type(3)
 rarbgto.org##body > div:nth-of-type(4)
 rarbgto.org##tr:nth-of-type(6) > .block
+security.stackexchange.com##.fd-column.gsy.gs4.grid.post-taglist
+security.stackexchange.com##.privacy-policy-agreement
+security.stackexchange.com##.ps-relative.js-freemium-cta
+security.stackexchange.com##.site-footer--container
 softwarekeep.com##.banner-item
+superuser.com##.bottom-notice
+superuser.com##.fd-column.gsy.gs4.grid.post-taglist
+superuser.com##.fs-fine.site-footer--copyright
+superuser.com##.privacy-policy-agreement
+superuser.com##.ps-relative.js-freemium-cta
+superuser.com##.site-footer--container
+superuser.com##.site-footer--nav
+superuser.com##.tex2jax_ignore.module
 support-maplestory.nexon.net##.footer
 support-maplestory.nexon.net##.footer-inner
 support-maplestory.nexon.net##.footer-links
@@ -270,13 +231,19 @@ walla.*##.walla-icon-printer.no-mobile.noprint.css-b3wih4
 www.amazon.*###bottom
 www.amazon.*###certifiedRefurbishedVersion_feature_div
 www.amazon.*###dp-container > div.celwidget > .a-section
+www.amazon.*###huc-rest-upsell-row-1
+www.amazon.*###huc-rest-upsell-row-2 > .huc-v2-upsell-row.a-row
+www.amazon.*###huc-rest-upsell-row-2 > .huc-v2-upsell-title.a-size-large.a-spacing-small.a-row
+www.amazon.*###huc-rest-upsell-row-3 > .huc-v2-upsell-row.a-row
+www.amazon.*###huc-rest-upsell-row-3 > .huc-v2-upsell-title.a-size-large.a-spacing-small.a-row
+www.amazon.*###huc-v2-bottom-order-row
+www.amazon.*###huc-v2-bottom-order-row-with-divider > .huc-lt-ie10-hide.a-divider-section.a-divider
 www.amazon.*###moreBuyingChoices_feature_div
 www.amazon.*###rhf-container
 www.amazon.*###rhf-shoveler
 www.amazon.*###sims-consolidated-4_feature_div
 www.amazon.*###valuePick_feature_div
-www.amazon.*##.a-padding-base.a-box-inner
-www.amazon.*##.a-padding-base.a-section
+www.amazon.*##.a-carousel-initialized.p13n-sc-carousel.a-carousel-transition-swap.a-carousel-display-swap.a-carousel-container.a-begin
 www.amazon.*##.ac-for-text
 www.amazon.*##.amazonlive-widget-padding
 www.amazon.*##.nav-sprite-v1.navLeftFooter
@@ -287,14 +254,7 @@ www.amazon.*##.sims-lpo-section.similarities-widget.a-section
 www.amazon.*##div.celwidget:nth-of-type(45)
 www.amazon.*##div.navFooterPadItemLine.navFooterLinkLine.navFooterLine:nth-of-type(3)
 www.amazon.*##div.s-widget.s-flex-full-width.s-result-item.a-spacing-none.a-section
-www.amazon.*###huc-rest-upsell-row-1
-www.amazon.*###huc-rest-upsell-row-2 > .huc-v2-upsell-row.a-row
-www.amazon.*###huc-rest-upsell-row-2 > .huc-v2-upsell-title.a-size-large.a-spacing-small.a-row
-www.amazon.*###huc-rest-upsell-row-3 > .huc-v2-upsell-row.a-row
-www.amazon.*###huc-rest-upsell-row-3 > .huc-v2-upsell-title.a-size-large.a-spacing-small.a-row
-www.amazon.*###huc-v2-bottom-order-row
-www.amazon.*###huc-v2-bottom-order-row-with-divider > .huc-lt-ie10-hide.a-divider-section.a-divider
-www.amazon.*##.a-carousel-initialized.p13n-sc-carousel.a-carousel-transition-swap.a-carousel-display-swap.a-carousel-container.a-begin
+www.amazon.*k###anonCarousel1 > .a-carousel
 www.animencodes.com###HTML4
 www.animencodes.com##.footer-inner.region-inner
 www.animencodes.com##.footer-outer
@@ -306,19 +266,29 @@ www.booknet.co.il###footer > .container
 www.booknet.co.il##.footer-contacts
 www.booknet.co.il##body > div
 www.calcalist.co.il###f_logo
+www.calcalist.co.il###more\.article
+www.calcalist.co.il##.CdaCalcalistToday890
+www.calcalist.co.il##.CdaMostViews
+www.calcalist.co.il##.CdaRecomendedMovies
+www.calcalist.co.il##.ToSiber
 www.calcalist.co.il##.art-tags-wrp
 www.calcalist.co.il##.col-last-child.W4_wrp
+www.calcalist.co.il##.ct-bottomPart
 www.calcalist.co.il##.footer-logos
 www.calcalist.co.il##.left-photo-content
 www.calcalist.co.il##.leftLinksWrp
+www.calcalist.co.il##.ms-mrg
 www.calcalist.co.il##.right-photo-content
 www.calcalist.co.il##.rightLinksRow
+www.calcalist.co.il##.tv-seo-links
+www.calcalist.co.il##.tv-seo-links-title
 www.calcalist.co.il##div.art-top-mrg.clearFix > .art-top-mrg.clearFix
 www.calcalist.co.il##div.art-top-mrg.clearFix:nth-of-type(3)
 www.calcalist.co.il##div.art-top-mrg.clearFix:nth-of-type(8)
 www.calcalist.co.il##div.art-top-mrg.clearFix:nth-of-type(9)
 www.daganm.co.il##.footer-bottom > .container
 www.daganm.co.il##.height-matched.match-height.items-in-row-1.margin-top-sm.template-pages_rows.widget-index.widget
+www.dlink.ru##.copyright
 www.epicgames.com##.copyright.row
 www.epicgames.com##.epic_games.mobile-border-color.bg-color.container-fluid.egf
 www.epicgames.com##.footer-legal.row
@@ -431,6 +401,8 @@ www.metropark.co.il##.footer-rights
 www.mirrored.to##.dl-width.foo-con
 www.mirrored.to##.extra-top.bordered.col-sm
 www.mirrored.to##footer
+www.mpgh.net##.footer_copyright.shade
+www.mpgh.net##.footer_morecopyright.shade
 www.newpangourmet.co.il##.footer-lower
 www.newpangourmet.co.il##.footer-lower-center
 www.newpangourmet.co.il##.footer-middle
@@ -518,6 +490,11 @@ www.tvtime.com##.credits > p
 www.tvtime.com##.social
 www.unknowncheats.me###collapseobj_similarthreads
 www.unknowncheats.me##.smallfont.alt1
+www.upload-4ever.com##.mb-5.text-center.content-section.col-sm-12
+www.upload-4ever.com##.pt-0.lighten-5.blue-grey.page-footer
+www.upload-4ever.com##.text-center.col-12 > .my-5
+www.upload-4ever.com##.text-center.py-3.footer-copyright
+www.upload-4ever.com##span.waves-light.waves-effect.waves-input-wrapper:nth-of-type(1)
 www.xda-developers.com###about-author-wrapper
 www.xda-developers.com###footer
 www.xda-developers.com###footer-left
@@ -545,6 +522,8 @@ www.youtube.com###copyright
 www.youtube.com###guide-links-primary
 www.youtube.com###guide-links-secondary
 www.youtube.com##.ytd-video-primary-info-renderer.style-scope.super-title
+www.zap.co.il###ModelsPage > .BannerBoxNew
+www.zap.co.il##.AdvertisementBlock
 www.zap.co.il##.BottomComment
 www.zap.co.il##.MashlimimCat
 www.zap.co.il##.SearchResultsMain > div.BannerBoxNew
