@@ -2,6 +2,26 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-04-10 https://www.amazon.com
+www.amazon.com##.widgetId\=feedback.template\=FEEDBACK.slot\=MAIN.celwidget
+www.amazon.com###nav-flyout-ewc > .nav-flyout-buffer-left
+www.amazon.com###pda-piv-ad-container
+www.amazon.com##div#bia_content.a-box > div.a-box-inner.a-padding-base
+www.amazon.com###cart-item-recs > .a-box > .a-box-inner
+www.amazon.com###sc-about > p
+www.amazon.com###cart-about-cart-warning > p
+www.amazon.com###sc-buy-it-again
+www.amazon.com##.sc-java-remote-feature.sc-empty-cart > p
+||images-na.ssl-images-amazon.com/images/G/01/pxd/marketing/diamond/ILMs/non-incentive/Diamond_Center-28_650X45_Text1._CB419094158_.png$image
+www.amazon.com###center-28_feature_div [href]
+www.amazon.com###center-28_feature_div
+www.amazon.com###dp-ads-center-promo_feature_div
+www.amazon.com##.bucket.similarities-widget
+www.amazon.com###promotions_feature_div
+www.amazon.com##.a-divider-normal.a-spacing-extra-large
+www.amazon.com##.a-divider-normal
+
+
 ! 2021-04-07 https://piitel.co.il
 piitel.co.il##.cross-sells
 
