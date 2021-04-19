@@ -2,6 +2,12 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-04-19 https://www.amazon.com
+www.amazon.com##.bia-content.a-box
+www.amazon.com###bia-hcb-widget
+www.amazon.com##.nav-flyout-sidePanel
+
+
 ! 2021-04-10 https://www.amazon.com
 www.amazon.com##.widgetId\=feedback.template\=FEEDBACK.slot\=MAIN.celwidget
 www.amazon.com###nav-flyout-ewc > .nav-flyout-buffer-left
