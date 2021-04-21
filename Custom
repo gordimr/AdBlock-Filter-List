@@ -2,6 +2,13 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-04-21 https://www.themarker.com
+www.themarker.com##.u-w--360px.c-web-push-subscribe
+www.themarker.com##.u-mb--4.u-pb--2.o-card > .u-ta--c > .i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.i-amphtml-element
+www.themarker.com##.u-mv--5.c-related-article-text-only-wrapper
+www.themarker.com##.u-autospace--4.p-article__aside
+www.themarker.com##section > .u-autospace--4.c-article-entry.b-entry > div > .u-w--300px.u-mr--auto.u-ml--auto.c-dfp-ad
+www.themarker.com##.u-pos--r.u-mv--6.u-ph--2.u-ta--c.u-bdb--1px\(4\,solid\,primary\).u-bdt--1px\(4\,solid\,primary\).c-quick-nl-reg
 ! 2021-04-19 https://www.amazon.com
 www.amazon.com##.bia-content.a-box
 www.amazon.com###bia-hcb-widget
