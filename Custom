@@ -2,6 +2,18 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-04-26 https://www.calcalist.co.il
+www.calcalist.co.il##div.calcalist-most-viewed-auto.layoutItem
+www.calcalist.co.il##.calcalistTags.ArticleTagsComponent
+www.calcalist.co.il##.art-action-wrp
+www.calcalist.co.il##.calcalist-article-carusle.layoutItem
+www.calcalist.co.il##.calcalistReadMoreBullets
+www.calcalist.co.il##.CalcalistFooter
+www.calcalist.co.il##.calcalist-sub-navigation.layoutItem
+www.calcalist.co.il##.calcalistArticleTopSpace
+
+! 2021-04-27 https://miraculoushub.ml
+miraculoushub.ml###animatedshowsblock
 ! 2021-04-21 https://www.themarker.com
 www.themarker.com##.u-w--360px.c-web-push-subscribe
 www.themarker.com##.u-mb--4.u-pb--2.o-card > .u-ta--c > .i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.i-amphtml-element
