@@ -2,58 +2,6 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
-! 2021-04-26 https://www.calcalist.co.il
-www.calcalist.co.il##div.calcalist-most-viewed-auto.layoutItem
-www.calcalist.co.il##.calcalistTags.ArticleTagsComponent
-www.calcalist.co.il##.art-action-wrp
-www.calcalist.co.il##.calcalist-article-carusle.layoutItem
-www.calcalist.co.il##.calcalistReadMoreBullets
-www.calcalist.co.il##.CalcalistFooter
-www.calcalist.co.il##.calcalist-sub-navigation.layoutItem
-www.calcalist.co.il##.calcalistArticleTopSpace
-
-! 2021-04-27 https://miraculoushub.ml
-miraculoushub.ml###animatedshowsblock
-! 2021-04-21 https://www.themarker.com
-www.themarker.com##.u-w--360px.c-web-push-subscribe
-www.themarker.com##.u-mb--4.u-pb--2.o-card > .u-ta--c > .i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.i-amphtml-element
-www.themarker.com##.u-mv--5.c-related-article-text-only-wrapper
-www.themarker.com##.u-autospace--4.p-article__aside
-www.themarker.com##section > .u-autospace--4.c-article-entry.b-entry > div > .u-w--300px.u-mr--auto.u-ml--auto.c-dfp-ad
-www.themarker.com##.u-pos--r.u-mv--6.u-ph--2.u-ta--c.u-bdb--1px\(4\,solid\,primary\).u-bdt--1px\(4\,solid\,primary\).c-quick-nl-reg
-! 2021-04-19 https://www.amazon.com
-www.amazon.com##.bia-content.a-box
-www.amazon.com###bia-hcb-widget
-www.amazon.com##.nav-flyout-sidePanel
-
-
-! 2021-04-10 https://www.amazon.com
-www.amazon.com##.widgetId\=feedback.template\=FEEDBACK.slot\=MAIN.celwidget
-www.amazon.com###nav-flyout-ewc > .nav-flyout-buffer-left
-www.amazon.com###pda-piv-ad-container
-www.amazon.com##div#bia_content.a-box > div.a-box-inner.a-padding-base
-www.amazon.com###cart-item-recs > .a-box > .a-box-inner
-www.amazon.com###sc-about > p
-www.amazon.com###cart-about-cart-warning > p
-www.amazon.com###sc-buy-it-again
-www.amazon.com##.sc-java-remote-feature.sc-empty-cart > p
-||images-na.ssl-images-amazon.com/images/G/01/pxd/marketing/diamond/ILMs/non-incentive/Diamond_Center-28_650X45_Text1._CB419094158_.png$image
-www.amazon.com###center-28_feature_div [href]
-www.amazon.com###center-28_feature_div
-www.amazon.com###dp-ads-center-promo_feature_div
-www.amazon.com##.bucket.similarities-widget
-www.amazon.com###promotions_feature_div
-www.amazon.com##.a-divider-normal.a-spacing-extra-large
-www.amazon.com##.a-divider-normal
-
-
-! 2021-04-07 https://piitel.co.il
-piitel.co.il##.cross-sells
-
-! 2021-04-10 https://www.amazon.com
-www.amazon.com##.amzn-safe-frame-container
-
-
 4pda.ru##.copyright
 4pda.ru##noindex > .borderwrap
 @@||googleads.github.io/videojs-ima/dist/videojs.ima.js$script,domain=mobile.mako.co.il
@@ -94,6 +42,15 @@ bstore.bezeq.co.il##.clearfix.bezeq_blue_footer
 chaturbate.com##.footer-holder
 deliveries.orrs.de##.mdl-mega-footer
 deliveries.orrs.de##.mdl-mega-footer--bottom-section
+deltalabsproject.blogspot.com###copyright
+deltalabsproject.blogspot.com###disqus_recommendations
+deltalabsproject.blogspot.com###shareblanter
+deltalabsproject.blogspot.com###subscribe-box
+deltalabsproject.blogspot.com##.idb-pager
+deltalabsproject.blogspot.com##.pesan-komentar
+deltalabsproject.blogspot.com##.post-outer > .spanshare
+deltalabsproject.blogspot.com##.related-post
+deltalabsproject.blogspot.com##a#close-nav[href="javascript:void"]
 diakov.net###dle-content > table > tbody > tr
 diakov.net###thx
 diakov.net##.FiveStarsTd
@@ -110,6 +67,8 @@ diakov.net##.zvcwers > span > font:nth-of-type(1) > font:nth-of-type(1)
 diakov.net##div#dle-content > div.col-lg-12.my > div.card.mb15 > div.card-body.sh > div.zvcwers > span > div.quote
 diakov.net##td > .card-body
 diakov.net#@#.subscr-lazydev
+dl-deltalabs.blogspot.com##.center.white-text.darken-2.black
+drive.google.com##.uc-footer
 forum.oszone.net###footer_c
 github.com##.d-block.border-gray-light.border.rounded-1.text-center.p-4.content
 github.com##.mt-3.mb-2.mt-md-2.mx-md-2.color-text-secondary.text-small
@@ -186,6 +145,7 @@ m.ynet.co.il##p:nth-of-type(3)
 m.ynet.co.il##ul
 maplestory.nexon.net##.global-footer
 maplestory.nexon.net##.row.footer-main
+miraculoushub.ml###animatedshowsblock
 myanimelist.net###copyright
 myanimelist.net###footer-block
 myanimelist.net##.ac.footer-recommended
@@ -207,6 +167,7 @@ ouo.press##.join-now
 pcpartpicker.com###disclosure
 pcpartpicker.com##.footer__copyright
 pcpartpicker.com##body > .clearfix
+piitel.co.il##.cross-sells
 rarbgto.org##.lista-rounded > tbody > tr:nth-of-type(4)
 rarbgto.org##.lista-rounded > tbody > tr:nth-of-type(4) > td
 rarbgto.org##body > div:nth-of-type(2)
@@ -273,8 +234,14 @@ walla.*##.noprint.no-mobile-app.css-1ra4wk
 walla.*##.noprint.no-mobile-app.css-1ra4wkk
 walla.*##.undefined.section-links.css-114l8a5
 walla.*##.walla-icon-printer.no-mobile.noprint.css-b3wih4
+www.amazon.*###bia-hcb-widget
 www.amazon.*###bottom
+www.amazon.*###cart-about-cart-warning > p
+www.amazon.*###cart-item-recs > .a-box > .a-box-inner
+www.amazon.*###center-28_feature_div
+www.amazon.*###center-28_feature_div [href]
 www.amazon.*###certifiedRefurbishedVersion_feature_div
+www.amazon.*###dp-ads-center-promo_feature_div
 www.amazon.*###dp-container > div.celwidget > .a-section
 www.amazon.*###huc-rest-upsell-row-1
 www.amazon.*###huc-rest-upsell-row-2 > .huc-v2-upsell-row.a-row
@@ -284,18 +251,32 @@ www.amazon.*###huc-rest-upsell-row-3 > .huc-v2-upsell-title.a-size-large.a-spaci
 www.amazon.*###huc-v2-bottom-order-row
 www.amazon.*###huc-v2-bottom-order-row-with-divider > .huc-lt-ie10-hide.a-divider-section.a-divider
 www.amazon.*###moreBuyingChoices_feature_div
+www.amazon.*###nav-flyout-ewc > .nav-flyout-buffer-left
+www.amazon.*###pda-piv-ad-container
+www.amazon.*###promotions_feature_div
 www.amazon.*###rhf-container
 www.amazon.*###rhf-shoveler
+www.amazon.*###sc-about > p
+www.amazon.*###sc-buy-it-again
 www.amazon.*###sims-consolidated-4_feature_div
 www.amazon.*###valuePick_feature_div
 www.amazon.*##.a-carousel-initialized.p13n-sc-carousel.a-carousel-transition-swap.a-carousel-display-swap.a-carousel-container.a-begin
+www.amazon.*##.a-divider-normal
+www.amazon.*##.a-divider-normal.a-spacing-extra-large
 www.amazon.*##.ac-for-text
 www.amazon.*##.amazonlive-widget-padding
+www.amazon.*##.amzn-safe-frame-container
+www.amazon.*##.bia-content.a-box
+www.amazon.*##.bucket.similarities-widget
+www.amazon.*##.nav-flyout-sidePanel
 www.amazon.*##.nav-sprite-v1.navLeftFooter
 www.amazon.*##.navFooterCopyright.navFooterPadItemLine.navFooterLinkLine.navFooterLine
 www.amazon.*##.navFooterDescLine.navFooterLinkLine.navFooterLine
 www.amazon.*##.rhf-frame
+www.amazon.*##.sc-java-remote-feature.sc-empty-cart > p
 www.amazon.*##.sims-lpo-section.similarities-widget.a-section
+www.amazon.*##.widgetId\=feedback.template\=FEEDBACK.slot\=MAIN.celwidget
+www.amazon.*##div#bia_content.a-box > div.a-box-inner.a-padding-base
 www.amazon.*##div.celwidget:nth-of-type(45)
 www.amazon.*##div.navFooterPadItemLine.navFooterLinkLine.navFooterLine:nth-of-type(3)
 www.animencodes.com###HTML4
@@ -310,11 +291,18 @@ www.booknet.co.il##.footer-contacts
 www.booknet.co.il##body > div
 www.calcalist.co.il###f_logo
 www.calcalist.co.il###more\.article
+www.calcalist.co.il##.CalcalistFooter
 www.calcalist.co.il##.CdaCalcalistToday890
 www.calcalist.co.il##.CdaMostViews
 www.calcalist.co.il##.CdaRecomendedMovies
 www.calcalist.co.il##.ToSiber
+www.calcalist.co.il##.art-action-wrp
 www.calcalist.co.il##.art-tags-wrp
+www.calcalist.co.il##.calcalist-article-carusle.layoutItem
+www.calcalist.co.il##.calcalist-sub-navigation.layoutItem
+www.calcalist.co.il##.calcalistArticleTopSpace
+www.calcalist.co.il##.calcalistReadMoreBullets
+www.calcalist.co.il##.calcalistTags.ArticleTagsComponent
 www.calcalist.co.il##.col-last-child.W4_wrp
 www.calcalist.co.il##.ct-bottomPart
 www.calcalist.co.il##.footer-logos
@@ -329,6 +317,7 @@ www.calcalist.co.il##div.art-top-mrg.clearFix > .art-top-mrg.clearFix
 www.calcalist.co.il##div.art-top-mrg.clearFix:nth-of-type(3)
 www.calcalist.co.il##div.art-top-mrg.clearFix:nth-of-type(8)
 www.calcalist.co.il##div.art-top-mrg.clearFix:nth-of-type(9)
+www.calcalist.co.il##div.calcalist-most-viewed-auto.layoutItem
 www.daganm.co.il##.footer-bottom > .container
 www.daganm.co.il##.height-matched.match-height.items-in-row-1.margin-top-sm.template-pages_rows.widget-index.widget
 www.dlink.ru##.copyright
@@ -365,6 +354,7 @@ www.gametracker.com##.blocknewnopad.blocknew302.blocknew
 www.gametracker.com##.blocknewnopad.blocknew666.blocknew
 www.gametracker.com##.page_content > .item_float_right > [href]
 www.gametracker.com##.sitefooter.blocknew980.blocknew
+www.geektime.co.il###gtf-form-newsletter
 www.geektime.co.il##.all-rights-reserved
 www.geektime.co.il##.author
 www.geektime.co.il##.clearfix.suggestions
@@ -422,6 +412,8 @@ www.howtogeek.com##.amp-social-sharing
 www.howtogeek.com##.amp-wp-tax-tag.amp-wp-meta
 www.howtogeek.com##.shortbioauthordiv
 www.howtogeek.com##.site-footer
+www.israelhayom.co.il###footer
+www.israelhayom.co.il###footer_message
 www.israelhayom.co.il###mini-panel-footer > .panel-col.panel-panel
 www.israelhayom.co.il##.clear-block.panel-onecol-row-stack.panel-display
 www.israelhayom.co.il##.even.field-item > div:nth-of-type(5) > div:nth-of-type(1) > div > div
@@ -458,6 +450,9 @@ www.pcgamer.com##.full.container.trending-bar
 www.pcgamer.com##.read-more-container
 www.pcgamer.com##.recommendation-container
 www.pcgamer.com##.related-articles-block
+www.pcgamesn.com##.articles_container.next_page_placeholder
+www.pcgamesn.com##.mobile-info--active.game_info_panel
+www.pcgamesn.com##.mobile-tax--active.nn_taxonomy_section
 www.pornhubpremium.com###footer
 www.pornhubpremium.com###js-trialExpireReminder
 www.pornhubpremium.com##.emailVerHomepageContainer > p
@@ -519,7 +514,13 @@ www.tgspot.co.il##.td-related-row
 www.tgspot.co.il##.td-ss-main-sidebar
 www.tgspot.co.il##[href="https://t.me/tgspotcoil"]
 www.tgspot.co.il##div.mrf-heightLocked.mrf-adv__wrapper
+www.themarker.com##.u-autospace--4.p-article__aside
+www.themarker.com##.u-mb--4.u-pb--2.o-card > .u-ta--c > .i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.i-amphtml-element
+www.themarker.com##.u-mv--5.c-related-article-text-only-wrapper
+www.themarker.com##.u-pos--r.u-mv--6.u-ph--2.u-ta--c.u-bdb--1px\(4\,solid\,primary\).u-bdt--1px\(4\,solid\,primary\).c-quick-nl-reg
+www.themarker.com##.u-w--360px.c-web-push-subscribe
 www.themarker.com##div.h.g:nth-of-type(6)
+www.themarker.com##section > .u-autospace--4.c-article-entry.b-entry > div > .u-w--300px.u-mr--auto.u-ml--auto.c-dfp-ad
 www.theverge.com###privacyConsent
 www.theverge.com##.c-related-list
 www.theverge.com##.connatix-container
@@ -601,6 +602,7 @@ www87.zippyshare.com###bottom
 ||i0.wp.com/www.getpcsofts.net/wp-content/uploads/2018/10/download_green_secure_direct.png$image
 ||i1.wp.com/goo.gl/kud8Zc$image
 ||i1.wp.com/www.getpcsofts.net/wp-content/uploads/2020/01/download-button-white.png$image
+||images-na.ssl-images-amazon.com/images/G/01/pxd/marketing/diamond/ILMs/non-incentive/Diamond_Center-28_650X45_Text1._CB419094158_.png$image
 ||ksp.co.il/m_action/api/footer-items$1p,important
 ||ksp.co.il/m_action/api/promotion/*$1p,important
 ||lps.ynet.co.il/yframe/newsletter_article/$subdocument
