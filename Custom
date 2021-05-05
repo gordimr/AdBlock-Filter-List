@@ -2,19 +2,6 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
-
-! 2021-05-03 https://members.nubiles-porn.com
-members.nubiles-porn.com##.py-3.footer-container
-members.nubiles-porn.com##.mt-5.bottom-banners.container
-members.nubiles-porn.com##.survey-row.row
-
-! 2021-05-04 https://ksp.co.il
-ksp.co.il##[href^="https://ksp.co.il/lastNewMail"]
-ksp.co.il##.jss88
-ksp.co.il##.MuiTypography-body1.jss18.MuiTypography-root
-ksp.co.il##.MuiButton-fullWidth.jss206.MuiButton-contained.MuiButton-root.MuiButtonBase-root
-
-
 4pda.ru##.copyright
 4pda.ru##noindex > .borderwrap
 @@||googleads.github.io/videojs-ima/dist/videojs.ima.js$script,domain=mobile.mako.co.il
@@ -81,6 +68,9 @@ diakov.net##div#dle-content > div.col-lg-12.my > div.card.mb15 > div.card-body.s
 diakov.net##td > .card-body
 diakov.net#@#.subscr-lazydev
 dl-deltalabs.blogspot.com##.center.white-text.darken-2.black
+download.oxy.st###abuse
+download.oxy.st##.section-padding_bottom_m.section-padding_top_none.section-padding.text-block_align_center.text-block
+download.oxy.st##.section-padding_bottom_s.section-padding_top_s.section-padding.text-block_align_center.text-block
 drive.google.com##.uc-footer
 forum.oszone.net###footer_c
 github.com##.d-block.border-gray-light.border.rounded-1.text-center.p-4.content
@@ -111,14 +101,20 @@ ilfiber.co.il##.elementor-widget-spacer.elementor-widget.elementor-element-f7646
 ilfiber.co.il##.elementor-widget-testimonial.elementor-widget.elementor-element-74c510c.elementor-element
 ilfiber.co.il##.elementor-widget-testimonial.elementor-widget.elementor-element-e0be8c6.elementor-element
 ilfiber.co.il##.fb-comments.elementor-facebook-widget
+katfile.com##.premium
+katfile.com##footer
 ksp.co.il###footersnifim
 ksp.co.il###fotAd
 ksp.co.il###wrapper_bottom > div > .MariNavPopular
+ksp.co.il##.MuiButton-fullWidth.jss206.MuiButton-contained.MuiButton-root.MuiButtonBase-root
+ksp.co.il##.MuiTypography-body1.jss18.MuiTypography-root
 ksp.co.il##.jss65.jss64
 ksp.co.il##.jss65.jss64 > div
 ksp.co.il##.jss73
 ksp.co.il##.jss84
 ksp.co.il##.jss84 > div > .MuiTypography-body1.MuiTypography-root
+ksp.co.il##.jss88
+ksp.co.il##[href^="https://ksp.co.il/lastNewMail"]
 lineageosroms.com##.chlebek
 linustechtips.com###ipsLayout_footer
 linustechtips.com###sidebar-contrib
@@ -158,6 +154,9 @@ m.ynet.co.il##p:nth-of-type(3)
 m.ynet.co.il##ul
 maplestory.nexon.net##.global-footer
 maplestory.nexon.net##.row.footer-main
+members.nubiles-porn.com##.mt-5.bottom-banners.container
+members.nubiles-porn.com##.py-3.footer-container
+members.nubiles-porn.com##.survey-row.row
 miraculoushub.ml###animatedshowsblock
 myanimelist.net###copyright
 myanimelist.net###footer-block
@@ -171,12 +170,25 @@ myanimelist.net##.ranking-container
 myanimelist.net##div.footer-link-icon-block:nth-of-type(1)
 newmedia.calcalist.co.il##.footer-symbol-2
 newmedia.calcalist.co.il##.hafnaya-sof
+nitroflare.com###beforeReCaptcha > div > .purchaseNoWaiting
+nitroflare.com###copyrights
+nitroflare.com###footer
+nitroflare.com###footerCredits
+nitroflare.com###reCaptcha > div > .purchaseNoWaiting
+nitroflare.com###report
+nitroflare.com##.noticeMessage
 ouo.io##.about
 ouo.io##.footer-copy
 ouo.io##.join-now
 ouo.press##.about
 ouo.press##.footer-copy > .container
 ouo.press##.join-now
+oxy.st##.footer-main
+oxy.st##.footer-single-item
+oxy.st##.foter-botom
+oxy.st##.margin-right.single-footer
+oxy.st##.single-footer
+oxy.st##.solution-area
 pcpartpicker.com###disclosure
 pcpartpicker.com##.footer__copyright
 pcpartpicker.com##body > .clearfix
@@ -235,6 +247,7 @@ uploadrar.com##.aboutus
 uploadrar.com##.col-md-offset-2.col-lg-4.col-md-4.col-sm-12.col-xs-12
 uploadrar.com##.copyrights
 uploadrar.com##.menufooter
+uploadrar.com##.sharefile
 uploadrar.com##.socialmedia
 uploadrar.com##.txt
 uploadrar.com##footer
