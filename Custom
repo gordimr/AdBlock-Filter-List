@@ -2,6 +2,19 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+
+! 2021-05-03 https://members.nubiles-porn.com
+members.nubiles-porn.com##.py-3.footer-container
+members.nubiles-porn.com##.mt-5.bottom-banners.container
+members.nubiles-porn.com##.survey-row.row
+
+! 2021-05-04 https://ksp.co.il
+ksp.co.il##[href^="https://ksp.co.il/lastNewMail"]
+ksp.co.il##.jss88
+ksp.co.il##.MuiTypography-body1.jss18.MuiTypography-root
+ksp.co.il##.MuiButton-fullWidth.jss206.MuiButton-contained.MuiButton-root.MuiButtonBase-root
+
+
 4pda.ru##.copyright
 4pda.ru##noindex > .borderwrap
 @@||googleads.github.io/videojs-ima/dist/videojs.ima.js$script,domain=mobile.mako.co.il
