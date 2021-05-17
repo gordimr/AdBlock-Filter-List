@@ -2,6 +2,18 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-05-13 https://piitel.co.il
+piitel.co.il##.copyright-footer
+piitel.co.il##.flex-has-center.nav-dark.hide-for-sticky.header-top
+
+! 2021-05-14 https://www.driverscape.com
+||www.driverscape.com/images/scan.png$image
+www.driverscape.com##.footer
+
+! 2021-05-14 https://en.wikipedia.org
+en.wikipedia.org###footer-places
+en.wikipedia.org###footer-info-copyright
+
 4pda.ru##.copyright
 4pda.ru##noindex > .borderwrap
 @@||googleads.github.io/videojs-ima/dist/videojs.ima.js$script,domain=mobile.mako.co.il
