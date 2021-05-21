@@ -2,6 +2,30 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-05-17 https://github.com
+github.com##.js-notice.mb-4
+
+! 2021-05-18 https://www.facebook.com
+www.facebook.com##.copyright.mvl
+www.facebook.com###pageFooterChildren
+www.facebook.com###pageFooter
+www.facebook.com##footer
+
+! 2021-05-20 https://www.samline.co.il
+www.samline.co.il##.copyright
+
+! 2021-05-21 https://www.electra-trade.co.il
+www.electra-trade.co.il###credits
+
+! 2021-05-21 https://www.zap.co.il
+www.zap.co.il###bannerBelowProductDetails
+www.zap.co.il###ModelPage > .BannerBoxNew
+www.zap.co.il##.Advertisement
+www.zap.co.il###bannerBelowModelFooter
+www.zap.co.il##.ModelCats
+
+
+
 ! 2021-05-13 https://piitel.co.il
 piitel.co.il##.copyright-footer
 piitel.co.il##.flex-has-center.nav-dark.hide-for-sticky.header-top
