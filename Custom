@@ -2,6 +2,67 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-05-22 https://account.battle.net
+account.battle.net##.NavbarFooter-legal
+account.battle.net##.NavbarFooter-subLinks.NavbarFooter-links
+
+! 2021-05-22 https://www.blizzard.com
+www.blizzard.com##.NavbarFooter-legal
+www.blizzard.com##.NavbarFooter-copyright
+www.blizzard.com##.NavbarFooter-trademark.NavbarFooter-doNotSell
+www.blizzard.com##.NavbarFooter-subLinks.NavbarFooter-links
+www.blizzard.com##.NavbarFooter-downloadCta
+www.blizzard.com##.NavbarFooter-mainLinks.NavbarFooter-links
+www.blizzard.com##.NavbarFooter-logoContainer
+www.blizzard.com##div.space-adaptive-large
+www.blizzard.com##div.NavbarFooter-trademark:nth-of-type(6)
+
+! 2021-05-22 https://account.battle.net
+account.battle.net##.NavbarFooter-trademark.NavbarFooter-doNotSell
+account.battle.net##div.NavbarFooter-trademark:nth-of-type(6)
+account.battle.net##.NavbarFooter-copyright
+account.battle.net##.NavbarFooter-mainLinks.NavbarFooter-links
+account.battle.net##.NavbarFooter-logoContainer
+
+! 2021-05-22 https://www.support.dlink.co.il
+www.support.dlink.co.il###SITE_FOOTER_WRAPPER
+
+! 2021-05-22 https://www.speedtest.net
+www.speedtest.net##.menu-footer-inline.menu-footer-sm.menu-footer
+www.speedtest.net##.u-align-center.u-c.pure-u-md-2-3.pure-u-1
+www.speedtest.net##.footer > .container > .pure-g
+www.speedtest.net##.pure-g.content-devices
+www.speedtest.net##.footer
+www.speedtest.net##.notification.error-container
+www.speedtest.net##.lower-content-blend.lower-content > .container > .pure-g
+www.speedtest.net##.lower-content-blend.lower-content > .container
+www.speedtest.net##.u-c.pure-u-custom-ad-rectangle
+www.speedtest.net##.u-c.pure-u-custom-ad-skyscraper
+
+! 2021-05-22 https://www.amazon.com
+www.amazon.com##.a-color-secondary.a-size-mini
+www.amazon.com##.a-size-mini.a-text-center.a-spacing-small.a-section
+www.amazon.com##.a-divider-section.a-divider
+www.amazon.com##.a-size-small.a-spacing-top-medium.a-row
+www.amazon.com##.a-divider-break.a-divider
+
+! 2021-05-23 https://4pda.to
+4pda.to##.copyright
+
+! 2021-05-23 https://www.hyperxgaming.com
+www.hyperxgaming.com###notification-51525 > .c-notification--small.c-notification > .c-notification__content.l-inner > .c-notification__copy.notification__text
+www.hyperxgaming.com##.c-notification__bg
+www.hyperxgaming.com###notification-51525 > .c-notification--small.c-notification
+www.hyperxgaming.com##.s-copyright__text
+www.hyperxgaming.com##.s-copyright__social.u-m0.u-p0.u-list-horizontal.u-list-unstyled
+www.hyperxgaming.com##.t-darkgrey.s-copyright
+www.hyperxgaming.com##.s-footer__email
+www.hyperxgaming.com##.l-1\/5\@lg.l-1\/3\@md.l-row__col
+www.hyperxgaming.com##.s-footer__links
+www.hyperxgaming.com##.l-4\/5\@lg.l-2\/3\@md.l-row__col
+www.hyperxgaming.com##.t-black.s-footer.section-footer > .u-max\+.l-inner
+
+
 ! 2021-05-21 https://www.zap.co.il
 www.zap.co.il##.marginTop.recaptcha
 www.zap.co.il##.RelatedProducts
