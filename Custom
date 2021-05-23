@@ -1,7 +1,6 @@
 ! Title: Custom AdBlock Filter
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
-!
 4pda.ru##.copyright
 4pda.ru##noindex > .borderwrap
 4pda.to##.copyright
@@ -81,10 +80,20 @@ download.oxy.st###abuse
 download.oxy.st##.section-padding_bottom_m.section-padding_top_none.section-padding.text-block_align_center.text-block
 download.oxy.st##.section-padding_bottom_s.section-padding_top_s.section-padding.text-block_align_center.text-block
 drive.google.com##.uc-footer
+dxracer.co.il##.first.hide-on-second-switch.near-logo-first-switch.show-on-desktop.text-area > p > [href="https://www.facebook.com/dxracer.co.il/"]
+dxracer.co.il##.light-icon-hover-color.custom-icon-color.light-hover-bg.light-bg.wf-container.benefits-grid
+dxracer.co.il##.sidebar
+dxracer.co.il##.textwidget > .dt-default.vc_row-fluid.wpb_row.vc_row > .vc_col-sm-12.vc_column_container.wpb_column
+dxracer.co.il##.vc_row-fluid.vc_inner.wpb_row.vc_row
+dxracer.co.il##.wf-container-bottom
+dxracer.co.il##.wf-container-footer
+dxracer.co.il##.wf-container-footer > .wf-container
+dxracer.co.il##.wf-float-right
 en.wikipedia.org###footer-info-copyright
 en.wikipedia.org###footer-places
 forum.oszone.net###footer_c
 github.com##.d-block.border-gray-light.border.rounded-1.text-center.p-4.content
+github.com##.f6.mt-6.py-6.p-responsive.container-lg.footer
 github.com##.js-notice.mb-4
 github.com##.mt-3.mb-2.mt-md-2.mx-md-2.color-text-secondary.text-small
 github.com##.mt-3.mb-2.mt-md-2.mx-md-2.text-gray.text-small
