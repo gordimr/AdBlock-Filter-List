@@ -2,113 +2,18 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
-! 2021-05-22 https://account.battle.net
-account.battle.net##.NavbarFooter-legal
-account.battle.net##.NavbarFooter-subLinks.NavbarFooter-links
-
-! 2021-05-22 https://www.blizzard.com
-www.blizzard.com##.NavbarFooter-legal
-www.blizzard.com##.NavbarFooter-copyright
-www.blizzard.com##.NavbarFooter-trademark.NavbarFooter-doNotSell
-www.blizzard.com##.NavbarFooter-subLinks.NavbarFooter-links
-www.blizzard.com##.NavbarFooter-downloadCta
-www.blizzard.com##.NavbarFooter-mainLinks.NavbarFooter-links
-www.blizzard.com##.NavbarFooter-logoContainer
-www.blizzard.com##div.space-adaptive-large
-www.blizzard.com##div.NavbarFooter-trademark:nth-of-type(6)
-
-! 2021-05-22 https://account.battle.net
-account.battle.net##.NavbarFooter-trademark.NavbarFooter-doNotSell
-account.battle.net##div.NavbarFooter-trademark:nth-of-type(6)
-account.battle.net##.NavbarFooter-copyright
-account.battle.net##.NavbarFooter-mainLinks.NavbarFooter-links
-account.battle.net##.NavbarFooter-logoContainer
-
-! 2021-05-22 https://www.support.dlink.co.il
-www.support.dlink.co.il###SITE_FOOTER_WRAPPER
-
-! 2021-05-22 https://www.speedtest.net
-www.speedtest.net##.menu-footer-inline.menu-footer-sm.menu-footer
-www.speedtest.net##.u-align-center.u-c.pure-u-md-2-3.pure-u-1
-www.speedtest.net##.footer > .container > .pure-g
-www.speedtest.net##.pure-g.content-devices
-www.speedtest.net##.footer
-www.speedtest.net##.notification.error-container
-www.speedtest.net##.lower-content-blend.lower-content > .container > .pure-g
-www.speedtest.net##.lower-content-blend.lower-content > .container
-www.speedtest.net##.u-c.pure-u-custom-ad-rectangle
-www.speedtest.net##.u-c.pure-u-custom-ad-skyscraper
-
-! 2021-05-22 https://www.amazon.com
-www.amazon.com##.a-color-secondary.a-size-mini
-www.amazon.com##.a-size-mini.a-text-center.a-spacing-small.a-section
-www.amazon.com##.a-divider-section.a-divider
-www.amazon.com##.a-size-small.a-spacing-top-medium.a-row
-www.amazon.com##.a-divider-break.a-divider
-
-! 2021-05-23 https://4pda.to
-4pda.to##.copyright
-
-! 2021-05-23 https://www.hyperxgaming.com
-www.hyperxgaming.com###notification-51525 > .c-notification--small.c-notification > .c-notification__content.l-inner > .c-notification__copy.notification__text
-www.hyperxgaming.com##.c-notification__bg
-www.hyperxgaming.com###notification-51525 > .c-notification--small.c-notification
-www.hyperxgaming.com##.s-copyright__text
-www.hyperxgaming.com##.s-copyright__social.u-m0.u-p0.u-list-horizontal.u-list-unstyled
-www.hyperxgaming.com##.t-darkgrey.s-copyright
-www.hyperxgaming.com##.s-footer__email
-www.hyperxgaming.com##.l-1\/5\@lg.l-1\/3\@md.l-row__col
-www.hyperxgaming.com##.s-footer__links
-www.hyperxgaming.com##.l-4\/5\@lg.l-2\/3\@md.l-row__col
-www.hyperxgaming.com##.t-black.s-footer.section-footer > .u-max\+.l-inner
-
-
-! 2021-05-21 https://www.zap.co.il
-www.zap.co.il##.marginTop.recaptcha
-www.zap.co.il##.RelatedProducts
-www.zap.co.il##.compareSimilarProducts
-
-
-! 2021-05-17 https://github.com
-github.com##.js-notice.mb-4
-
-! 2021-05-18 https://www.facebook.com
-www.facebook.com##.copyright.mvl
-www.facebook.com###pageFooterChildren
-www.facebook.com###pageFooter
-www.facebook.com##footer
-
-! 2021-05-20 https://www.samline.co.il
-www.samline.co.il##.copyright
-
-! 2021-05-21 https://www.electra-trade.co.il
-www.electra-trade.co.il###credits
-
-! 2021-05-21 https://www.zap.co.il
-www.zap.co.il###bannerBelowProductDetails
-www.zap.co.il###ModelPage > .BannerBoxNew
-www.zap.co.il##.Advertisement
-www.zap.co.il###bannerBelowModelFooter
-www.zap.co.il##.ModelCats
-
-
-
-! 2021-05-13 https://piitel.co.il
-piitel.co.il##.copyright-footer
-piitel.co.il##.flex-has-center.nav-dark.hide-for-sticky.header-top
-
-! 2021-05-14 https://www.driverscape.com
-||www.driverscape.com/images/scan.png$image
-www.driverscape.com##.footer
-
-! 2021-05-14 https://en.wikipedia.org
-en.wikipedia.org###footer-places
-en.wikipedia.org###footer-info-copyright
-
 4pda.ru##.copyright
 4pda.ru##noindex > .borderwrap
+4pda.to##.copyright
 @@||googleads.github.io/videojs-ima/dist/videojs.ima.js$script,domain=mobile.mako.co.il
 @@||www.ynet.co.il/Common/Api/Scripts/video/videojs.ima.js$script,domain=m.ynet.co.il
+account.battle.net##.NavbarFooter-copyright
+account.battle.net##.NavbarFooter-legal
+account.battle.net##.NavbarFooter-logoContainer
+account.battle.net##.NavbarFooter-mainLinks.NavbarFooter-links
+account.battle.net##.NavbarFooter-subLinks.NavbarFooter-links
+account.battle.net##.NavbarFooter-trademark.NavbarFooter-doNotSell
+account.battle.net##div.NavbarFooter-trademark:nth-of-type(6)
 acrobat.adobe.com###gnav_711 > .feds-navList
 acrobat.adobe.com##.gnavFooter > .feds-navBar-wrapper
 aliexpress.*###magnet-order-list
@@ -176,8 +81,11 @@ download.oxy.st###abuse
 download.oxy.st##.section-padding_bottom_m.section-padding_top_none.section-padding.text-block_align_center.text-block
 download.oxy.st##.section-padding_bottom_s.section-padding_top_s.section-padding.text-block_align_center.text-block
 drive.google.com##.uc-footer
+en.wikipedia.org###footer-info-copyright
+en.wikipedia.org###footer-places
 forum.oszone.net###footer_c
 github.com##.d-block.border-gray-light.border.rounded-1.text-center.p-4.content
+github.com##.js-notice.mb-4
 github.com##.mt-3.mb-2.mt-md-2.mx-md-2.color-text-secondary.text-small
 github.com##.mt-3.mb-2.mt-md-2.mx-md-2.text-gray.text-small
 github.com##.p-responsive.width-full.container-xl.footer
@@ -315,7 +223,9 @@ oxy.st##.solution-area
 pcpartpicker.com###disclosure
 pcpartpicker.com##.footer__copyright
 pcpartpicker.com##body > .clearfix
+piitel.co.il##.copyright-footer
 piitel.co.il##.cross-sells
+piitel.co.il##.flex-has-center.nav-dark.hide-for-sticky.header-top
 rarbgto.org##.lista-rounded > tbody > tr:nth-of-type(4)
 rarbgto.org##.lista-rounded > tbody > tr:nth-of-type(4) > td
 rarbgto.org##body > div:nth-of-type(2)
@@ -419,6 +329,7 @@ www.amazon.*##.ac-for-text
 www.amazon.*##.amazonlive-widget-padding
 www.amazon.*##.amzn-safe-frame-container
 www.amazon.*##.bia-content.a-box
+www.amazon.*##.bucket.a-spacing-large.a-section
 www.amazon.*##.bucket.similarities-widget
 www.amazon.*##.nav-flyout-sidePanel
 www.amazon.*##.nav-sprite-v1.navLeftFooter
@@ -431,13 +342,26 @@ www.amazon.*##.widgetId\=feedback.template\=FEEDBACK.slot\=MAIN.celwidget
 www.amazon.*##div#bia_content.a-box > div.a-box-inner.a-padding-base
 www.amazon.*##div.celwidget:nth-of-type(45)
 www.amazon.*##div.navFooterPadItemLine.navFooterLinkLine.navFooterLine:nth-of-type(3)
-www.amazon.*##.bucket.a-spacing-large.a-section
+www.amazon.com##.a-color-secondary.a-size-mini
+www.amazon.com##.a-divider-break.a-divider
+www.amazon.com##.a-divider-section.a-divider
+www.amazon.com##.a-size-mini.a-text-center.a-spacing-small.a-section
+www.amazon.com##.a-size-small.a-spacing-top-medium.a-row
 www.animencodes.com###HTML4
 www.animencodes.com##.footer-inner.region-inner
 www.animencodes.com##.footer-outer
 www.bconnect.co.il##.footer-box
 www.bezeq.co.il###bezeq_search_social
 www.bezeq.co.il##.bezeq_blue_footer_container
+www.blizzard.com##.NavbarFooter-copyright
+www.blizzard.com##.NavbarFooter-downloadCta
+www.blizzard.com##.NavbarFooter-legal
+www.blizzard.com##.NavbarFooter-logoContainer
+www.blizzard.com##.NavbarFooter-mainLinks.NavbarFooter-links
+www.blizzard.com##.NavbarFooter-subLinks.NavbarFooter-links
+www.blizzard.com##.NavbarFooter-trademark.NavbarFooter-doNotSell
+www.blizzard.com##div.NavbarFooter-trademark:nth-of-type(6)
+www.blizzard.com##div.space-adaptive-large
 www.booknet.co.il###footer
 www.booknet.co.il###footer > .container
 www.booknet.co.il##.footer-contacts
@@ -474,6 +398,8 @@ www.calcalist.co.il##div.calcalist-most-viewed-auto.layoutItem
 www.daganm.co.il##.footer-bottom > .container
 www.daganm.co.il##.height-matched.match-height.items-in-row-1.margin-top-sm.template-pages_rows.widget-index.widget
 www.dlink.ru##.copyright
+www.driverscape.com##.footer
+www.electra-trade.co.il###credits
 www.epicgames.com##.copyright.row
 www.epicgames.com##.epic_games.mobile-border-color.bg-color.container-fluid.egf
 www.epicgames.com##.footer-legal.row
@@ -481,6 +407,10 @@ www.epicgames.com##.footer-links-container.row
 www.erai-raws.info###image_ads
 www.erai-raws.info##.last.twelvecol
 www.erai-raws.info##[href="/donate/"]
+www.facebook.com###pageFooter
+www.facebook.com###pageFooterChildren
+www.facebook.com##.copyright.mvl
+www.facebook.com##footer
 www.fxp.co.il##.additional-links
 www.fxp.co.il##.additional-links-bottom
 www.fxp.co.il##.divmainfav
@@ -571,6 +501,17 @@ www.howtogeek.com##.amp-social-sharing
 www.howtogeek.com##.amp-wp-tax-tag.amp-wp-meta
 www.howtogeek.com##.shortbioauthordiv
 www.howtogeek.com##.site-footer
+www.hyperxgaming.com###notification-51525 > .c-notification--small.c-notification
+www.hyperxgaming.com###notification-51525 > .c-notification--small.c-notification > .c-notification__content.l-inner > .c-notification__copy.notification__text
+www.hyperxgaming.com##.c-notification__bg
+www.hyperxgaming.com##.l-1\/5\@lg.l-1\/3\@md.l-row__col
+www.hyperxgaming.com##.l-4\/5\@lg.l-2\/3\@md.l-row__col
+www.hyperxgaming.com##.s-copyright__social.u-m0.u-p0.u-list-horizontal.u-list-unstyled
+www.hyperxgaming.com##.s-copyright__text
+www.hyperxgaming.com##.s-footer__email
+www.hyperxgaming.com##.s-footer__links
+www.hyperxgaming.com##.t-black.s-footer.section-footer > .u-max\+.l-inner
+www.hyperxgaming.com##.t-darkgrey.s-copyright
 www.israelhayom.co.il###footer
 www.israelhayom.co.il###footer_message
 www.israelhayom.co.il###mini-panel-footer > .panel-col.panel-panel
@@ -628,6 +569,7 @@ www.reviewgeek.com##.container
 www.reviewgeek.com##.copyright
 www.reviewgeek.com##.logo
 www.reviewgeek.com##.site-footer
+www.samline.co.il##.copyright
 www.semicom.co.il###page_content > .cms_content_area
 www.semicom.co.il##.footer_copyright
 www.semicom.co.il##.home_footer_text
@@ -638,10 +580,21 @@ www.sendspace.com##.tac.text
 www.solidfiles.com##.premium-promo.box
 www.spaste.com##.btn-small.btn-danger.btn
 www.spaste.com##.footer-below
+www.speedtest.net##.footer
+www.speedtest.net##.footer > .container > .pure-g
+www.speedtest.net##.lower-content-blend.lower-content > .container
+www.speedtest.net##.lower-content-blend.lower-content > .container > .pure-g
+www.speedtest.net##.menu-footer-inline.menu-footer-sm.menu-footer
+www.speedtest.net##.notification.error-container
+www.speedtest.net##.pure-g.content-devices
+www.speedtest.net##.u-align-center.u-c.pure-u-md-2-3.pure-u-1
+www.speedtest.net##.u-c.pure-u-custom-ad-rectangle
+www.speedtest.net##.u-c.pure-u-custom-ad-skyscraper
 www.spotify.com###mh-footer
 www.spotify.com#@##fb-root:not(body):not(html)
 www.spotify.com#@#.grecaptcha-badge
 www.spotify.com#@#div > div[aria-live="polite"]
+www.support.dlink.co.il###SITE_FOOTER_WRAPPER
 www.tapatalk.com###recommend_topics
 www.tapatalk.com###related-topic-list-expand
 www.tapatalk.com###relatedtopicbar
@@ -723,12 +676,20 @@ www.youtube.com###copyright
 www.youtube.com###guide-links-primary
 www.youtube.com###guide-links-secondary
 www.youtube.com##.ytd-video-primary-info-renderer.style-scope.super-title
+www.zap.co.il###ModelPage > .BannerBoxNew
 www.zap.co.il###ModelsPage > .BannerBoxNew
+www.zap.co.il###bannerBelowModelFooter
+www.zap.co.il###bannerBelowProductDetails
+www.zap.co.il##.Advertisement
 www.zap.co.il##.AdvertisementBlock
 www.zap.co.il##.BottomComment
 www.zap.co.il##.MashlimimCat
+www.zap.co.il##.ModelCats
+www.zap.co.il##.RelatedProducts
 www.zap.co.il##.SearchResultsMain > div.BannerBoxNew
 www.zap.co.il##.ZapHomepageFooter
+www.zap.co.il##.compareSimilarProducts
+www.zap.co.il##.marginTop.recaptcha
 www.zap.co.il##.mashlimim
 www.zap.co.il##.ph_Personalization
 www.zap.co.il##div.Archive > [href^="/modelsstore.aspx"]
@@ -763,4 +724,5 @@ www87.zippyshare.com###bottom
 ||ksp.co.il/m_action/api/footer-items$1p,important
 ||ksp.co.il/m_action/api/promotion/*$1p,important
 ||lps.ynet.co.il/yframe/newsletter_article/$subdocument
+||www.driverscape.com/images/scan.png$image
 ||www2.bittools.net/themes/pro/bittools/images/FTBG.png$image
