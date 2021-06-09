@@ -1,6 +1,66 @@
 ! Title: Custom AdBlock Filter
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
+! 2021-05-24 https://login.teamviewer.com
+login.teamviewer.com###footerLinks
+login.teamviewer.com###copyrightLink
+
+! 2021-05-24 https://ipv6-test.com
+ipv6-test.com##div.container > .small
+
+! 2021-05-25 https://bmail.bezeq.co.il
+bmail.bezeq.co.il##.clearfix.bezeq_blue_footer
+bmail.bezeq.co.il###bezeq_social_container
+bmail.bezeq.co.il##.bezeq_search_footer
+bmail.bezeq.co.il###bezeq_search_social
+
+! 2021-05-28 https://www.facebook.com
+www.facebook.com###reg_pages_msg
+
+! 2021-05-31 https://steamunlocked.net
+steamunlocked.net##.col-lg-12.copyright
+steamunlocked.net##.col-lg-4.footer_widget
+
+! 2021-06-01 https://forums.thinkbroadband.com
+forums.thinkbroadband.com###footer
+
+! 2021-06-02 https://theverifier.co.il
+theverifier.co.il###disqus_recommendations
+
+! 2021-06-03 https://www.ace.co.il
+www.ace.co.il##.bottom > .container
+www.ace.co.il##.bottom
+www.ace.co.il##.top > .container
+www.ace.co.il##.top
+
+! 2021-06-06 https://www.ivory.co.il
+www.ivory.co.il##.noSideMargins.mb-5.align-items-center.d-flex.justify-content-between.row
+www.ivory.co.il##.siyagim
+www.ivory.co.il##.hide-print.mb-0.mt-0.row
+
+! 2021-06-06 https://www.homecenter.co.il
+www.homecenter.co.il##.rights
+www.homecenter.co.il##.cms-filter-bottom
+
+! 2021-06-06 https://ksp.co.il
+ksp.co.il##.jss151
+ksp.co.il###bottom-navbar
+ksp.co.il###footer-wrapper
+
+! 2021-06-06 https://usb4.co.il
+usb4.co.il##.copyright-footer
+usb4.co.il##.text-center.medium-text-center.dark.absolute-footer
+usb4.co.il##.dark.footer-2.footer.footer-widgets
+usb4.co.il##.widget_products.woocommerce.widget.pb-0.col
+usb4.co.il##.product-footer
+usb4.co.il##.footer-1.footer.footer-widgets
+
+! 2021-06-06 https://www.levhabait.co.il
+www.levhabait.co.il###element_general_footer_payments
+www.levhabait.co.il###footer_middle_groups
+www.levhabait.co.il###footer_group1
+
+
 4pda.ru##.copyright
 4pda.ru##noindex > .borderwrap
 4pda.to##.copyright
