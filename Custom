@@ -1,66 +1,7 @@
 ! Title: Custom AdBlock Filter
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
-! 2021-05-24 https://login.teamviewer.com
-login.teamviewer.com###footerLinks
-login.teamviewer.com###copyrightLink
-
-! 2021-05-24 https://ipv6-test.com
-ipv6-test.com##div.container > .small
-
-! 2021-05-25 https://bmail.bezeq.co.il
-bmail.bezeq.co.il##.clearfix.bezeq_blue_footer
-bmail.bezeq.co.il###bezeq_social_container
-bmail.bezeq.co.il##.bezeq_search_footer
-bmail.bezeq.co.il###bezeq_search_social
-
-! 2021-05-28 https://www.facebook.com
-www.facebook.com###reg_pages_msg
-
-! 2021-05-31 https://steamunlocked.net
-steamunlocked.net##.col-lg-12.copyright
-steamunlocked.net##.col-lg-4.footer_widget
-
-! 2021-06-01 https://forums.thinkbroadband.com
-forums.thinkbroadband.com###footer
-
-! 2021-06-02 https://theverifier.co.il
-theverifier.co.il###disqus_recommendations
-
-! 2021-06-03 https://www.ace.co.il
-www.ace.co.il##.bottom > .container
-www.ace.co.il##.bottom
-www.ace.co.il##.top > .container
-www.ace.co.il##.top
-
-! 2021-06-06 https://www.ivory.co.il
-www.ivory.co.il##.noSideMargins.mb-5.align-items-center.d-flex.justify-content-between.row
-www.ivory.co.il##.siyagim
-www.ivory.co.il##.hide-print.mb-0.mt-0.row
-
-! 2021-06-06 https://www.homecenter.co.il
-www.homecenter.co.il##.rights
-www.homecenter.co.il##.cms-filter-bottom
-
-! 2021-06-06 https://ksp.co.il
-ksp.co.il##.jss151
-ksp.co.il###bottom-navbar
-ksp.co.il###footer-wrapper
-
-! 2021-06-06 https://usb4.co.il
-usb4.co.il##.copyright-footer
-usb4.co.il##.text-center.medium-text-center.dark.absolute-footer
-usb4.co.il##.dark.footer-2.footer.footer-widgets
-usb4.co.il##.widget_products.woocommerce.widget.pb-0.col
-usb4.co.il##.product-footer
-usb4.co.il##.footer-1.footer.footer-widgets
-
-! 2021-06-06 https://www.levhabait.co.il
-www.levhabait.co.il###element_general_footer_payments
-www.levhabait.co.il###footer_middle_groups
-www.levhabait.co.il###footer_group1
-
-
+!
 4pda.ru##.copyright
 4pda.ru##noindex > .borderwrap
 4pda.to##.copyright
@@ -101,12 +42,18 @@ android.stackexchange.com##.bottom-notice
 android.stackexchange.com##.privacy-policy-agreement
 android.stackexchange.com##.site-footer--container
 anidb.net###layout-footer
+bmail.bezeq.co.il###bezeq_search_social
+bmail.bezeq.co.il###bezeq_social_container
+bmail.bezeq.co.il##.bezeq_search_footer
+bmail.bezeq.co.il##.clearfix.bezeq_blue_footer
 bmy.bezeq.co.il###bezeq_search_social
 bmy.bezeq.co.il###bezeq_social_container
 bmy.bezeq.co.il##.bezeq_blue_footer_container
 bmy.bezeq.co.il##.bezeq_search_footer
 bstore.bezeq.co.il##.clearfix.bezeq_blue_footer
 chaturbate.com##.footer-holder
+cloud.reolink.com##.footer-mod-2.footer
+cloud.reolink.com##.notice-cookies
 deliveries.orrs.de##.mdl-mega-footer
 deliveries.orrs.de##.mdl-mega-footer--bottom-section
 deltalabsproject.blogspot.com###copyright
@@ -152,6 +99,7 @@ dxracer.co.il##.wf-float-right
 en.wikipedia.org###footer-info-copyright
 en.wikipedia.org###footer-places
 forum.oszone.net###footer_c
+forums.thinkbroadband.com###footer
 github.com##.d-block.border-gray-light.border.rounded-1.text-center.p-4.content
 github.com##.f6.mt-6.py-6.p-responsive.container-lg.footer
 github.com##.js-notice.mb-4
@@ -198,13 +146,19 @@ ilfiber.co.il##.elementor-widget-spacer.elementor-widget.elementor-element-f7646
 ilfiber.co.il##.elementor-widget-testimonial.elementor-widget.elementor-element-74c510c.elementor-element
 ilfiber.co.il##.elementor-widget-testimonial.elementor-widget.elementor-element-e0be8c6.elementor-element
 ilfiber.co.il##.fb-comments.elementor-facebook-widget
+ipv6-test.com##div.container > .small
 katfile.com##.premium
 katfile.com##footer
+ksp.co.il###bottom-navbar
+ksp.co.il###footer
+ksp.co.il###footer-wrapper
 ksp.co.il###footersnifim
 ksp.co.il###fotAd
+ksp.co.il###item-share
 ksp.co.il###wrapper_bottom > div > .MariNavPopular
 ksp.co.il##.MuiButton-fullWidth.jss206.MuiButton-contained.MuiButton-root.MuiButtonBase-root
 ksp.co.il##.MuiTypography-body1.jss18.MuiTypography-root
+ksp.co.il##.jss151
 ksp.co.il##.jss65.jss64
 ksp.co.il##.jss65.jss64 > div
 ksp.co.il##.jss73
@@ -220,6 +174,8 @@ linustechtips.com##.ipsFaded_withHover.ipsBreadcrumb_bottom.ipsBreadcrumb
 linustechtips.com##.ipsList_noSpacing.ipsList_reset.ipsType_center.ipsList_inline
 linustechtips.com##.ipsSpacer_top.ipsPager
 linustechtips.com##.lmg-card.ipsPad.ipsWidget_inner
+login.teamviewer.com###copyrightLink
+login.teamviewer.com###footerLinks
 lrepacks.net###content > .columns.large-4.medium-4
 lrepacks.net###navigation > .donate.large.button
 lrepacks.net##.account > .donate.large.button
@@ -304,11 +260,28 @@ rarbgto.org##tr:nth-of-type(6) > .block
 receipts.weezmo.com##.ant-form-horizontal.ant-form
 receipts.weezmo.com##.ant-modal
 receipts.weezmo.com##.boom.ant-modal-wrap
+reolink.com###bottom-support
+reolink.com###footer
+reolink.com##.copyright-worktime-box
+reolink.com##.faq-tab.banner-help
+reolink.com##.last-bottom-box
+reolink.com##.logo-left-content
+reolink.com##.main-infor-content
+reolink.com##.new-added-box
+reolink.com##.new-added-content
+reolink.com##.note-description-content
+reolink.com##.overview-tab.reo-component.note-description-wrap
+reolink.com##.pr-40.pb-130
+reolink.com##.pre-subscribe.reo-subscription-box
+reolink.com##.reolink-logo-icons
+reolink.com##.z-10000.reo-float-wrap-left-bottom
 security.stackexchange.com##.fd-column.gsy.gs4.grid.post-taglist
 security.stackexchange.com##.privacy-policy-agreement
 security.stackexchange.com##.ps-relative.js-freemium-cta
 security.stackexchange.com##.site-footer--container
 softwarekeep.com##.banner-item
+steamunlocked.net##.col-lg-12.copyright
+steamunlocked.net##.col-lg-4.footer_widget
 superuser.com##.bottom-notice
 superuser.com##.fd-column.gsy.gs4.grid.post-taglist
 superuser.com##.fs-fine.site-footer--copyright
@@ -324,6 +297,7 @@ support.logi.com##.footer-inner
 support.logi.com##.footer-link-container
 support.logi.com##.rights-reserve
 tech.walla.co.il##.noprint.css-1vragmb
+theverifier.co.il###disqus_recommendations
 theverifier.co.il##.clearfix.jeg_footer_primary
 theverifier.co.il##.col-md-4.jeg_sticky_sidebar.jeg_sidebar
 theverifier.co.il##.jeg_post_tags
@@ -356,6 +330,12 @@ uploadrar.com##.sharefile
 uploadrar.com##.socialmedia
 uploadrar.com##.txt
 uploadrar.com##footer
+usb4.co.il##.copyright-footer
+usb4.co.il##.dark.footer-2.footer.footer-widgets
+usb4.co.il##.footer-1.footer.footer-widgets
+usb4.co.il##.product-footer
+usb4.co.il##.text-center.medium-text-center.dark.absolute-footer
+usb4.co.il##.widget_products.woocommerce.widget.pb-0.col
 usersdrive.com##.pro
 walla.*###main-footer
 walla.*##.css-12flape > aside
@@ -365,6 +345,10 @@ walla.*##.noprint.no-mobile-app.css-1ra4wk
 walla.*##.noprint.no-mobile-app.css-1ra4wkk
 walla.*##.undefined.section-links.css-114l8a5
 walla.*##.walla-icon-printer.no-mobile.noprint.css-b3wih4
+www.ace.co.il##.bottom
+www.ace.co.il##.bottom > .container
+www.ace.co.il##.top
+www.ace.co.il##.top > .container
 www.amazon.*###bia-hcb-widget
 www.amazon.*###bottom
 www.amazon.*###cart-about-cart-warning > p
@@ -416,6 +400,9 @@ www.amazon.com##.a-divider-break.a-divider
 www.amazon.com##.a-divider-section.a-divider
 www.amazon.com##.a-size-mini.a-text-center.a-spacing-small.a-section
 www.amazon.com##.a-size-small.a-spacing-top-medium.a-row
+www.amazon.com##.a-spacing-micro.a-carousel-transition-stretchygoodness.a-carousel-display-stretchygoodness.a-carousel-static.a-carousel-container.a-begin
+www.androidauthority.com##.advertise-button
+www.androidauthority.com##.wrapper
 www.animencodes.com###HTML4
 www.animencodes.com##.footer-inner.region-inner
 www.animencodes.com##.footer-outer
@@ -476,18 +463,33 @@ www.epicgames.com##.footer-links-container.row
 www.erai-raws.info###image_ads
 www.erai-raws.info##.last.twelvecol
 www.erai-raws.info##[href="/donate/"]
-www.facebook.com###pageFooter
 www.facebook.com###pageFooterChildren
+www.facebook.com###reg_pages_msg
 www.facebook.com##.copyright.mvl
 www.facebook.com##footer
+www.fxp.co.il###big-wap
+www.fxp.co.il###first-post-location
+www.fxp.co.il###footer
+www.fxp.co.il###footer_links
+www.fxp.co.il###gpt-top
+www.fxp.co.il###imageholderfr
+www.fxp.co.il###my2
 www.fxp.co.il##.additional-links
 www.fxp.co.il##.additional-links-bottom
+www.fxp.co.il##.cats2
 www.fxp.co.il##.divmainfav
+www.fxp.co.il##.favcontainer-n1
+www.fxp.co.il##.favswipecontent-n1
 www.fxp.co.il##.footer
 www.fxp.co.il##.footer__addr
 www.fxp.co.il##.footer__nav
 www.fxp.co.il##.footer_copyright.shade
+www.fxp.co.il##.microphone-tooltip
+www.fxp.co.il##.mobile-fav-down
 www.fxp.co.il##.navlinks
+www.fxp.co.il##.quicktr
+www.fxp.co.il##.settings-tooltip
+www.fxp.co.il##.voice-change-info
 www.fxp.co.il##div.gu.dargot
 www.gadgety.co.il###bottomLine
 www.gadgety.co.il###footer
@@ -542,6 +544,9 @@ www.globes.co.il##.social
 www.globes.co.il##.tagit
 www.globes.co.il##.wr > section
 www.globes.co.il##footer
+www.gsmarena.com###footer
+www.gsmarena.com##.clearfix.article-tags > .float-right
+www.gsmarena.com##.gsma-RelatedArticles
 www.haaretz.co.il##.interstitial.c-dfp-ad
 www.haaretz.co.il##.u-autospace--2.c-lists-wrapper
 www.haaretz.co.il##.u-pos--r.u-mv--6.u-ph--2.u-ta--c.u-bdb--2px\(4\,solid\,primary\).u-bdt--2px\(4\,solid\,primary\).c-quick-nl-reg
@@ -550,6 +555,8 @@ www.haaretz.co.il##section > .u-autospace--4.c-article-entry.b-entry > div
 www.hachvana.mod.gov.il##.footerEn
 www.hachvana.mod.gov.il##.footerHe
 www.hachvana.mod.gov.il##.hidden-xs.col-md-4.col-sm-6.footerIcons
+www.homecenter.co.il##.cms-filter-bottom
+www.homecenter.co.il##.rights
 www.hot.net.il###LeftColumn_ctrlText_3883_ControlTitle
 www.hot.net.il##.footerContent
 www.hot.net.il##.footerLinks
@@ -566,10 +573,18 @@ www.how2shout.com##.horizontal-small.widget_mts_popular_posts_widget.widget
 www.how2shout.com##.horizontal-small.widget_mts_recent_posts_widget.widget
 www.how2shout.com##.related-posts
 www.how2shout.com##.widgets-num-4.first-footer-widgets.footer-widgets
+www.howtogeek.com##.affiliate-disclosure
 www.howtogeek.com##.amp-social-sharing
 www.howtogeek.com##.amp-wp-tax-tag.amp-wp-meta
+www.howtogeek.com##.e-content.entry-content strong
+www.howtogeek.com##.entry-footer
+www.howtogeek.com##.message
+www.howtogeek.com##.message > span
+www.howtogeek.com##.nextup
 www.howtogeek.com##.shortbioauthordiv
 www.howtogeek.com##.site-footer
+www.howtogeek.com##.social-media-buttons
+www.howtogeek.com##em
 www.hyperxgaming.com###notification-51525 > .c-notification--small.c-notification
 www.hyperxgaming.com###notification-51525 > .c-notification--small.c-notification > .c-notification__content.l-inner > .c-notification__copy.notification__text
 www.hyperxgaming.com##.c-notification__bg
@@ -588,10 +603,16 @@ www.israelhayom.co.il##.clear-block.panel-onecol-row-stack.panel-display
 www.israelhayom.co.il##.even.field-item > div:nth-of-type(5) > div:nth-of-type(1) > div > div
 www.israelhayom.co.il##.sticky-header
 www.israelhayom.co.il##.tags-list
+www.ivory.co.il##.hide-print.mb-0.mt-0.row
+www.ivory.co.il##.noSideMargins.mb-5.align-items-center.d-flex.justify-content-between.row
+www.ivory.co.il##.siyagim
 www.joinhoney.com##.body2.honeyName-0-2-175
 www.joinhoney.com##.cookieConsentBannerContainer-0-2-304
 www.joinhoney.com##.links-0-2-173
 www.joinhoney.com##.mainPadding-0-2-167
+www.levhabait.co.il###element_general_footer_payments
+www.levhabait.co.il###footer_group1
+www.levhabait.co.il###footer_middle_groups
 www.lnk.co.il###copy_area > .content_wrapper
 www.lnk.co.il##.featured_image_sidebar
 www.lnk.co.il##.full_width.copy_area
@@ -611,6 +632,7 @@ www.newpangourmet.co.il##.footer-lower
 www.newpangourmet.co.il##.footer-lower-center
 www.newpangourmet.co.il##.footer-middle
 www.newpangourmet.co.il##.nivo-main-image
+www.partner.co.il##.copyright
 www.pcgamer.com###affiliateDisclaimer
 www.pcgamer.com###document-footer-content
 www.pcgamer.com###popularcontent
@@ -633,6 +655,7 @@ www.pornhubpremium.com##.membershipCo
 www.pornhubpremium.com##.upsellWrapper
 www.pornhubpremium.com##footer
 www.razer.com##.footer-container.container
+www.ret.co.il##footer
 www.reviewgeek.com##.amp-wp-tax-tag
 www.reviewgeek.com##.container
 www.reviewgeek.com##.copyright
@@ -736,8 +759,10 @@ www.ynet.co.il##.CreditLogos
 www.ynet.co.il##.FooterLogos
 www.ynet.co.il##.SiteArticleSocialBottomShare1280 > .iconsWrapper
 www.ynet.co.il##.SiteArticleSocialShare1280
+www.ynet.co.il##.SiteArticleSocialShareNew1280
 www.ynet.co.il##.ToolsAndAbout
 www.ynet.co.il##.article-tags-1280.layoutItem
+www.ynet.co.il##.foundMistake
 www.ynet.co.il##.multi-images-gallery.layoutItem
 www.ynet.co.il##.public-DraftStyleDefault-ul
 www.ynet.co.il##.ynet-footer.layoutItem
@@ -786,6 +811,7 @@ www2.kickassanime.rs###adultVerify___BV_modal_outer_
 www2.kickassanime.rs##.col-md-12
 www2.kickassanime.rs##.justify-content-end.d-flex.mb-0.list-inline
 www87.zippyshare.com###bottom
+||disqus.com/recommendations/$subdocument
 ||i0.wp.com/www.getpcsofts.net/wp-content/uploads/2018/10/download_green_secure_direct.png$image
 ||i1.wp.com/goo.gl/kud8Zc$image
 ||i1.wp.com/www.getpcsofts.net/wp-content/uploads/2020/01/download-button-white.png$image
