@@ -2,6 +2,66 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-06-13 https://www.tp-link.com
+www.tp-link.com###linkedin-follow
+
+! 2021-06-13 https://www.aliexpress.com
+www.aliexpress.com##.detailProductTopWarp
+www.aliexpress.com##.recommendBg
+www.aliexpress.com##.container.detail-main-detail
+
+! 2021-06-15 https://subscene.com
+subscene.com##footer
+
+! 2021-06-15 https://www.opensubtitles.org
+www.opensubtitles.org##div.footer:nth-of-type(13)
+www.opensubtitles.org##.upfooter.footer
+www.opensubtitles.org##.a_2.a.p
+www.opensubtitles.org###lang_footer
+www.opensubtitles.org###footerlinks
+www.opensubtitles.org##div.footer
+www.opensubtitles.org###n3twork_links
+www.opensubtitles.org###n3twork
+www.opensubtitles.org##div.msg:nth-of-type(11) > div:nth-of-type(1) > div
+www.opensubtitles.org##[href^="https://www.amazon.com/gp/search"]
+www.opensubtitles.org##span:nth-of-type(1) > [href="#"]
+
+! 2021-06-16 https://www.oneplus.com
+www.oneplus.com##.copy-right
+www.oneplus.com##.footer-nav
+www.oneplus.com##.hidden-in-store-app.nav-bread
+www.oneplus.com##.self-help
+www.oneplus.com###footer
+
+! 2021-06-16 https://www.gov.il
+www.gov.il##.d-print-none.lg-pt-0.xs-pt-10.border-top.second-strip
+www.gov.il###load_footer_insite > footer
+
+! 2021-06-17 https://www.bug.co.il
+www.bug.co.il##.rtl.footer-bottom
+www.bug.co.il###footer
+www.bug.co.il##.rtl.section6
+www.bug.co.il##.hide-in-mobile.brd-btm-0.rtl.products.section7
+
+! 2021-06-19 https://vpn5.health.gov.il
+vpn5.health.gov.il###page_footer
+
+! 2021-06-21 https://www.calcalist.co.il
+www.calcalist.co.il##.commertial-calcalist.layoutItem
+
+! 2021-06-21 https://www.maariv.co.il
+www.maariv.co.il##.category-one-link-wrap.category-three-articles-wrap
+www.maariv.co.il##.article-left-side-sport1-iframe
+www.maariv.co.il##.article-print-icon
+www.maariv.co.il##.article-tags
+www.maariv.co.il##.article-random-link-ul
+www.maariv.co.il##.footer-top-msg
+www.maariv.co.il##.grid-row.footer-rights
+www.maariv.co.il##.grid-row.footer-service
+www.maariv.co.il##.footer-wrap
+www.maariv.co.il##.article-left-side-container
+
+
 4pda.ru##.copyright
 4pda.ru##noindex > .borderwrap
 4pda.to##.copyright
