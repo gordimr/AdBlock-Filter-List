@@ -2,6 +2,37 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-06-24 https://mediastream.microsoft.com
+@@||web.vortex.data.microsoft.com^$script,domain=mediastream.microsoft.com
+
+! 2021-06-25 https://prnt.sc
+prnt.sc##body > .page-constrain
+prnt.sc##.footer
+
+! 2021-06-25 http://forum.oszone.net
+forum.oszone.net###collapseobj_similarthreads
+forum.oszone.net##.page > div > .smallfont
+
+! 2021-06-25 https://www.howtogeek.com
+www.howtogeek.com##.sidebar-article.widget-area
+www.howtogeek.com##.social-share.discourse
+
+! 2021-06-27 https://windows.tips.net
+windows.tips.net###pop1_s
+windows.tips.net###lightbox_backdrop
+
+! 2021-06-28 https://www.safer-networking.org
+www.safer-networking.org##.copyright
+www.safer-networking.org##.address
+
+! 2021-06-28 https://4pda.to
+||ds-assets.cdn.devapps.ru^$image,domain=4pda.to,important
+
+! 2021-06-28 https://rutracker.org
+rutracker.org##.footer-bottom-links
+rutracker.org###page_footer
+
+
 ! 2021-06-13 https://www.tp-link.com
 www.tp-link.com###linkedin-follow
 
