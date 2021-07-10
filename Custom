@@ -2,6 +2,28 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-07-07 https://www.mako.co.il
+www.mako.co.il##footer
+www.mako.co.il##.not-for-print.side-bar
+www.mako.co.il##.not-for-print.icons-bar
+www.mako.co.il##.not-for-print.share-bar
+www.mako.co.il###mako_main_glideDiv
+www.mako.co.il##.tags
+www.mako.co.il##.not-for-print.footer
+
+! 2021-07-08 https://www.amazon.com
+www.amazon.com##.a-size-mini.a-text-center.a-row
+
+! 2021-07-09 https://www.iec.co.il
+www.iec.co.il##.bottom
+
+! 2021-07-09 https://disqus.com
+||disqus.com/api/3.0/threadReactions/*$xhr,1p,important
+
+! 2021-07-09 https://israelpost.co.il
+israelpost.co.il##.footer
+israelpost.co.il##.u1st-accBtnColor-blue.u1st-accButton
+israelpost.co.il##.form-body-extraText
 4pda.ru##.copyright
 4pda.ru##noindex > .borderwrap
 4pda.to##.copyright
