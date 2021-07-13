@@ -2,6 +2,65 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-07-12 https://linkvertise.com
+linkvertise.com##.suggestions-half-wrapper
+linkvertise.com##.suggestions-full-wrapper
+linkvertise.com##.text-center.block-2 > .mt-2 > .no-border.lv-btn-scale.mt-2.lv-button-component
+linkvertise.com##lv-search-suggestions
+linkvertise.com##lv-footer-mobile
+linkvertise.com##ngx-typed-js
+linkvertise.com##lv-redirect-head
+linkvertise.com##.redirect-inner-block > .text-center.headline
+linkvertise.com##.suggestion-item-wrapper.container > .text-center.headline
+linkvertise.com##.text-center.container
+linkvertise.com##lv-user-based-link-suggestions
+linkvertise.com##.text-center.block-2 > span.credentials
+
+! 2021-07-12 https://justpaste.it
+justpaste.it##.bg-light.py-1.mt-auto.footer
+justpaste.it##.btn-default.btn-sm.btn
+
+! 2021-07-12 https://rentry.co
+rentry.co##.mb-3.w-100.text-center
+
+! 2021-07-13 https://freepaste.link
+freepaste.link##.bg-dark.navbar-light.navbar
+freepaste.link##.pt-4.mt-0.text-md-left.text-center.page-footer
+
+! 2021-07-13 https://linkvertise.com
+linkvertise.com##lv-redirect-second-page
+
+! 2021-07-13 https://pastebin.com
+pastebin.com##.footer__left
+pastebin.com##.top-footer
+pastebin.com##.-post-view.notice
+
+! 2021-07-13 https://tech.walla.co.il
+tech.walla.co.il##.only-mobile.noprint.no-mobile-app.css-icq85b
+tech.walla.co.il##.no-mobile-app.tags-list.css-1innaux
+
+! 2021-07-13 https://m.ynet.co.il
+m.ynet.co.il##.text_editor_contact_us_link
+m.ynet.co.il##.article-header-firma
+m.ynet.co.il##.originalLaunchDate
+
+! 2021-07-13 https://www.geektime.co.il
+www.geektime.co.il###enable-toolbar-trigger
+www.geektime.co.il##.wc-comment-bar
+www.geektime.co.il##.wc-comment-link
+
+! 2021-07-13 https://9to5google.com
+9to5google.com##.infinite-view-2.infinite-wrap
+9to5google.com##.author-gear
+9to5google.com##.related-guides-container
+
+! 2021-07-13 https://tech.walla.co.il
+tech.walla.co.il###xlandingzone > h3
+tech.walla.co.il##.report
+
+! 2021-07-13 https://m.ynet.co.il
+m.ynet.co.il##div.rtl.text_editor_paragraph:nth-of-type(2) > .public-DraftStyleDefault-rtl.public-DraftStyleDefault-block > span:nth-of-type(1) > span
+m.ynet.co.il###rJYuZlZTcpd > span > span
 ! 2021-07-07 https://www.mako.co.il
 www.mako.co.il##footer
 www.mako.co.il##.not-for-print.side-bar
