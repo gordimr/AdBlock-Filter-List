@@ -2,6 +2,42 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-07-13 https://www.ynet.co.il
+www.ynet.co.il##.termsOfService
+www.ynet.co.il##.text_editor_contact_us_link
+www.ynet.co.il##.SiteArticleSocialBottomShare1280
+www.ynet.co.il##.article-bottom-share-1280.layoutItem
+www.ynet.co.il##.tab
+www.ynet.co.il###main_search_weather
+www.ynet.co.il###mainAccessibilityButton
+www.ynet.co.il##.yad2
+www.ynet.co.il##.access
+www.ynet.co.il##div.layoutContainer:nth-of-type(5)
+
+! 2021-07-13 https://ksp.co.il
+ksp.co.il##.jss154
+ksp.co.il##.jss246
+ksp.co.il##.jss92
+ksp.co.il##.acess-container
+ksp.co.il##.MuiTypography-body1.jss22.MuiTypography-root > span
+||img.ksp.co.il/desctop_site/facebook.svg$image
+ksp.co.il##a.jss123:nth-of-type(3)
+||img.ksp.co.il/desctop_site/print.svg$image
+ksp.co.il##a.jss123:nth-of-type(1)
+ksp.co.il##.jss236.MuiButton-outlined.MuiButton-root.MuiButtonBase-root
+ksp.co.il##.null.jss241.MuiButton-outlined.MuiButton-root.MuiButtonBase-root
+
+! 2021-07-13 https://www.dlink.co.il
+www.dlink.co.il##.copyright
+www.dlink.co.il##.clearfix.width.footer-navigation.accordion
+
+! 2021-07-13 https://ksp.co.il
+ksp.co.il##.jss40
+ksp.co.il###main-menu-wrapper
+ksp.co.il##.jss33.MuiButton-text.MuiButton-root.MuiButtonBase-root
+ksp.co.il##.jss36.MuiButton-text.MuiButton-root.MuiButtonBase-root
+
+
 4pda.ru##.copyright
 4pda.ru##noindex > .borderwrap
 4pda.to##.copyright
