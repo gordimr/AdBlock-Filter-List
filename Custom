@@ -2,42 +2,6 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
-! 2021-07-13 https://www.ynet.co.il
-www.ynet.co.il##.termsOfService
-www.ynet.co.il##.text_editor_contact_us_link
-www.ynet.co.il##.SiteArticleSocialBottomShare1280
-www.ynet.co.il##.article-bottom-share-1280.layoutItem
-www.ynet.co.il##.tab
-www.ynet.co.il###main_search_weather
-www.ynet.co.il###mainAccessibilityButton
-www.ynet.co.il##.yad2
-www.ynet.co.il##.access
-www.ynet.co.il##div.layoutContainer:nth-of-type(5)
-
-! 2021-07-13 https://ksp.co.il
-ksp.co.il##.jss154
-ksp.co.il##.jss246
-ksp.co.il##.jss92
-ksp.co.il##.acess-container
-ksp.co.il##.MuiTypography-body1.jss22.MuiTypography-root > span
-||img.ksp.co.il/desctop_site/facebook.svg$image
-ksp.co.il##a.jss123:nth-of-type(3)
-||img.ksp.co.il/desctop_site/print.svg$image
-ksp.co.il##a.jss123:nth-of-type(1)
-ksp.co.il##.jss236.MuiButton-outlined.MuiButton-root.MuiButtonBase-root
-ksp.co.il##.null.jss241.MuiButton-outlined.MuiButton-root.MuiButtonBase-root
-
-! 2021-07-13 https://www.dlink.co.il
-www.dlink.co.il##.copyright
-www.dlink.co.il##.clearfix.width.footer-navigation.accordion
-
-! 2021-07-13 https://ksp.co.il
-ksp.co.il##.jss40
-ksp.co.il###main-menu-wrapper
-ksp.co.il##.jss33.MuiButton-text.MuiButton-root.MuiButtonBase-root
-ksp.co.il##.jss36.MuiButton-text.MuiButton-root.MuiButtonBase-root
-
-
 4pda.ru##.copyright
 4pda.ru##noindex > .borderwrap
 4pda.to##.copyright
@@ -150,6 +114,13 @@ en.wikipedia.org###footer-places
 forum.oszone.net###collapseobj_similarthreads
 forum.oszone.net###footer_c
 forum.oszone.net##.page > div > .smallfont
+forum.videohelp.com###Bottomlist2
+forum.videohelp.com###Bottomlist3
+forum.videohelp.com##.below_body
+forum.videohelp.com##.below_postlist
+forum.videohelp.com##.footer.floatcontainer
+forum.videohelp.com##.footer_copyright.shade
+forum.videohelp.com##.thread_info
 forums.thinkbroadband.com###footer
 freepaste.link##.bg-dark.navbar-light.navbar
 freepaste.link##.pt-4.mt-0.text-md-left.text-center.page-footer
@@ -203,6 +174,12 @@ ipv6-test.com##div.container > .small
 israelpost.co.il##.footer
 israelpost.co.il##.form-body-extraText
 israelpost.co.il##.u1st-accBtnColor-blue.u1st-accButton
+itel.com##.et_pb_row--with-menu.et_pb_gutters2.et_pb_row_0_tb_footer.et_pb_row
+itel.com##.et_section_regular.et_pb_section_0_tb_header.et_pb_section
+itel.com##.et_section_regular.et_pb_section_3_tb_body.et_pb_section
+itel.com##.et_section_regular.et_pb_with_background.et_pb_section_1_tb_footer.et_pb_section
+itel.com##.et_section_regular.et_pb_with_background.et_pb_section_5_tb_body.et_pb_section
+itel.com##.et_section_regular.et_pb_with_background.nohero.et_pb_section_4_tb_body.et_pb_section
 justpaste.it##.bg-light.py-1.mt-auto.footer
 justpaste.it##.btn-default.btn-sm.btn
 katfile.com##.premium
@@ -213,17 +190,30 @@ ksp.co.il###footer-wrapper
 ksp.co.il###footersnifim
 ksp.co.il###fotAd
 ksp.co.il###item-share
+ksp.co.il###main-menu-wrapper
 ksp.co.il###wrapper_bottom > div > .MariNavPopular
 ksp.co.il##.MuiButton-fullWidth.jss206.MuiButton-contained.MuiButton-root.MuiButtonBase-root
 ksp.co.il##.MuiTypography-body1.jss18.MuiTypography-root
+ksp.co.il##.MuiTypography-body1.jss22.MuiTypography-root > span
+ksp.co.il##.acess-container
 ksp.co.il##.jss151
+ksp.co.il##.jss154
+ksp.co.il##.jss236.MuiButton-outlined.MuiButton-root.MuiButtonBase-root
+ksp.co.il##.jss246
+ksp.co.il##.jss33.MuiButton-text.MuiButton-root.MuiButtonBase-root
+ksp.co.il##.jss36.MuiButton-text.MuiButton-root.MuiButtonBase-root
+ksp.co.il##.jss40
 ksp.co.il##.jss65.jss64
 ksp.co.il##.jss65.jss64 > div
 ksp.co.il##.jss73
 ksp.co.il##.jss84
 ksp.co.il##.jss84 > div > .MuiTypography-body1.MuiTypography-root
 ksp.co.il##.jss88
+ksp.co.il##.jss92
+ksp.co.il##.null.jss241.MuiButton-outlined.MuiButton-root.MuiButtonBase-root
 ksp.co.il##[href^="https://ksp.co.il/lastNewMail"]
+ksp.co.il##a.jss123:nth-of-type(1)
+ksp.co.il##a.jss123:nth-of-type(3)
 lineageosroms.com##.chlebek
 linkvertise.com##.redirect-inner-block > .text-center.headline
 linkvertise.com##.suggestion-item-wrapper.container > .text-center.headline
@@ -394,10 +384,13 @@ tech.co##.no-lazy-loading.cta-area.cta
 tech.co##.recent-posts
 tech.co##.widget-area.col-lg-3.offset-lg-1.col-md-4.col-12
 tech.walla.co.il###xlandingzone > h3
+tech.walla.co.il##.icon-buttons
 tech.walla.co.il##.no-mobile-app.tags-list.css-1innaux
 tech.walla.co.il##.noprint.css-1vragmb
 tech.walla.co.il##.only-mobile.noprint.no-mobile-app.css-icq85b
 tech.walla.co.il##.report
+tech.walla.co.il##.walla-icon-magnifier
+tech.walla.co.il##.walla-icon-printer.no-mobile.noprint.css-10e7vqz
 techviral.net##.td_block_bot_line.td_block_padding.td-column-1.td_block_template_9.td-pb-border-top.tdi_7.td_block_widget.td_block_9.td_block_wrap
 techviral.net##.td_block_template_9.td-pb-border-top.td_with_ajax_pagination.tdi_3.td_block_related_posts.td_block_wrap
 techviral.net##.tdc-footer-wrap
@@ -584,6 +577,8 @@ www.calcalist.co.il##div.banner.new.General.layoutItem
 www.calcalist.co.il##div.calcalist-most-viewed-auto.layoutItem
 www.daganm.co.il##.footer-bottom > .container
 www.daganm.co.il##.height-matched.match-height.items-in-row-1.margin-top-sm.template-pages_rows.widget-index.widget
+www.dlink.co.il##.clearfix.width.footer-navigation.accordion
+www.dlink.co.il##.copyright
 www.dlink.ru##.copyright
 www.driverscape.com##.footer
 www.electra-trade.co.il###credits
@@ -608,6 +603,13 @@ www.facebook.com###pageFooterChildren
 www.facebook.com###reg_pages_msg
 www.facebook.com##.copyright.mvl
 www.facebook.com##footer
+www.foodappeal-online.com###designbox_2024
+www.foodappeal-online.com###designbox_2039
+www.foodappeal-online.com###eshop-footer-credit
+www.foodappeal-online.com###floating-icons
+www.foodappeal-online.com##.col-md-3.col-12.order-md-1.order-3.column
+www.foodappeal-online.com##.pb-md-0.pb-4.col-md-6.col-12.order-md-2.order-1.column
+www.foodappeal-online.com##.text-md-right.text-center.col-md-3.col-12.order-md-3.order-2.column
 www.fxp.co.il###big-wap
 www.fxp.co.il###first-post-location
 www.fxp.co.il###footer
@@ -971,18 +973,28 @@ www.xda-developers.com##.entry_tags
 www.xda-developers.com##.tagbar
 www.xda-developers.com##.xda_suggested_apps.widget
 www.xvideos.red##footer
+www.ynet.co.il###mainAccessibilityButton
+www.ynet.co.il###main_search_weather
 www.ynet.co.il##.ArticleTagsComponent
 www.ynet.co.il##.CreditLogos
 www.ynet.co.il##.FooterLogos
+www.ynet.co.il##.SiteArticleSocialBottomShare1280
 www.ynet.co.il##.SiteArticleSocialBottomShare1280 > .iconsWrapper
 www.ynet.co.il##.SiteArticleSocialShare1280
 www.ynet.co.il##.SiteArticleSocialShareNew1280
 www.ynet.co.il##.ToolsAndAbout
+www.ynet.co.il##.access
+www.ynet.co.il##.article-bottom-share-1280.layoutItem
 www.ynet.co.il##.article-tags-1280.layoutItem
 www.ynet.co.il##.foundMistake
 www.ynet.co.il##.multi-images-gallery.layoutItem
 www.ynet.co.il##.public-DraftStyleDefault-ul
+www.ynet.co.il##.tab
+www.ynet.co.il##.termsOfService
+www.ynet.co.il##.text_editor_contact_us_link
+www.ynet.co.il##.yad2
 www.ynet.co.il##.ynet-footer.layoutItem
+www.ynet.co.il##div.layoutContainer:nth-of-type(5)
 www.ynet.co.il##div.rtl.text_editor_paragraph:nth-of-type(2) > .public-DraftStyleDefault-rtl.public-DraftStyleDefault-block
 www.ynet.co.il##div.rtl.text_editor_paragraph:nth-of-type(2) > .public-DraftStyleDefault-rtl.public-DraftStyleDefault-block > span > span
 www.youtube.com###copyright
@@ -1037,6 +1049,8 @@ www87.zippyshare.com###bottom
 ||i1.wp.com/goo.gl/kud8Zc$image
 ||i1.wp.com/www.getpcsofts.net/wp-content/uploads/2020/01/download-button-white.png$image
 ||images-na.ssl-images-amazon.com/images/G/01/pxd/marketing/diamond/ILMs/non-incentive/Diamond_Center-28_650X45_Text1._CB419094158_.png$image
+||img.ksp.co.il/desctop_site/facebook.svg$image
+||img.ksp.co.il/desctop_site/print.svg$image
 ||ksp.co.il/m_action/api/footer-items$1p,important
 ||ksp.co.il/m_action/api/promotion/*$1p,important
 ||lps.ynet.co.il/yframe/newsletter_article/$subdocument
